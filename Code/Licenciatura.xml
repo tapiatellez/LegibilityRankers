@@ -1,0 +1,3296 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<body>
+<Informacion xmlns='http://www.w3.org/1999/xhtml' >
+
+<style type='text/css'>
+	
+@charset 'utf-8';
+
+table{
+	border: 1px black solid;
+	border-radius: 5px;
+	min-width: 400px;
+	font-family: Helvetica,Arial;
+	margin-top: 10px;
+	margin-right: 40px;
+	margin-bottom: 10px;
+	margin-left: 40px;
+	} 
+
+table td{
+	padding:7px;
+    text-align:justify;
+	}
+
+.tablas_corpus { 
+	font-family: Arial, Helvetica, sans-serif;
+	line-height:25px;
+	float:left;
+	}
+
+.tablas_corpus table{
+	font-family: 'Lucida Sans Unicode', 'Lucida Grande', Sans-Serif;
+	font-size: 14px;
+	text-align: left;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	}
+
+.tablas_corpus th {
+	font-size: 13px;
+	font-weight: normal;
+	padding: 8px;
+	background: #b9c9fe;
+	color: #039;
+	border: 1px solid #FFFFFF;
+	}
+
+#campos{
+    text-align:center;
+    font-weight: bold;
+    color: #4646C1;
+	}
+
+.tablas_corpus td {
+	padding: 8px;
+	background: #e8edff;
+	color: #4E4E4E;
+	border: 1px solid #fff;
+	}
+
+.tablas_corpus tr:hover td { 
+	background: #d0dafd; 
+ 	}
+
+h1 {
+	color: #666666;
+ 	font-family: Helvetica Neue, Arial, Helvetica, sans-serif;
+	letter-spacing: -1px;
+	text-decoration: none; 
+	text-shadow: 2px 2px #fff, 0 0 #0e0e0e, 3px 4px 2px #e3e3e3; 
+	text-transform: none; 
+	word-spacing: -2px;
+	}
+
+.titulo{
+	width: 1000px;
+	height: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #BDDDF2;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 50px;
+	border-radius: 26px 26px 26px 26px;
+	}
+
+resultados{
+	float: right;
+	padding-right: 100px;
+    font-weight: bold;
+	margin-top: 40px;
+	margin-bottom: 10px;
+	}
+
+</style>
+<div class='titulo'> <center><h1> INAOE CORPUS </h1></center> </div>
+<resultados> Resultados = 150</resultados>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Existen muchos factores que se incluyen en el diseño de una interfaz del usuario. Además de las operaciones específicas que se pondrán a disposición del usuario, debemos considerar cómo se organizarán los menús, cómo responderá la unidad a la entrada de datos y a los errores generados, cómo se organizará el despliegue de salida, y como se documentará y explicará el uso de la unidad.
+Para simplificar el trabajo a realizar, se tomará como base una herramienta ya existente, que ofrece todas las posibilidades citadas anteriormente con la desventaja de que estas han sido implementadas en modo texto, esto es que solo se cuenta con despliegues de caracteres gráfico pre-establecidos. Debe considere el hecho de que el tomar como base un paquete ya existente, no minimiza el trabajo ya que solo se tomará la estructura de este, correspondiéndole a los desarrolladores, el analizar, depurar, diseñar e implementar todas aquellas funciones y procedimientos que se incluyan</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Entre los elementos que constituyen el sistema se establece un bosquejo esquemático de aquellos que están relacionados entre sí, lo cual se hace por medio de un diagrama en el cual los nombres de los distintos elementos están unidos entre sí por flechas. El diagrama que así se obtiene recibe las denominaciones de diagrama causal.
+El diagrama causal permite conocer la estructura de un sistema dinámico. Esta estructura viene dada por la especificación de las variables que aparecen en el mismo, y por el establecimiento de la existencia, o no existencia, de una relación entre cada par de variables.
+El diagrama causal no contiene información cuantitativa sobre la naturaleza de las relaciones que ligan a los distintos elementos, sino que solo suministra un bosquejo esquemático de las relaciones de influencia causal.
+En un diagrama causal complejo se pueden distinguir bucles realimentados. Un bucle realimentado es una cadena cerrada de
+1.-Rrelaciones causales, estos pueden ser bucles de realimentación positiva (son aquellos en los que la variación de un elemento se propaga a lo largo del bucle de manera que se refuerza la variación inicial) o bucles de realimentación negativa (son aquellos en los que una variación en un elemento se transmite a lo largo del bucle de manera que determine una variación de signo contrario en el mismo elemento).
+En todo diagrama causal coexisten normalmente bucles de re alimentación positiva con bucles de re alimentación negativa. Las interacciones entre ambos tipos de bucles determinan el comportamiento global del sistema.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Existen varias metodologías que pueden ayudar a la hora de iniciar esta trayectoria entre las
+que destacaríamos las siguientes:
+		*	ISO/UNE 17799:2000 Código de buenas prácticas de la Gestión de la Seguridad de la
+Información.
+		*	Reglamento de Medidas de Seguridad RD994/1999.
+		*	UNE 71501 Guía para la gestión de la seguridad de las Tecnologías de la
+Información.
+Aunque el proceso de implantación completo de políticas de seguridad, con el conjunto de
+normas y procedimientos, puede resultar intimidante para algunas organizaciones, un marco
+como el que puede proporcionar la norma ISO17799 ayuda a la dirección, en su fase de
+concienciación e implantación, y al Departamento de Sistemas, en la parte de
+mantenimiento, a administrar la seguridad de manera más eficiente y efectiva.
+La experiencia ha demostrado que los siguientes factores son a menudo críticos para la
+satisfactoria implantación de la seguridad de la información en una organización:
+		*	Normativa de seguridad, objetivos y actividades que reflejan los objetivos del negocio.
+		*	Enfoque para la implantación de medidas de seguridad coherentes con la política de
+la organización.
+		*	Apoyo visible y compromiso por parte de la dirección.
+		*	Buen entendimiento de los requisitos de seguridad, evaluación y gestión de riesgos.
+		*	Marketing de seguridad efectivo para todos los directivos y empleados.
+		*	Distribución de asesoramiento acerca de la normativa y los estándares de la seguridad
+de la información a todos los empleados y personal subcontratado.
+		*	Facilitar una formación y educación apropiadas.
+		*	Sistema de medición exhaustivo y equilibrado para evaluar la gestión de la seguridad
+de la información, del cual se obtengan sugerencias para realizar mejoras.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Metodología de desarrollo de software Orientado por Objetos
+Una metodología de desarrollo de software Orientado a Objetos consta de
+0 Conceptos y diagramas
+0 Etapas y definición de entregas en cada una de ellas
+Actividades y recomendaciones</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>El Personal Software Process, conocido por sus siglas como PSP, es una metodología de
+reciente creación, proveniente del Instituto de Ingeniería del Software (SEI). PSP es una
+alternativa dirigida a los ingenieros de sistemas, que les permite mejorar la forma en la que construyen software. Considerando aspectos como la planeación, calidad, estimación de costos y productividad.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Para la creación del tutorial de redes se usó la siguiente metodología:
+Especificación del proyecto
+Recopilación de notas de cursos
+Análisis de las notas recopiladas
+Desafío de pantallas
+Diseño del a red de hipertexto y la
+Generación de manuales
+En la etapa de Recopilación de notas de cursos, se utilizaron las notas de las materias:
+Transmisión de datos
+Teleinformática
+Redes de computadoras
+Sistemas abiertos e interconectividad
+Unix-TCP/IP
+TCPAP para estaciones de trabajo
+Con respecto a la etapa de Análisis de las notas micropiladas de las materias mencionadas anteriormente se hizo uso de los aspectos más importantes, de tal forma que el tutorial de redes contiene resúmenes de cada materia. Para la elaboración del temario del tutorial de redes re viso el contenido temático dela s materias Teleinformática y Transmisión de datos de la Universidad Autónoma
+Metropolitana plantel Iztapalapa y de la materia Redes de computadoras de la Fundación Muro Rosenblueth, proponiéndose el siguiente temario para el tutorial:
+
+
+Unidad 1
+Unidad 2
+Unidad 3
+Unidad 4
+Unidad 5
+Unidad 6
+
+Introducción a las redes
+Introducción a los estándares
+Redes de área local
+Administración de redes locales interconectividad de redes y Internet
+
+Este temario es empleado en la carrera de Técnico Superior Universitario en
+Informática en la División de Informática y Computación de la Universidad
+Tecnológica de Nezahualcóyotl.
+Una vez que se tenía el contenido temático del tutorial, se redactó todo el texto.
+Posteriormente se seleccionaron y digitalizaron las imágenes que contendría el tutorial. Es importante mencionar que se contó con el apoyo del laboratorio de multimedia de la UTN para llevar a cabo la digitalización de las imágenes. Estas imágenes fueron almacenadas en archivos tiBpoM P (Bitmap).
+Considerando que hay una gran variedad de terminología en la materia de redes, se procedió a la identificaci6n de aquellos t6rminos que aparecen con mayor frecuencia en los libros y revistas relacionados con redes. Estos términos o conceptos fueron empleados compo o pup's3 en el tutorial.
+Se generó un curso guiado con un entorno amigable, mostrando imágenes ad hoc a la información que este leyendo el usuario, es por eso que en la etapa de diseiio de pantallas se siga como prototipo, el manejo de pantallas generados por
+Microsoft en sus diversos cursos guiados. Lo cual conlleva a seleccionar un icono, ya sea por medio del mouse o bien, con las teclas de control.
+En el diseño de la red de hipertexto se indica la forma en que el alumno puede navegar a través de la red en cada una de las unidades del tutorial, para reducir el problema del overhead cognoscitivo en el tutonet, es decir para evitar que el alumno tenga muchísima información de la que sea capaz de asimilar su propuso un diseño que no permite internarse mucho en la reAd.
+Continuación se muestra este diseño:
+En las siguientes figuras se ilustra la forma en que el alumno puede navegar a través de la red de hipertexto en cada una de las unidades del curso guiad
+
+Esta unidad cuenta con un botón llamado In froducc13na /as redes, en el momento en que el alumno seleccione esta unidad, podrá accesar a cinco nodos principales, los cuales a su vez se ramifican en mBs nodos, como se ilustra en la figura anterior. Por ejemplo, si el alumno quisiera saber sobre los satélites mexicanos, deberá navegar a través de la red de hipertexto de la siguiente manera:
+Seleccionar el icono correspondiente a la unidad Introducción al as redes, posteriormente elegir Medios de transmisión, luego Satélitesy por ultimo el Caso de estudio: Satélites mexkanorr. De manera similar se encuentran estructurado la red de hipertexto en cada una de las unidades de este tutorial.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La metodologia seguida para el diseño de los programas consistio basicamente en cuatro 
+partes, las cuales son:
+1.- Diagramas de flujo de datos.
+2.- Diagramas de escritura.
+3.- Pseudocodigo.
+4.- Codificacion en Turbo Pascal.
+
+Para los dos primeros algoritmos descritos en la sección anterior se muestran tanto los diagramas de flujo de datos como los de escritura. En cuanto al pseudocodigo, este es muy similar a la codificación en Turbo Pascal, por lo cual se omite su presencia.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La metodologia seguida se basa principalmente en la elaboracon de un documental donde se reporto lo investigado en el campo de las frecuencias del habla que se requieren para teer un conocimiento suficiente y entender  con mayor claridad el problema de los formantes, por lo que despues de haber analizado varios escritos y haber analizado tambien el manual del usuario del sistema VIDEO VOICE se procedio a analizar el contenido del paquete y posteriormente se realizo su traducción ya que es un sistema grande de llevo un buen tiempo de traducción, esto permitió en colaboración de un hospital realizar las pruebas necesarias a fin de que se rectificar su total fidelidad, con respecto al sistema original, en si no se trabajo con la ayuda del paquete llamado sistema mismo que se tradujo con la ayuda del paquete llamado  "PCTOOLSversionVE", esto porque se vi o que es una buena modificaciones necesarias y pertinentes.
+
+Sin embargo al pruebas fueron escasas debido a la secuencia de  los asesores, por lo que se trabajo poco al respecto, aunque en realidad, por lo que se trabajo poco al respecto, qun que en realidd no eran necesarias, ya que durante la elaboración de la traducción al parejo, tambien se realizo pruebas en el sistema original, esto vino a dar mucha experiencia en el manejo del sistema por lo que cuando se termino la traducción se probo en su totalidad el nuevo sistema y en gran medida se sabia que era lo que podía realizar</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>1. Estudio de los manuales (Function Point Counting Practice Manual)
+2. Resolución de ejercicios supervisados por el asesor
+3. Métrica a las aplicaciones
+    a. Observar y analizar el funcionamiento de los sistemas a medir
+i. Obtener y leer manuales
+ii. Observar a nivel operativo el sistema	
+    b. Aplicar el proceso de medición de puntos funcionales a cada aplicación
+i. Determinar el tipo de cuenta
+ii. Determinar el alcance y la frontera de la aplicación
+1. Establecer el propósito de la cuenta
+2. Identificar el alcance de la cuenta
+3. Identificar la frontera de la aplicación
+iii. Contar funciones de datos
+1. Identificar Archivos Internos Lógicos
+2. Identificar Archivos Externos de Interfaz
+3. Determinar la complejidad y la contribución
+iv. Contar funciones de transacción
+1. Identificar procesos elementales
+2. Identificar primeros candidatos de procesos elementales, clasificarlos como un EI, EO o EQ
+3. Validar contra las reglas de identificación de EI's
+4. Determinar la complejidad de las EI's
+5. Determinar la contribución de las EI's
+6. Validar contra las reglas de identificación de EO's
+7. Determinar la complejidad de las EO's
+8. Determinar la contribución de las EO's
+9. Validar contra las reglas de identificación de EQ's
+10. Determinar la complejidad de las EQ's
+11. Determinar la contribución de las EQ's
+v. Determinar la complejidad y ajustes
+1. Evaluar cada uno de las catorce características generales del sistema, en una escala de cero a cinco para determinar el grado de influencia
+(DI)
+2. Sumar los grados de influencia de todas las catorce características generales del sistema para producir el grado total de influencia (TDI)
+3. Calcular el Valor de factor de ajuste (VAF)
+vi. Calcular los puntos funcionales ajustados
+En base al tipo de conteo, se calcula el valor de la cuenta con la fórmula adecuada.
+4. Elaboración del reporte</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La metodología utilizada para el desarrollo del Sistema, se basa en la aplicación de las fases relativas al ciclo de vida de un Sistema de cómputo.
+l. Acopio de información relacionada con el Sistema.
+2. Definición de los objetivos generales y alcance del proyecto.
+3. Análisis de viabilidad.
+4. Diseño conceptual y elección de soluciones técnicas óptimas para implantación.
+5. Construcción.
+6. Realización de pruebas y mejoras.
+7. Implantación final</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La metodología de Booch usa los siguientes tipos de diagramas para describir las decisiones de análisis y diseño, tácticas y estratégicas, que deben ser hechas en la creación de un sistema orientado por objetos. 
+1. Diagrama de Clases. Consisten en un conjunto de clases y relaciones entre ellas. Puede contener clases, clases paramétricas, utilidades y metaclases. Los tipos de relaciones son asociaciones, contenencia, herencia, uso, instanciación y metaclase. 
+2. Especificación de Clases. Es usado para capturar toda la información importante acerca de una clase en formato texto. 
+3. Diagrama de Categorías. Muestra clases agrupadas lógicamente bajo varias categorías 
+4. Diagramas de transición de estados. 
+5. Diagramas de Objetos. Muestra objetos en el sistema y su relación lógica. Pueden ser diagramas de escenario, donde se muestra cómo colaboran los objetos en cierta operación; o diagramas de instancia, que muestra la existencia de los objetos y las relaciones estructurales entre ellos. 
+6. Diagramas de Tiempo. Aumenta un diagrama de objetos con información acerca de eventos externos y tiempo de llegada de los mensajes. 
+7. Diagramas de módulos. Muestra la localización de objetos y clases en módulos del diseño físico de un sistema. Un diagrama de módulos representa parte o la totalidad de la arquitectura de módulos del sistema. 
+8. Subsistemas. Un subsistema es una agrupación de módulos, útil en modelos de gran escala. 
+9. Diagramas de procesos. Muestra la localización de los procesos en los distintos procesadores de un ambiente distribuido.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Bajo DOS, se utiliza la herramienta CP,-CLIPPER 5.01 la cual maneja una de las técnicas más conocidas y utilizadas en bases de datos comerciales (Xbases), los cuales generan archivos de indexación en forma de árboles B balanceados y archivos en formato DBF.
+Bajo WINDOWS se utilizó Visual Básic 3.00 de Microsoft, que hace uso de la base de datos relaciona1 de Access de Microsoft.
+El Depto. de Ingeniería Biomédica ya cuenta con la tarjeta de adquisición (PClab 812), el electroencefalógrafo Nihon Kohden (EEG 1W) de 12 canales y el sistema de estimulación.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>El cumplimiento del objetivo de este trabajo fue un proceso en el cual siempre se buscó tener bases sólidas y puntos de referencia como el modelo de tolerancia a fallas SénecaTaF [I2003], el cual fue un punto básico del cual partir. Una de los principios seguidos fue tratar de preservar lo más posible el trabajo hecho por los desarrolladores de la versión de Séneca-j que se tomó como punto de partida. Se realizó la implementación tratando en todo momento de seguir con la línea de proyecto académico sin la utilización de herramientas comerciales, y buscando siempre la mayor flexibilidad para el desarrollo en el ámbito académico. Se buscó hacer una implementación práctica y ligera que pudiera ser extensible y que ocupara lo menos posible los recursos del sistema.
+El proceso del desarrollo del proyecto comprendió varias etapas, la primera de ellas fue dedicada totalmente al estudio teórico del funcionamiento de los sistemas distribuidos y del middleware, lo cual contribuyó en el desarrollo del proyecto aportando además bases de diseño útiles para la toma de decisiones en el momento de la implementación. Posteriormente, con las bases bien definidas, se procedió con el estudio detallado del modelo Séneca y su implementación. Estas dos etapas fueron de gran aporte para el planteamiento del problema, ya que los conceptos y conocimientos adquiridos en la primera etapa pudieron tomar una vertiente aplicativa que se tradujo en un mejor entendimiento del problema hacia la segunda etapa.
+Un punto clave que surgió en la etapa de implementación fue aquel en el que se buscaba la forma en que el desarrollador de componentes pudiera especificarle al sistema su necesidad de tolerancia a fallas, para la resolución de este subproblema se tomó como referencia el modelo de tolerancia a fallas SénecaTaF [I2003] que ayudó a aclarar la forma de enfrentar el problema, mediante la inclusión de la cláusula toleranceFault.
+Otro punto clave fue el afán de seguir con la línea de proyecto académico. Debido a esto, se incluyó para el proyecto el nivel de tolerancia que aporta mayor grado de flexibilidad, en cuanto a que el desarrollador de componentes puede decidir qué componentes quiere que sean bitacorizados. Además se buscó el mayor grado de flexibilidad y robustez de la implementación al trabajar con el motor de plantillas Velocity como generador de clases.
+La implementación de los nuevos actores tuvo lugar después de haber realizado un análisis de varias propuestas internas, tras el cual, se eligió la opción de implementación más adecuada con el plan de trabajo.
+Se buscó integrar el mecanismo de bitacorización de forma que la implementación pudiera gozar de su funcionalidad sin arriesgar la que ya tenía, acoplando las clases en el diseño original y respetando el paradigma en el que se basa, de esta forma, se integró el manejador de tolerancia en la parte de la implementación que da funcionalidad a los componentes.
+Mediante el mecanismo de bitacorización, Séneca-j es capaz de bitacorizar las invocaciones hechas a los componentes guardando un registro detallado de la actividad de los clientes y los componentes. Con la bitacorización del estado de los componentes Séneca-j puede llevar un registro de sus cambios de estado y por lo tanto del estado de la implementación. Además la bitácora persistente almacena información importante sobre la implementación, a partir de la cual es posible evitar las fallas tipo caída amnésica.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La base de datos “UAMI-CIMIGEN fue desarrollada utilizando MySQL para el manejo de bases de datos, PHP para la programación de interfaces y Rational Rose 2000 para el modelado. El software de bases de datos MySQL es un sistema cliente/ servidor que se compone de un servidor SQL (“Lenguaje estructurado de consulta) multihilo, programas clientes, bibliotecas, herramientas administrativas y una gran variedad de interfaces de programación que hacen de este software un sistema con velocidad, conectividad, y seguridad muy apropiados para acceder a bases de datos en Internet. Por otra parte, PHP permite integrar de manera rápida y sencilla el acceso a bases de datos en páginas HTML, ya que el procesamiento de las interfaces se lleva a cabo en el servidor y no en la PC del usuario, además que el código que interpreta o genera páginas se puede incluir en el mismo archivo disminuyendo el costo de mantenimiento en sitios dinámicos. Otras características de PHP relacionadas con la seguridad en el manejo de la información que fueron utilizadas en este trabajo, son la generación de usuarios con clave de acceso y la negativa del libre acceso por historial a los datos insertados o modificados en pantallas anteriores.
+El proceso de desarrollo de la base “UAMI-CIMIGEN consistió de tres etapas, para las cuales siempre resultó indispensable la retroalimentación con el usuario:
+1 recopilación y análisis de requisitos
+2. diseño y esquema conceptuales
+3. diseño físico.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Para analizar los datos se utilizó redes de Kohonen (ver apéndice A), el cual, está implementado en el software llamado SOMtoolbox de Matlab. Para que este programa clasificara los datos y poder así hacer el análisis respectivo de los parámetros, se introdujeron estos en grupos de 2 o 3, los cuales, para las redes de Kohonen representan vectores de 2 o 3 dimensiones respectivamente. Los grupos que se analizaron fueron los siguientes:
+A) Promedio y desviación estándar de F0 ( Frecuencia fundamental) donde está definida, y
+Promedio de F0 por frase.
+B) Promedio, Máximo y Mínimo de F0 en la sílaba estresada de cada frase.
+C) Promedio, desviación estándar y rango de la formante 1.
+D) Promedio, desviación estándar y rango de la formante 2.
+E) Promedio, desviación estándar y rango de la formante 3.
+F) Promedio, desviación estándar y rango de la formante 4.
+G) DuraciÁ²n de pausas y duración de la parte sonora.
+H) Promedio y desviación estándar de la intensidad por frase, en segmentos de 30 milisegundos.
+I) Promedio, desviación estándar de la intensidad por frase e intensidad de la sílaba estresada.
+Después del análisis de cada grupo se observó cuál de todos ellos caracteriza mejor a las emociones, para determinarlo se observaron los 3 tipos diferentes de diagramas básicos que nos proporciona el SOMtoolbox: U-Matriz (en el cual se pueden observar los grupos o clústers en los cuales se clasificaron los datos), diagramas de las variables, donde se puede observar que tan alejados están los datos de cada emoción y el último diagrama nos muestra por medio de etiquetas los datos de cada emoción y de esta manera podemos apreciar si la clasificación ha sido buena o no. Después de observar cual grupo es el que caracteriza mejor las emociones (el mejor clasificado), se añadió un parámetro de cada uno de los demás grupos para observar si se mejoraba la clasificación obtenida hasta entonces.
+Cabe aclarar que por cada grupo el mapa de Kohonen se inicializó primero de manera lineal, y después para el mismo grupo el mapa de Kohonen se inicializó con valores aleatorios.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Para el análisis de este sitio web se utilizó parte de la metodología orientada a objetos desarrollada por Booch, Rumbaugh y Grady utilizando UML (Unified Modeling Language) para la notación; el arranque del desarrollo de este sitio se inició con un "análisis de requerimientos", es decir, uno de los usuarios desempeña el papel de asesor en lo que respecta a la funcionalidad que se desea tenga el sitio y que se le conoce como "usuario clave", que para este proyectof ue la profesora Julia. El análisis de requerimientos se divide en 3 partes:
+*	Modelo de casos
+*	Modelo de interfaz
+*	Modelo del dominio del problema
+El primero se encarga de ver qué operaciones va a realizar el sistema con el usuario, cada una se especifica con una serie de pasos a seguir, estas secuencias de eventos son revisadas por el usuario clave hasta que dice
+"bien". El segundo maneja la interfaz con el usuario, es decir, qué es lo que va a ver y la secuencia de las pantallas que le son mostradas. Finalmente el tercero tiene que ver directamente con la forma en que la información (que utilizan los usuarios) se relaciona entre sí.
+
+Para el diseño se utilizaron los diagramas de colaboración, estos nos sirven para que de acuerdo a los pasos a seguir de cada caso, se indican las rutinas de programación (o métodos) a crear. Cada caso es Único, las situaciones de error (ingreso de errores por parte del usuario o algún otro suceso inesperado) se manejan como otro caso.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Primero debemos crear una página que capture ( formulario ) todos los datos referentes a la materia a la cual pertenece el examen que está a punto de ser creado, también que capture datos personales del profesor, así como una contraseña la cual se utilizará para hacer modificaciones posteriores al examen y también consultar estadísticas sobre dicho examen.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La metodología se divide en 4 fases:
+
+Fase de análisis del objeto
+Fase de diseño del sistema
+Fase de diseño del objeto
+Fase de implantación
+A continuación se muestra lo que se debe hacer en cada fase:
+
+Fase del análisis del objeto
+DISEÑO E IMPLANTACION DE UNA BASE DE DATOS EMPLEANDO EL PARADIGMA RELACIONAL Y EL
+PARADIGMA ORIENTADO A OBJETOS: UN ENFOQUE COMPARATIVO 29
+- Escribir el enunciado del problema
+- Construir un modelo del objeto
+Modelo del Objeto = Diagrama del Modelo del Objeto + Diccionario de Datos
+Una descripción de la estructura de los objetos en un sistema incluyendo su identidad, relaciones con otros atributos y operaciones.
+- Desarrollar un modelo dinámico:
+Modelo Dinámico = Diagramas de Estado + Diagrama Global de Flujo de Eventos
+Una descripción de los aspectos de un sistema relacionado con el control, incluyendo el tiempo, secuencia de operaciones y la interacción de los objetos.
+- Construir un modelo funcional
+Modelo Funcional = Diagramas de Flujo de Datos + Constrains
+Una descripción de los aspectos de un sistema que transforma valores usando funciones, mapeos, constrains y dependencias funcionales.
+
+La metodología se divide en 4 fases:
+Fase de análisis del objeto
+Fase de diseño del sistema
+Fase de diseño del objeto
+Fase de implantación
+A continuación se muestra lo que se debe hacer en cada fase:
+Fase del análisis del objeto
+DISEÑO E IMPLANTACION DE UNA BASE DE DATOS EMPLEANDO EL PARADIGMA RELACIONAL Y EL
+PARADIGMA ORIENTADO A OBJETOS: UN ENFOQUE COMPARATIVO 29
+- Escribir el enunciado del problema
+- Construir un modelo del objeto
+Modelo del Objeto = Diagrama del Modelo del Objeto + Diccionario de Datos
+Una descripción de la estructura de los objetos en un sistema incluyendo su identidad, relaciones con otros atributos y operaciones.
+- Desarrollar un modelo dinámico:
+Modelo Dinámico = Diagramas de Estado + Diagrama Global de Flujo de Eventos
+Una descripción de los aspectos de un sistema relacionado con el control, incluyendo el tiempo, secuencia de operaciones y la interacción de los objetos.
+- Construir un modelo funcional
+Modelo Funcional = Diagramas de Flujo de Datos + Constrains
+Una descripción de los aspectos de un sistema que transforma valores usando funciones, mapeos, constrains y dependencias funcionales.
+- Verificar, iterar, y refinar los 3 modelos:
+Documentación del Análisis = Enunciado del Problema + Modelo del Objeto + Modelo
+Dinámico + Modelo Funcional
+
+Fase del diseño del sistema
+La primera etapa de diseño, durante la cual las decisiones de alto nivel se hacen acerca de la estructura general del sistema, su arquitectura, etc.
+Documentación del Diseño del Sistema = Estructura de la arquitectura básica para el sistema así como las decisiones estratégicas de alto nivel.
+
+Fase del diseño del objeto
+En esta etapa, nos movemos de la orientación del mundo real del modelo de análisis hacia la orientación de la computadora requerida para una implantación particular.
+Documentación del Diseño = Modelo del Objeto detallado + Modelo Dinámico + Modelo
+Funcional.
+
+
+
+Fase de implantación
+En esta etapa, el diseño establecido en el OOA/OOD se realiza en una forma estable.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La metodología para el análisis y diseño del sistema que se utilizó en este proyecto fue la
+Ingeniería de Software Orientada a Objetos (ISOO). A continuación se explica en que consiste dicha metodología:
+Las metodologías de análisis y diseño con orientación a objetos constituyen, hoy en día, la mejor opción para diseñar y construir sistemas robustos, flexibles y confiables, en corto tiempo, aún para las aplicaciones más complejas.
+Sus procesos se centran en la elaboración de modelos de sistema. En el caso de la ISOO los procesos que la integran</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Un programa en Windows, ya sea una aplicación de gestión o un videojuego, requiere siempre una serie de inicializaciones, como son crear la ventana, definir el tipo de aplicación y varias cosas más. Los lectores que hayan hecho antes algún programa en Windows estarán familiarizados con estas inicializaciones. Nuestra primera tarea consistirá en crear dicha inicialización.
+El programa de ejemplo número 1, que se encuentra completo en el CD del libro, lo único que hace es iniciar la aplicación y esperar a que he pulse escape. Al ejecutarse, se observará que aunque nada cambia en el escritorio de Windows, el ratón desaparece de la pantalla y no se puede hacer nada. Cuando se pulse una tecla el programa terminará y volverá a aparecer el ratón en el escritorio de Windows.
+Ya desde aquí empiezan a verse las diferencias entre los programas de gestión y los videojuegos. La inicialización de una aplicación de gestión habría abierto una ventana en el escritorio de Windows y habría permitido que se siguiera viendo el ratón, ya que este tipo de programas trabajan dentro de ventanas y permiten que otros programas se estén manejando de manera simultánea bajo el escritorio de Windows.
+Sin embargo, los videojuegos no son aplicaciones que se ejecuten normalmente en una ventana, sino que se apropian de toda la pantalla del computador. Cuando ejecutamos un videojuego comercial normalmente el escritorio es sustituido por la pantalla de presentación y los menús del juego. Bajo esta perspectiva es normal que la inicialización de nuestro juego se ejecute en exclusiva y se ponga por encima de las otras aplicaciones que se estén ejecutando en el computador.
+Otra diferencia fundamental es el bucle de mensajes de un videojuego. Todo programa Windows tiene una parte que gestiona los mensajes. Por ejemplo, si se pulsa una tecla o el ratón presiona sobre cierta zona de la pantalla, se realiza tal acción. Normalmente, en cualquier programa, si no sucede ningún evento dentro de la ventana de la aplicación, se supone que el usuario no está en ese momento usando dicha aplicación y ésta pasa a un estado de espera en el cual apenas usa recursos de sistema hasta que se genera un nuevo evento dentro de su ventana. De esta manera se ahorran al máximo los recursos del sistema, y las aplicaciones que están ejecutándose pero que no están activas se quedan al a espera gastando el mínimo de recursos. Casi todas las aplicaciones de gestión se hacen bajo esta perspectiva de economía.
+Sin embargo, un videojuego no es así, no suele tener estados de espera. Aunque no se reciba ningún evento por parte del usuario, los personajes que están actuando en pantalla deben seguir activos y realizando sus movimientos. Desde este punto de vista los videojuegos pueden ser considerados programas "egoístas", ya que intentan apropiarse del máximo de los recursos del sistema, sin dejar tiempo de proceso a las otras aplicaciones que estaban activas en el computador. Cuando ejecutamos un juego, queremos que el juego vaya lo más rápido posible, así que es normal que un videojuego requiera para él toda la potencia del sistema.
+Como se dijo anteriormente, los videojuegos no suelen ejecutarse bajo una ventana del escritorio de Windows. En lugar de eso lo que hacen es crear sus propias pantallas con la resolución y número de colores deseados, en donde se muestra todo el contenido del programa. Ahora queda hacerse la pregunta: * ¿Cómo se crea una pantalla nueva?
+La respuesta nos la da Direct-Draw. Gracias a su uso tendremos un acceso más directo a las capacidades de la tarjeta gráfica que hay conectada al PC. Direct-Draw nos permite cambiar la resolución del computador y pintar sobre cualquier punto de la pantalla.
+Lo primero que se elegirá es la resolución en la que se va a trabajar. Éste es un aspecto muy importante, ya que los diferentes modelos de tarjetas gráficas usan resoluciones distintas. En todos los ejemplos del libro se va a trabajar en 640 píxeles de ancho por 480 de alto en alta calidad de color, con 16 bits por punto. Esto quiere decir que cada punto de la pantalla usará dos bytes para indicar. El motivo por el que se ha seleccionado esta resolución es porque es una de las más usadas y todas las tarjetas gráficas que actualmente se venden en un PC doméstico la soportan.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>58.-
+Esta metodología se crea a partir de la programación Orientada a Objetos, cuando se le incorpora el modelado conceptual y el diseño por bloques; la ISOO incluye el levantamiento de requerimiento como actividad principal. Sus procesos se centran en la elaboración de Modelos del Sistema. Cada modelo es una forma de visualizar el sistema en distintos momentos del desarrollo; cada modelo, es una descripción de aspectos relevantes para cada proceso del desarrollo</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>60.-
+METODOLOGIA SEGUIDA
+I. DEFINICION DE REQUISITOS.
+Durante esta etapa se realizó un análisis de las necesidades (En cunato la interfaz de usuario se refiere) del sistema. Las conclusiones de este análisis nos conducen a establecer los servicios que el módulo de interfaz de usuario debe ofrecer al sistema . Dichos servicios son:
+-Diseño y uso de iconos.
+-Creación y manejo de menús de opciones.
+-Manejo de ventanas de captura.
+-Diseño de mensajes retroalimentación.
+-Diseño de dispositivos integrados de ayuda.
+
+DISEÑO ESTRUCTURAL.
+El principio fundamental que se consideró durante el diseño de la interfaz de usuario es que esta se debe adaptar a las necesidades y posibilidades del usuario individual.
+Durante esta etapa se realizó la construcción del modelo que determina la estructura conceptual de la interfaz de usuario.
+
+ESTUDIO DE MATERIAL
+Esta etapa consistió en: obtener documentación relacionada con el proyecto, manejar los conceptos básicos del ambiente Windows y estudiar a fondo las herramientas utilizadas para crear aplicaciones Windows.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Este tipo de trabajo puede ser aplicado dentro de los medios
+fabri1es, sobre todo dentro del área de producción.
+Este trabajo se divide en tres partes
+1. Adquisición de la imagen.
+2. Construcción del vector de características
+3. Clasificación.
+Cada uno de 1 os pasos antes mencionados serán explicados con mayor detalle a continuación.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Se implementó entonces un desarrollo de programación el cuál se implementó en una computadora (software).
+El software que permite el manejo, actualización y control de toda la información que este sistema requiere es un SISTEMA DE DATO DATOS el cual permite trabajar o tratar esta información en términos abstractos, sin necesidad de atender la forma en que la computadora lo almacena.
+
+Para poder definir las estructuras de datos que constituyen un sistema constituyen un Sistema de Base de Datos (SBD) típico, así como sus propiedades, primero se determinó la clase de información que el SBD almacena.
+Para justificar lo anterior se propone un Modelo de Entidades y
+Asociaciones (MEA) con el que de manera intuitiva se tiene cierta modelación de situaciones del sistema requerido.
+Se propone un primer MEA, el cual una vez que sea normalizado a través del Modelo Relacional tendrá que cumplir con los objetivos del sistema: MESA DE CONTROL.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Apartir de la información hasta este momento recopilada, se puede generar una serie de fases y etapas a seguir para construir una Norma de Competencia. Esta metodología es muy general y se puede aplicar a cualquier tipo de organización, pero sirve como base para elaborar una ruta particular adecuada a cualquier análisis que se efectúe.
+A continuación se enuncian los pasos a seguir:
+1. Determinar el marco de trabajo para realizar la obtención de competencias
+a) Análisis de la organización
+i. Documentar la misión (propósito fundamental) y visión de una organización, para asociar los resultados de corto con los de largo plazo.
+ii. Obtener información estratégica de la organización, para relacionar los procesos de soporte con las necesidades u objetivos financieros
+iii. Decidir las técnicas para obtener datos de acuerdo a la organización
+b) Estándares de la industria
+i. Normas de calidad /estándares
+ii. Mejores prácticas
+iii. Análisis de Clientes
+c) Identificar las necesidades por satisfacer de:
+i. Nuestros clientes, internos y externos
+ii. Empleados
+iii. Patrocinadores
+d) Entendimiento del análisis de competencias
+2. Definición de competencias
+a) Análisis funcional
+i. Completar el diagrama ocupacional
+* Identificar los componentes del puesto, cargo o elemento del análisis.
+* Analizar la relación entre componentes
+* Reestructurar los componentes
+b) Determinación de las normas de competencia por definir
+i. Determinar el propósito fundamental de las funciones ocupacionales
+c) Determinar las unidades de competencia
+i. Aplicar reglas de análisis
+d) Determinar criterios de evaluación y campo de acción
+i. Establecer borradores de Normas
+3. Alineación Organizacional
+a) Confirmación de las Normas establecidas
+i. Análisis de los grupos expertos del borrador de Normas.
+ii. Realizar cambios sugeridos
+Ab) Definir el modelo de desarrollo de las</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Esta metodología se crea a partir de la programación Orientada a Objetos, cuando se le incorpora el modelado conceptual y el diseño por bloques; la ISOO incluye el levantamiento de requerimiento como actividad principal. Sus procesos se centran en la elaboración de Modelos del Sistema. Cada modelo es una forma de visualizar el sistema en distintos momentos del desarrollo; cada modelo, es una descripción de aspectos relevantes para cada proceso del desarrollo.
+
+La arquitectura de desarrollo plantea que cada proceso aplique conceptos de Orientación a Objetos. Los procesos junto con los modelos que generan son:
+*	Análisis Modelos de Análisis y de Requerimientos
+*	Construcción Modelo de Diseño y de Implantación</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Esta metodología se crea a partir de la programación Orientada a Objetos, cuando se le incorpora el modelado conceptual y  el diseño por bloques; b IS00 incluye el levantamiento de requerimiento la actividad principal. Sus procesos se centran en la elaboración de Modelos del Sistema. Cada modelo es una forma de visualizar el sistema en distintos momentos del desarrollo; cada modelo, es una descripción de aspectos relevantes para cada proceso del desarrollo.
+La arquitectura de desarrollo plantea que cada proceso aplique conceptos de Orientación a Objetos. Los procesos junto con bs modelos que generan son:
+
+*	Análisis			Modelos de análisis y requerimientos.
+*	Construcción			Modelo de Diseño y de implementación
+*	Pruebas			Modelo de Pruebas
+
+Dónde:
+
+Requerimiento de		Información, verbal del usuario proporcional al 
+Usuario			equipo de desarrollo.
+
+Modelo de 
+Requerimiento</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>El enfoque bajo el cual se realizó la Oficina Virtual de CBI, fue el Orientado a Objetos. Por esto se tuvieron en un principio dos procesos, y estos fueron:
+*	Proceso de Análisis de Requerimientos, en donde se recolectan los requerimientos del usuario, se unifican en formato y se genera una especificación bajo ciertos formatos estándares que garanticen que todo el equipo de desarrollo pueda manejar los requerimientos.
+*	Ã¯âÂ Proceso de Análisis Dinámico, dicho proceso establece las características principales de la estructura del sistema.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La metodología utilizada para el desarrollo de esta parte del sistema, está basada en el RUP (Rational Unified Process), el cual es basado en el desarrollo de componentes. A
+
+Análisis del sistema (Business Modeling y Requirements). En esta etapa, se analizará y establecerá con el usuario, que hará y no hará el sistema, así también las comunicaciones y dependencias, con otros sistemas ya desarrollados. Para esta etapa, se están planeando 1 meses.
+*	Diseño del Sistema (Análisis &amp; Design). En esta etapa, se harán las especificaciones técnicas de los componentes necesarios que cubran las necesidades del usuario, que fueron encontradas en la etapa anterior. Para esta etapa se están planeando 2 meses.
+*	Construcción del Sistema (Implementación). En esta etapa, es donde se codifica el sistema en base a las especificaciones técnicas, realizadas en la etapa de diseño.
+También en esta etapa, son comprendidas pruebas unitarias y de conjunto del sistema.
+Para esta etapa se están planeando 2.5 meses.
+Pruebas con el usuario y liberación del Sistema (Test y Deployment). En esta etapa, una vez terminado la construcción del sistema, se harán las pruebas finales con el usuario, para que dé su aprobación o en sus casos realizar las correcciones necesarias. Una vez que el usuario de su aprobación, el sistema deberá de ser colocado en un ambiente productivo. Para la realización de esta etapa, se están planeando 0.5 meses</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La metodología a seguir tuvo dos vertientes: la investigación bibliográfica y el desarrollo de applets de Java para internet, que por su puesto se circunscriben en la concepción de análisis y diseño orientado a objetos.
+Llegado este punto se hace indispensable especificar * ¿por qué Java?
+Existen dos razones para programar en Java: "que su plataforma es independiente y que soporta contenido interactivo en las páginas Web (2: pp.7). Esto significa que Java puede visualizarse desde cualquier máquina que tenga un visualizador apropiado, debido a que l código que genera tras compilarse y prepararse para la ejecución no es un ejecutable binario, si no lo que se llama un "código virtual.
+Este código puede entonces ejecutarse desde cualquier máquina y/o plataforma, ya que es el visualizador el que se encarga de averiguar estos detalles. Esta es la razón del auge de Java en Internet, su portabilidad e universalidad, la vez que se cuenta con todas las ventajas de un lenguaje de programación orientado a objetos.
+En particular, se propone el desarrollo de applets, que son "los programas de Java que se integran en las páginas Web. Cuando una página Web que contiene un applet se abre con un visualizador de Web, el applet se busca y ejecuta. La salida del applet se despliega en una región definida del área de la página visualizada. Técnicamente, (...) "la clase Applet es una subclase de la clase Panel, y los applets se implementan como panels dentro del documento Web (2: pp.294).</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Dado que al inicio del programa general de la CADF para solucionar el problema del año
+2000 cada empresa contratista ya había realizado actividades al respecto, lo que impide manejar una metodología única para todas las empresas contratistas y la CADF, por lo que solo se pedirá que las metodologías seleccionadas incluyan las siguientes etapas,
+CONCIENTIZACION, INVENTARIO, CUANTIFICACION Y PLANEACION,
+IMPLANTACION DE SOLUCIONES, PRUEBAS Y VALIDACIONES, PLAN DE
+CONTINGENCIA.
+La CADF revisara cada una de las metodologías para revisar la contención de las etapas mencionadas, ya que puede ser que solo tengan diferente nomenclatura pero consistan en lo mismo, así como también una etapa puede estar divida en varias o viceversa, es decir una etapa incluya varias de las mencionadas.
+Enseguida se describe la metodología seleccionada por la CADF, describiendo las etapas y puntos que incluye cada una de estas.
+Debido a que existe una serie de elementos involucrados (infraestructura informática, aplicaciones, personal, información, etc.), se requiere definir cuál de ellos es el que servirá de eje en el análisis de la problemática propia de cada una de las áreas informáticas. Para el caso de la presente metodología se seleccionó como eje a las distintas aplicaciones (sistemas) con los que se cuenta y a estos se le relacionaran el resto de los elementos involucrados.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Requesitos:
+Estudio de validad.
+Esbozo de definicion de requisitos.
+Estudio del diseño preliminar.
+Definicion de requisitos.
+
+Diseño:
+Diseño estrutural (MEA y REL)
+Diseño de interfaz
+Especificacion del software a usar
+Diseño detallado
+
+Aplicacion:
+Programacion de rutina basicas.
+Programacion de unidades.
+
+Pruebas:
+Pruebas de rutinas y unidades.
+Independientemente.
+Prueba de integracion
+
+Entrega del Modulo:</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>	Le realizo un barrido horizontal por cada línea grafica o de puntos de todo el texto para determinar la máxima de cada región. En este barrido se fue contador  las lianas que al menos tuvieran un punto para considerarse y mientras existen no nulas se almacenan en una matriz hasta que sea lea una línea que sea nula.
+	Posteriormente los renglones con los caracteres, almacenan en una matriz (un reglón a la vez, semejante a un intérprete que analiza cada renglón).  Para que se determine la anchura máxima de cada región y con ello puede cerrar cada carácter en una matriz, que representa un tipo de datos abstracto, llamado carácter abstracto y analizarse cada uno de los caracteres. Para poderse calcular la anchura de cada uno de los caracteres. Para poderse calcular la anchura de cada uno de los caracteres se afecta un barrido vertical y  las columnas que se contaran los asteriscos que sean continuos para almacenarse esas anchuras en un vector y calcularse el máximo de estos, y con ellos la maximiza anchura de un renglón gráfico.
+	Ya terminado cada carácter grafico en la matriz del carácter adoptando se puede a contar la densidad por ganas y conteo para poder representar el carácter grafico en base a sus atributos, que son sus denoidades o número de puntero por ganas.
+	Si se desea que aprenda se almacena los atributos o números de puntos por zona y conteo y pregunta por el código ASCII que está representado para también almacenar mediante un * ¿.
+	SE  necesita reconocer, se comparara los atributos del carácter * ¿? Con los atributos semejantes de los caracteres aprensidos mediante el factor de cancelación entre estos o son los conocimientos por zonas o rangos. Como se cuenta en número de puntos por zonas o denoidad por zona, no importa que el carácter abstracto, más o menos puntos, por la cancelación se puede aproximar el criterio de reconocimiento.
+	Lo espesamiento variable entre caracteres no es problema, ya que se conocerá, solo los columnas con al menos un punto.
+	La similitud entre caracteres se puede atacar con la colección entre las unidades por reconocimiento y aprendidos.
+
+EL carácter abstracto es una gran herramienta ya que se no incorpora el tamaño del carácter grafico ni su forma. Porque como existen 8 zonas de las cuales unas están destinadas para los caracteres de letras o minúsculas (zona 3.4.5 y 6) o de las letras mayúsculas (zona 1,2,3,4,5 y 6) y  los que tiene rango inferior (zona 3,4,5,6,7, y 8) y  todo la gran variedad de letras y símbolo gráfico.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Se inició con una investigación realizada a un g r u p o de amas de casa para determinar cuáles serán sus necesidades más relevantes dentro de un hogar, y la más generales en que acordaran la mayoría, es la siguiente:
+
+*	Cocina
+                 -Despensa
+             -Aceite, Azúcar, sal, Arroz, Frijol, Harina, Leche, latería, carnes frías, verduras, frutas, legumbres, carnes.
+
+	-Artículos de Limpieza
+          -	Jabones, detergente, Fibra, Escobetas, Jergas, Escobas, etc. 
+-blancos
+
+	-Blancos
+         - Manteles, servilletas, trapos para limpiar, etc.
+
+	-Utensilios para cocinar y de servicio
+	-Artículos eléctricos
+          -Licuadoras, Hornos Microondas, Refrigeradores, etc.
+
+	-Muebles
+          -Estufas, Fregadero, Horno (Cocina Equipo Integral), Mesa, Sillas, Alacena, etc.
+
+*	Sala
+-Muebles
+-Blancos
+-Adornos
+-Artículos de limpieza
+-Cantina
+Artículos Eléctricos.
+
+*	Sala de Estar
+-Muebles
+-Artículos Eléctricos
+
+	
+*	Recamaras
+-Muebles
+-Artículos eléctricos
+-Artículos de limpieza (Personales y de Recamara)
+-Bracos
+-Closet
+
+*	Baños
+-Blancos
+-Artículos de limpieza (Personas y de Baño)
+-Botiquín
+
+*	Cuarto de Servicio o Servicio de Lavado
+-Artículos eléctricos
+          -Lavadora, Plancha, Máquina de coser.
+	-Muebles
+          -Mesa para planchar o burro, para máquina de coser 
+	-Utensilios para coser
+	-Artículos de limpieza o lavado
+
+*	Cuenta Bancaria (personal)
+Para pagos de agua, luz, teléfono y cosas comerciales.
+
+*	Artículos de Garage
+-Automóvil
+-Aceite
+-Herramientas
+.Gastos o Mantenimiento de Automóvil
+
+*	Cuarto de Servicio para Servidumbre
+-Cama, baño, closet
+-Artículos de Limpieza
+
+
+
+Una vez hecha esta investigación, se siguió una fase de Definiciones  en la cual se hizo una especificación general del proyecto a realizar, una reunión con el asesor, analizándolo a groso modo y haciendo una planeación del trabajo general sobre el proyecto.
+Posteriormente se redactó  la especificación del proyecto indicando todas las necesidades de una am de casa, para su sistematización.
+Se revisó la especificación del proyecto analizándolo y resolviendo las dudas que surgieron en ese momento.
+De aquí se determinó que la especificación estaba lista para la fase de diseño.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La metodología empleada para la realización de los sistemas de cómputo, consiste en analizar la función principal del sistema a desarrollar, posteriormente se elaboraron diagramas y modelos que mostraran las entidades y factores que son necesarios tomar en cuenta para el estudio del problema planteado.
+Posteriormente, una vez que ya se tiene bien establecidas las entidades que participaran en el sistema y las relaciones que existen entre estas, además de la definición de las opciones que el sistema brindara para su manejo, se lleva a cabo la programación en lenguaje que se considere el m4s apropiado para un uso óptimo del sistema, cuando el sistema se está codificando, se elaboran pruebas y se corrigen los errores que sean generados ene l transcurso de la generación de y digo. Finalmente, ya que el sistema fue terminado de programar en su totalidad, se elabora una depuración exhaustiva del Migo correspondiente al sistema, para después realizar pruebas del funcionamiento del sistema y que cubra objetivos planteados.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Actualmente existen diversos métodos y técnicas Orientadas a
+Objetos (OO), con muchos aspectos en común pero utilizando distintas
+notaciones lo cual ocasiona inconvenientes para el aprendizaje,
+aplicación, construcción y uso de herramientas, por lo que se optó en
+tomar lo que sea útil para efectos de este trabajo.
+La metodología OO facilita el diseño e implementación de sistemas
+con interfaz gráfica de usuario (GUI por sus siglas en ingles). Los métodos
+OO permiten desarrollar sistemas inmersos y de tiempo real con mayor
+calidad y flexibilidad.
+Define una notación expresiva y consistente, facilita la comunicación
+con otros, ayuda a señalar omisiones e inconsistencias y soporta tanto
+análisis y diseño pequeño y a gran escala, siendo que puede encapsular
+información en objetos permitiendo obtener aplicaciones pequeñas.
+El proceso unificado es un proceso de desarrollo de software. Un
+proceso de desarrollo de software es el conjunto de actividades necesarias
+para transformar los requisitos de un usuario en un sistema de software,
+aunque el proceso unificado es un marco de trabajo genérico que puede
+especializarse para una gran variedad de sistemas de software.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Hoy en día pueden distinguirse dos corrientes de metodologías de Análisis y
+Diseño de Sistemas: orientados por las funciones y orientados por la información. En la primera se identifican las funciones principales y a partir de estas, se establece la estructura del sistema. La estructura funcional se realiza a través de técnicas que fragmentan y disminuyen la complejidad del problema original, generando subproblema de menor complejidad, hasta alcanzar subproblemas triviales. Su principal inconveniente es la poca flexibilidad de los sistemas generados.
+En la segunda corriente se identifican los principales agentes del problema y las relaciones que guardan entre sí, se determina la estructura de referencia entre los agentes y el comportamiento de cada uno de ellos para generar la funcionalidad requerida, posteriormente se comienzan a utilizar extensiones para definir el comportamiento de los agentes de información, lo que se conoce como Orientación a
+Objetos.
+Se ubica a los componentes como partes que son concretas como tales las cuales sólo tienen que incorporarse en los sistemas sin necesidad de hacer cualquier modificación a su interior. Pudiéndose reemplazar por otros componentes que exhiban el mismo tipo de conexión. Esto significa que sólo es necesario disponer del componente para incorporarlo al sistema. De esta manera si es necesario modificarlo, sólo se cambian las partes involucradas sin que se altere la estructura. 
+
+Con todo esto nos ofrece sistemas de bastante flexibilidad y con gran reutilización de componentes.
+Tomando en cuenta las ventajas citadas de la Metodologia de Anslisis y Diseno
+Orientada a Objetos, se tomó la decisión de utilizarla para asegurar un mejor desempeño del sistema tanto en la realización como en el mantenimiento, dado que este último es parte fundamental, pues las necesidades no son invariables en el tiempo, por el contrario, crecen y se adecuan al ambiente en que se operan los sistemas.
+Entonces con una metodología de este tipo se pretende mejorar la relación costo - beneficio del sistema, minimizando costos ( tiempo y recursos económicos) de mantenimiento, atenuando los efectos que pueden alterar la estructura del sistema.
+Disminuyendo también los costos de desarrollo al establecer la unión de componentes como la base de construcción.
+Existen varías metodologías orientadas a objetos, todas de ellas siguen los siguientes objetivos: incorporar de una manera fácil la funcionalidad de las necesidades de los usuarios, generar descripciones del sistema que los incorporen y que sean estables ante los cambios.
+Desafortunadamente la mayor parte toman como materia prima para su que hacer, los requerimientos planteados por los usuarios, que normalmente carecen de una notación estándar, no considerando así la posible interacción con otros sistemas. Este problema se puede eliminar, si la metodología asume la tarea de levantar el requerimiento. Una metodología que logra hacer esto es la Ingeniería de Software
+Orientada a Objetos (ISOO), esta incorpora el levantamiento de requerimientos como su actividad principal, estando las demás actividades fuertemente relacionadas con esta.
+
+Sus procesos se centran en la elaboración de modelos del sistema, donde cada uno es la forma de visualizar el sistema en distintos momentos, describiendo aspectos relevantes para cada proceso del desarrollo.
+Sus principales ventajas son: incorporar el resultado de levantamiento de requisitos como parte integral de la metodología, sirviendo este como entrada para los demás procesos no permitiendo se desarrollen en cascada.
+- Especificación de requerimientos: Información escrita o verbal que el usuario pone en disposición.
+- Modelo de Requerimientos: Toma lo más relevante de la especificación de requerimientos para generalizarlo. Describe los casos prueba más relevante.
+- Modelo de Análisis: Plantea las interacciones básicas de los objetos que compondrán el sistema
+- Modelo de Diseño: Muestra el detalle de la interacción de los objetos.
+- Modelo de construcción: Describe la constitución modular de los componentes del sistema, así como su programación.
+- Modelo de Pruebas: Establece la estrategia de pruebas de cada elemento del sistema.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Lo primero que se debe hacer para desarrollar este sistema es tomar en cuenta que la base de datos actual es funcional y muy grande. No es viable capturar todos los datos nuevamente ya que existen aproximadamente 3000 máquinas Lo más recomendable es migrar, depurar y rediseñar la base de datos.
+Al principio del proyecto se consideró utilizar flash como medio de comunicación entre el usuario y la máquina, ya que el desarrollo de formularios y elementos visibles en una página Web es sencillo, además haciendo uso de escenas para cada pantalla requerida por el sistema se aseguraba un mejor nivel de seguridad (aunado con la seguridad del manejo de sesiones de JSP). La razón por la cual no fue viable desarrollar las interfaces en Flash, fue el requerimiento del "Flash Player versión 5.0 o superior, la cual es necesaria para realizar conexión con JSP. La versión 5.0 de Flash Player no está instalada en las terminales SunRay de la UDLA, siendo incómodo realizar esta instalación para cada cuenta que sea accesada en una máquina SunRay. Es importante no perder de vista que es necesario contar con más recursos de memoria y velocidad de transferencia de datos para cargar películas Flash que páginas HTML y que al departamento de Atención a Usuarios le importa mucho que el sistema no sea una aplicación lenta.
+Para el envío de formularios (datos) y guardarlos en base de datos, se utiliza HTML y JSP. Sin embargo, es necesario validar que los campos sean llenados de forma correcta; para lo cual se utilizará JavaScript. El desarrollo de todo el código será escrito en el
+Integrated Development Enviroment (IDE) Dreamweaver, el cual facilitará la visualización del código.
+Con respecto al desarrollo del sistema, es necesario diseñar diagramas de clase (con el fin de diseñar correctamente todo lo que sea necesario programar).
+
+Para realizar la parte del mapa geográfico, se contempló en un principio usar XML,
+GML y SVG para generar coordenadas y desplegarlas en el mapa, pero debido a que existe una herramienta capaz de generar mapas desplegables vía Web y se facilita la creación y consulta de queries como lo que se van a utilizar, se decidió apoyarse en esta herramienta, por lo cual se utilizará ArcIMS en el desarrollo del mapa espacial. Más adelante, en el siguiente capítulo, mencionaré las ventajas de ésta herramienta, así como las bondades que nos brinda en el desarrollo de este proyecto.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Es una metodología para representar de manera estructurada y jerárquica las actividades que conforman un sistema o empresa y los objetos o datos que soportan la interacción de esas actividades. Utiliza el software Bpwin del cual se explicará más adelante.
+
+Historia 
+Este método se empezó a desarrollar en 1973 por el programa del laboratorio de materiales de la Fuerza Aérea de los Estados Unidos, conjuntamente con las empresas Boeing, Inc., y Softech, le. De esta manera se construyó la primera arquitectura funcional de manufactura aeroespecial. 
+Después de la aplicación, Softech continuó evolucionando el método resultante hasta convertirlo en una técnica de desarrollo de software. En 1976 el programa de seguimiento ICAM (Integrated Computer-Aided Manufacturing) de la Fuerza Aérea de los Estados Unidos utilizó la versión comercial de este método (SADT Structured Analysis and Design Technique, técnica de análisis estructurado y diseño) para construir la arquitectura compuesta de la manufactura como el primer paso en la planeación del programa ICAM (Integrated Computer-Aided Manufacturing). 
+En 1978 se especializó este método para: 
+1. Mejorar la comunicación entre los expertos del dominio. 
+2. Llevar a cabo análisis funcionales no departamentalizados de grandes sistemas organizacionales para la planeación de la integración de información. 
+3. Organizar los procesos de pensamiento de planificadores y analistas. 
+4. 
+
+Así es como se empezó a hablar de IDEF, por ICAM DEFinition languaje. 
+El método estuvo restringido en cuanto a su diseminación por políticas de seguridad de los Estados Unidos hasta 1982, que fue cuando se le liberó de restricciones [15]. 
+
+Características.
+IDEF consiste en una serie de normas que definen la metodología para la representación de funciones modeladas.
+La metodología IDEF-0 proporciona un marco de trabajo para poder representar y entender los procesos, determinando el impacto de los diferentes sucesos y definiendo como los procesos interactúan unos con otros permitiéndonos identificar actividades poco eficientes o redundantes. 
+Estos modelos consisten en una serie de diagramas jerárquicos junto con unos textos y referencias cruzadas entre ambos que se representan mediante unos rectángulos o cajas y una serie de flechas. La descripción de cada proceso es considerado como la combinación de cinco magnitudes básicas que se representan gráficamente en la figura 1como: 
+*  Funciones, procesos o actividades. 
+*  Entradas (inputs). 
+*  Controles. 
+*  Mecanismos o recursos para la realización de tareas. 
+* Salidas (outputs) o resultados conseguidos en el proceso (que podrán ser a su vez entradas, mecanismos o controles de otros procesos). 
+a) Procesos o actividades: Se representa por una caja en la cual se encierran todas las actividades que forman parte del proceso. 
+b) Entradas: representa el material o la información que es consumida o transformada por el proceso con el objetivo de producir las salidas. Es posible que algunos procesos no tengan entrada. 
+
+c) Salidas: material o información producida por el proceso. Cada proceso, para ser considerado como tal, debe tener al menos una salida 
+d) Controles: reglamentan, limitan o establecen la forma en que los procesos desarrollan sus actividades para producir las salidas a partir de las entradas. Cada proceso debe tener por lo menos un control. Los más comunes son leyes, decretos, normativas, directrices, procedimientos 
+
+e) Mecanismos: aquellos recursos que el proceso necesita y que generalmente no son consumidos durante el mismo. Ejemplo de mecanismo: personal cuantitativa y cualitativamente adecuado, máquinas, equipamiento de informática, copiadoras, etc. [15]. 
+El modelo IDEF esta compuesto por una serie de diagramas con documentación de soporte que divide un asunto complejo en sus partes componentes. El diagrama inicial es la descripción más general o abstracta del sistema total. 
+Cada componente importante como una caja. Los detalles de cada componente principal se muestran en otros diagramas como caja. Estas cajas pueden ser subdivididas en aún más diagramas, hasta que el sistema llega a ser descrito a cualquier nivel de detalle deseado. 
+Las cajas representan funciones del sistema (actividades, acciones, procesos u operaciones). Las funciones muestran lo que se debe lograr sin identificar ningún otro asp
+ecto necesario tal como las necesidades ni los medios para satisfacerlas y las flechas representan datos (ya sea información u objetos). Una caja en el diagrama superior se detalla por las cajas y flechas del diagrama inferior. 
+Los diagramas de alto nivel involucran un amplio nivel de detalle de manera tal que las palabras en las cajas y las flechas deben ser abstractas y describir conceptos generales. Los diagramas sucesivos hacia abajo revelan este detalle de manera gradual, utilizando términos más específicos, un paso a la vez. 
+Las flechas que conectan una caja representan objetos o información necesaria para la función o producida por ésta. Cada una es etiquetada con una frase sustantivo, escrita junto a la flecha. Los datos pueden ser información, objetos, o cualquier cosa que pueda ser descrita con una frase sustantivo. Las flechas son restricciones que definen las cajas, no secuencias o flujos de funciones.
+
+Los lados de la caja en la cual entra o sale una flecha, muestran el papel de la flecha, como una entrada (input) control o salida (output.). Las flechas de entrada (a la izquierda y en la parte superior de la caja) muestran los datos creados cuando la función se realiza. De izquierda a derecha (entrada a salida), una función transforma datos. Una entrada se convierte por la función en una salida. Los términos entrada y salida conllevan la noción de que una caja representa una transición de un estado "antes" a uno "después" de los asuntos. 
+
+
+La parte inferior de una caja se reserva para indicar un mecanismo, el cual puede ser la persona o dispositivo que lleva a cabo la función. Las entradas y salidas muestran qué se hace por la función, el control muestra el porqué se hace y el mecanismo muestra cómo se hace.
+
+
+Las flechas en un diagrama IDEF0 representan restricciones de datos. No representan flujo o secuencia. Si se conecta la salida de una caja a la entrada o control de otra, esto muestra una restricción. Las flechas que entran a una caja muestran todos los datos necesarios para que se realice la función.
+
+Varias funciones en un único diagrama pueden ser realizadas de manera simultánea, si las restricciones necesarias han sido satisfechas. Las flechas conectan cajas y una salida de una caja puede proporcionar parte o todos los datos requeridos por una o más cajas. 
+Las flechas se pueden subdividir (con la implicación de que los mismos datos se necesitan por más de una función) o se pueden unir (implicando que la misma clase de datos puede ser producida por más de una función). Las divisiones pueden representar cada una la misma cosa, o cosas diferentes del mismo tipo general. Las etiquetas declaran lo que representan las flechas. Las etiquetas en divisiones y uniones proporcionan un detalle del contenido de la flecha más general de la misma manera que los diagramas de nivel inferior proporcionan detalles de las cajas. 
+Las etiquetas de flechas deben comunicar al lector las intenciones del autor del diagrama. La utilización de menos flechas reducirá el aglomeramiento hará más fácil de entender un diagrama pero se requiere una selección cuidadosa de las palabras para hacer llegar el mensaje. 
+Para formar un diagrama completo, de tres a seis cajas se dibujan y conectan por flechas de entrada, salida y control. Cualquier flecha de salida deberá proporcionar parte o todo el control o la entrada a cualquier otra caja. Todos los tipos de uniones y divisiones de flechas se usan para mostrar relaciones entre cajas. Una flecha de salida se puede dividir y proporcionar datos a varias cajas. Las flechas que no están conectadas en un extremo representan datos que son proporcionados o consumidos fuera del alcance del diagrama. 
+Los datos de entrada (a la izquierda) son transformados en datos de salida (a la derecha). Los controles (arriba) gobiernan la manera en que se realiza la función. Los mecanismos (abajo) indican los medios por los cuales se realiza una función.
+
+Un "mecanismo" puede ser una persona o una computadora o una máquina o algún otro dispositivo que ayuda a llevar a cabo la función. La caja misma, con sus entradas, controles y salidas indica qué hace el sistema. El mecanismo muestra cómo la función es llevada a cabo. Los diagramas que no contienen mecanismos muestran lo que las funciones de un sistema deben hacer [13]. 
+Una flecha de mecanismo que apunta hacia abajo (conocida como una "llamada") indica un sistema que lleva a cabo completamente la función de la caja. Si hubiera necesidad de mayor detalle, se encontraría en un modelo separado del mecanismo mismo. 
+La técnica IDEF0 está basada en la técnica de modelado de células conocida como SADT2. 
+Uno de los aspectos de IDEF0 más importantes es que como concepto de modelación va introduciendo gradualmente más y más niveles de detalle a través de la estructura del modelo. De esta manera, la comunicación se produce dando al lector un tema bien definido con una cantidad de información detallada disponible para profundizar en el modelo.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La programación orientada a objetos (OOP en adelante) es un tipo de programación que provee una manera de modularizar programas estableciendo áreas de memoria particionadas para datos y procedimientos, que pueden ser usadas como plantillas para crear copias de tales módulos conforme se requieran.56
+Cada área de memoria a la que se refiere en el párrafo anterior es conocida como clase, mientras que las copias creadas a partir de la clase son llamadas objetos. La OOP tiene varias propiedades, entre los cuales destacan:
+* Abstracción. Permite enfocarse en la solución general del problema, sin preocuparse de los detalles.
+* Encapsulación. Es el concepto de que un objeto debería tener separada su interfaz de su implementación. Es decir, un objeto es visto como una "caja negra.
+* Polimorfismo. Significa que un objeto se puede comportar de diversas maneras, dependiendo del contexto en el que se encuentre.
+* Herencia. Significa que se pueden crear clases que "hereden el comportamiento de una o más clases padre; y que además añadan su propio comportamiento.
+El concepto de encapsulación evita que se pueda modificar el estado interno de un objeto por el código cliente que lo utiliza, es decir solamente el código mismo del objeto puede modificar el estado interno del mismo.
+
+ Esto se puede aprovechar en la construcción de SE creando clases que correspondan a los componentes de un SE.
+Por lo tanto si se utiliza la metodología orientada a objetos a la construcción de SE, se debe crear una clase que contenga el código referente a la base de conocimiento.
+
+Si dicha base de conocimiento es un conjunto de objetos con sus propiedades, entonces dicha clase será una clase contenedor de objetos de otra clase, los cuales contendrán el nombre del objeto y una lista de atributos.
+De manera similar, el motor de inferencia se implementa como una clase, la cual contiene encapsulada toda la lógica que hace que funcione el SE, es decir si se implementa usando encadenamiento hacia adelante, encadenamiento hacia atrás o reglas de producción, dicha implementación estará contenida dentro de la clase. 
+Esta metodología tiene diversas ventajas, entre las cuales destaca el hecho que cualquier modificación o mantenimiento que se le quiera realizar a un determinado componente no afectará al otro y viceversa. Tello propone crear especializaciones o jerarquías de clases (usando herencia) que incluyan métodos que permitan a los objetos modificarse a sí mismos, logrando con esto que un SE aprenda por sí mismo, modificando su base de conocimiento sin modificar los demás componentes. Otra ventaja de la OOP es que mediante la herencia, las clases hijas heredarán el comportamiento de las clases padres, evitando con esto, tener que incluir código redundante en las especializaciones</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Se puede considerar una metodología como un planteamiento paso a paso completo para el desarrollo de sistemas, que guían en el proceso de desarrollo e influyen en la calidad del producto final, proporcionando detalle tanto del conjunto de actividades a llevar a cabo como de los resultados que se deben obtener al final de cada una de ellas (conjunto completo de conceptos, modelos, reglas y directrices).
+Dependiendo del producto que se esté desarrollando, habrá de elegirse una metodología que resulte la más apropiada de entre todas las posibles, por eso no se puede hablar de la mejor metodología. Es más, metodologías diferentes pueden utilizarse en las diferentes fases del proceso de desarrollo, debido a que puede haber alguna desarrollada para cada problema específico.
+Las metodologías tradicionales utilizadas en ingeniería del software se muestran inadecuadas para las aplicaciones web dado que generalmente no hacen referencia a aspectos tanto de conocimiento como de apariencia que son de especial relevancia en el desarrollo de aplicaciones web y aplicaciones hipermedia en general y que son los siguientes:
+_ En los proyectos hipermedia suelen participar profesionales de diferentes disciplinas.
+_ El diseño de este tipo de aplicaciones implica capturar y organizar la estructura de dominios complejos y hacerla clara y accesible para los usuarios.
+_ Se debe tener en cuenta que en el proceso de desarrollo de este tipo de aplicaciones se implican también aspectos más relacionados con el arte que con las ciencias.
+
+
+La necesidad de realizar prototipos y test intensivos con los usuarios es mucho más atribuida en el desarrollo de hipermedia que en el desarrollo de software tradicional dado que la tolerancia a fallos del usuario en las aplicaciones hipermedia es muy bajo.
+_ La fase de mantenimiento juega un papel más importante en el ciclo de vida de una aplicación hipermedia que en el de otros sistemas.
+Actualmente existe una gran cantidad de metodologías que intentan ayudar en la sistematización de la construcción de sitios web, proporcionando mecanismos de abstracción que faciliten el desarrollo de estos sistemas.
+Existen dos tendencias claras. La primera se basa en extender iniciativas orientadas al diseño hipermedial (navegacional), introduciendo expresividad para dotar de dinamismo a los sistemas. Estas metodologías aparecieron con el objetivo de construir aplicaciones hipermediales donde se unía el concepto de navegación con la multimedia, en sistemas estáticos (sin funcionalidad). Es por esto que la mayoría de estas metodologías están basadas en el Modelo Relacional clásico, o bien en extensiones de éste. Algunos ejemplos destacables de estas metodologías son HDM (Hypertext Desing Model) [42], RMM (Relationship Management Methodology) [42], RNA (Realtionship Navigational Analisys) [33], VHDM (View-Based Hypermedia Design Methodology) [42].
+El otro grupo de metodologías se basan en la idea de extender los métodos de desarrollo orientados a aplicaciones dinámicas (con funcionalidad), tratando de introducir la semántica de la hipermedia como característica inherente a este nuevo tipo de sistemas software. Este tipo de metodologías tratan de introducir características navegacionales al modelo OO11. En este grupo se pueden encontrar las metodologías.
+
+EORM (Enhanced Object Relationship Model) [42], OOHDM (Object Oriented
+Hypermedia Design Method) [42], SOHDM (Scenario-Based Object-Oriented
+Hypermedia Design Methodology) [42], WSDM (Web Site Design Method) [42], UWE
+(UML-Based Web Engineering) [33], OO-Method (Object-Oriented Method) [43], OOWS
+(Object-Oriented Approach for Web Solutions Modeling) [43], [52].
+A continuación en la tabla 1 se presenta una comparación entre las metodologías antes mencionadas, basada en los pasos que componen el proceso, la técnica de modelado, la representación gráfica, la notación para los modelos y la herramienta
+CASE que brinda soporte para su desarrollo; es importante señalar que las metodologías que se comparan a continuación son las más comunes.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La metodología utilizada fue la siguiente:
+1. Familiarización con el código de instrucciones del TMS320 así como con el funcionamiento del mismo.
+2. Desarrollo del procedimiento matemático para demodular una señal de AM con objeto de obtener la señal de información.
+3. Diseño de un programa con el código de instrucciones del TMS320C50, capaz de implementar las etapas necesarias para demodular una señal de AM aplicada a la entrada y obtener la señal demodulada a la salida.
+4. Adaptación a este proyecto de la interfaz realizada en el "Modulador sintonizable de AM utilizando el TMS320C50 y modificación del mismo para poder correr los programas de demodulación en el DSP.
+5. Obtención de resultados y corrección de errores.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Es necesario establecer un método que permita realizar el trabajo de forma ordenada partiendo de los fundamentos básicos, y avanzando gradualmente hasta el desarrollo de las ideas más complejas. El método utilizado en este trabajo se expone a continuación:
+* En primera instancia se realizó un estudio exhaustivo acerca de la teoría en la que se basan los sistemas difusos.
+* Se prosiguió con el estudio del modelo del transistor, haciendo énfasis en la tecnología CMOS.
+* Se seleccionó la tecnología a usar para el modelo del transistor y entonces se comenzó con el estudio de los espejos de corriente.
+* Posteriormente, se comenzó con la evaluación de las alternativas existentes para las celdas que se iban a utilizar. En el momento en el que fueron documentadas todas las alternativas, se hizo una comparación y se escogió la mejor de ellas como opción para la topología.
+* Se comenzó con la simulación de las celdas. Cabe comentar que los resultados de cada prueba fueron reportados en un documento aparte al asesor de tesis. Estos reportes representan un guía sobre la evolución de cada una de las celdas hasta alcanzar su funcionamiento óptimo.
+* Una vez que se obtuvo la operación eficiente de todas las celdas propuestas por
+Camacho [3], se continuó con la implementación de los circuitos de máximo y mínimo.
+* Finalmente, se diseño con la ayuda del asesor un sistema de toma de decisiones que permitiera probar el funcionamiento de los circuitos optimizados.
+Se considera este método como el correcto para llevar a cabo el desarrollo del trabajo, manteniendo siempre en mente los objetivos principales de esta tesis. De esta forma, será posible finalizar exitosamente la optimización de todas las celdas propuestas.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La metodología a seguir para la realización del proyecto fue:
+1. aprender a usar la tarjeta del procesador.
+2. aprender a programar el procesador.
+3. aplicar conceptos de procesamiento digital de señales para el diseño del algoritmo que realice la modulación en amplitud de la señal analógica.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Para conocer las características y prácticas de los usuarios de Internet en la ciudad de Guasave, resulta necesario analizar los resultados de las encuestas y entrevistas realizadas a los mismos, es pertinente señalar que no existen antecedentes de investigaciones similares a esta respecto en la ciudad de Guasave, por ello la información obtenida nos dará luz en el camino para dibujar un panorama general del uso de Internet y en particular, de las relaciones que dentro y a través de este medio se establecen. 
+Para realizar la investigación cuantitativa se solicitó información respecto a la cantidad de clientes con que cuenta cada una de las compañías que brindan el servicio de Internet, se integraron los datos de todas, dando como resultado un tamaño del Universo de 2000. 
+Para obtener la muestra, se recurrió al programa STATS, brindando los siguientes datos: 
+1.-Tamaño de Universo: 2000. 
+2.-Error máximo aceptable: 5%. 
+3.- Porcentaje estimado de la muestra: 5% o 95%. 
+4.- Nivel deseado de confianza: 95%. 
+5.- Tamaño de la muestra: 70.42039. 
+Como se puede observar, el tamaño de la muestra resultante fue de 70.4209, en la práctica se aplicaron 71 encuestas y los resultados de las mismas son los que se analizarán a continuación. 
+Para el procesamiento posterior de los datos recabados mediante las encuestas y para la elaboración de los cuadros correspondientes de frecuencia y cruces de variables se utilizó el programa SPSS. (Software para estadística y probabilidad).
+
+Este estudio es descriptivo14 ya que reporta cómo se desarrolla un vocabulario XML para textos completos de artículos de revistas, la metodología de marcado y finalmente la medición exploratoria de los resultados de dicho marcado sobre la precisión en la recuperación de la información. 
+Para el desarrollo del vocabulario se revisaron varias opciones metodológicas y se optó por la propuesta de Maler, E. y El Andaloussi, J. en 1996, la cual aunque diseñada para el diseño de DTD (Document Type Definition) para SGML (Standard Generalized Markup Language) se adapta perfectamente a un desarrollo en XML para objetos digitales de texto completo y es extremadamente valiosa en términos de esta investigación por el detalle que ofrece y por considerar en una de sus etapas la comparación entre la propuesta por diseñar con vocabularios equivalentes. 
+Esta investigación se considera de tipo exploratorio ya que no se contó con el tiempo y el personal necesario para llevar a acabo un marcado masivo de documentos necesarios para obtener resultados probatorios. La colección de documentos marcados y el grupo de usuarios con los que se evaluaron los resultados son limitados. Pruebas con mayor cantidad de archivos serían alcanzables eventualmente pues los desarrollos técnicos ya están elaborados y probados en su mayoría, y el marcado es en sí un ejercicio simple aunque minucioso y que debe supervisarse para asegurar la calidad. 
+El diseño de investigación es del tipo cuasiexperimental, con grupos evaluadores especificados con anterioridad y conformados por especialistas en educación de la comunidad de la UIA. La colección de documentos marcados es un grupo de 29 artículos de revista sobre educación provenientes de las revistas DIDAC de la Universidad Iberoamericana (UIA), La Academia, de Instituto Politécnico Nacional (IPN) y Pedagogía de la Universidad Pedagógica Nacional (UPN)15, filtrados por un buscador en la opción de texto completo, sobre el que se aplicarán diversas estrategias de búsqueda establecidas con 8 expertos en educación, quienes propondrán cada uno 3 temas a buscar y sus correspondientes estrategias de búsqueda utilizando palabras conectadas con operadores booleanos. Sobre el conjunto de artículos recuperados se hizo una valoración de relevancia uno a uno. Finalmente se identificaron los sets generados si la estrategia se aplicaba solo a ciertas etiquetas del texto y se retomó la valoración que el experto dio a los artículos para calcular los porcentajes de precisión en ambos casos de búsqueda: sobre texto completo y sobre etiquetas.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Este estudio es descriptivo14 ya que reporta cómo se desarrolla un vocabulario XML para textos completos de artículos de revistas, la metodología de marcado y finalmente la medición exploratoria de los resultados de dicho marcado sobre la precisión en la recuperación de la información. 
+Para el desarrollo del vocabulario se revisaron varias opciones metodológicas y se optó por la propuesta de Maler, E. y El Andaloussi, J. en 1996, la cual aunque diseñada para el diseño de DTD (Document Type Definition) para SGML (Standard Generalized Markup Language) se adapta perfectamente a un desarrollo en XML para objetos digitales de texto completo y es extremadamente valiosa en términos de esta investigación por el detalle que ofrece y por considerar en una de sus etapas la comparación entre la propuesta por diseñar con vocabularios equivalentes. 
+Esta investigación se considera de tipo exploratorio ya que no se contó con el tiempo y el personal necesario para llevar a acabo un marcado masivo de documentos necesarios para obtener resultados probatorios. La colección de documentos marcados y el grupo de usuarios con los que se evaluaron los resultados son limitados. Pruebas con mayor cantidad de archivos serían alcanzables eventualmente pues los desarrollos técnicos ya están elaborados y probados en su mayoría, y el marcado es en sí un ejercicio simple aunque minucioso y que debe supervisarse para asegurar la calidad. 
+El diseño de investigación es del tipo cuasiexperimental, con grupos evaluadores especificados con anterioridad y conformados por especialistas en educación de la comunidad de la UIA. La colección de documentos marcados es un grupo de 29 artículos de revista sobre educación provenientes de las revistas DIDAC de la Universidad Iberoamericana (UIA), La Academia, de Instituto Politécnico Nacional (IPN) y Pedagogía de la Universidad Pedagógica Nacional (UPN)15, filtrados por un buscador en la opción de texto completo, sobre el que se aplicarán diversas estrategias de búsqueda establecidas con 8 expertos en educación, quienes propondrán cada uno 3 temas a buscar y sus correspondientes estrategias de búsqueda utilizando palabras conectadas con operadores booleanos. Sobre el conjunto de artículos recuperados se hizo una valoración de relevancia uno a uno. Finalmente se identificaron los sets generados si la estrategia se aplicaba solo a ciertas etiquetas del texto y se retomó la valoración que el experto dio a los artículos para calcular los porcentajes de precisión en ambos casos de búsqueda: sobre texto completo y sobre etiquetas</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Desde antes que apareciera el hombre en la tierra los eventos geofísicos han estado presentes en la conformación de nuestro planeta y con la aparición del hombre estos eventos geofísicos se convirtieron en desastres naturales. El impacto que los fenómenos naturales tienen sobre la sociedad ha hecho que la evolución del concepto se sitúe dentro del campo de lo natural en una primera etapa para, en la actualidad, dar paso al reconocimiento de su carácter social. En un principio se entendía que un desastre era provocado sólo por el fenómeno natural, es decir, se veía como un acto divino donde la sociedad actuaba de manera pasiva.
+
+El desastre natural se definía como: un evento incontrolable en el cuál la sociedad sufre severos daños que irrumpen todas o algunas de sus funciones esenciales como sociedad. La forma en cómo se construye socialmente el riesgo y la eventual formación de condiciones para un desastre se pueden entender al utilizar un número básico de conceptos como son desastre, emergencia, amenaza, riesgo y vulnerabilidad.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La metodología de trabajo escogida es la de Ingeniería de software orientado
+a objetos (ISOO). Las razones para haber elegido esta metodología se basan en el hecho de  que  para
+poder desarrollar este proyecto era  muy importante el poder incorporar de manera fácil la
+funcionalidad de las necesidades de nuestros usuarios (CADI), además de poder generar una descripción del sistema que los integre y que sean estables ante los cambios, así como poder usar una arquitectura por prototipos (debido a  que  el equipo de trabajo estaría cambiando) y  las técnicas de programación orientada a objetos; Razones  que  son contempladas completamente en las técnicas de ISOO.
+
+La ISOO aparte de los beneficios anteriores nos da  uno extra, el cual es el incluir el 
+levantamiento de requerimientos al nivel del usuario. Esto es  muy importante debido a que 
+para poder desarrollar un sistema siempre se parte  de los requisitos del usuario. los cuales  
+casi siempre son de mala calidad, ambiguos, no estás en una notacion estandar que 
+comparta el equipo de desarrollo, o no consideran todas las relaciones con otros usuarios o 
+sistemas. La ISOO incorpora el levantamiento de requerimientos como su actividad E2 
+principal, estando las demás actividades fuertemente relacionadas con  los requerimientos. 
+
+La IS00 se basa en generar modelos del sistema. Cada  modelo  es  una  forma de visualizar
+al sistema, con una descripción de aspectos relevantes para cada proceso del desarrollo. Los
+procesos que la integran se muestran en la figura 3.l.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Para el desarrollo de éste sistema informático se decidió utilizar la 
+metodología de protopiado, y además usar las etapas del modelo 
+espiral, para complementar con el diseño de la metodología variante 
+de los algoritmos genéticos. Para el desarrollo de la aplicación, se 
+considera: 
+1°.- Planificación: Tener un cronograma de actividades, 
+especificando las tareas a realizar. 
+2°. - Análisis de Riesgo: Identificar la población o datos que serán 
+utilizados para identificar los archivos borrados de tipo texto, además 
+de evaluar cada uno de los datos. 
+3°. - Ingeniería: Desarrollar el algoritmo genético, realizar el diseño 
+detallado de la etapa, crear el código fuente. 
+4°. - Evaluación: A partir del desarrollo del algoritmo se realiza el
+análisis y prueba de los datos. 5°. - Toma de Decisiones: Se evalúa el resultado, y de este se 
+realiza el proceso de combinación y terminan con la mutación. 
+6°.- Refinamiento: Generan las posibilidades de sofisticar indicadas 
+anteriormente.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Bajo DOS, se utilizb la herramierita CP,-CLIPPER 5.01 la cual maneja una de las técnicas más conocidas y utilizadas en bases de datos comerciales (Xbases), los cuales generan archivos de indexación en forma de arboles B balanceados y archivos en formato DBF.
+Bajo WINDOWS se utilizó Visual Básic 3.00 de Microsoft, que hace uso de la base de datos relaciona1 de Access de Microsoft.
+El Depto. de Ingeniería Biomédica ya cuenta con la tarjeta de adquisición (PClab 812), el electroencefalógrafo Nihon Kohden (EEG 1W) de 12 canales y el sistema de estimulación.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Se hizo uso de la programacion estructurada como metodologia de programacion asi como de el scompilador gcc de GNU integrado en el sistema operativo Linux.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Las metodologías imponen un proceso disciplinado sobre el desarrollo de software con el
+fin de hacerlo más predecible y eficiente. Lo hacen desarrollando un proceso detallado con un fuerte énfasis en planificar inspirado por otras disciplinas de la ingeniería.Una metodología es un proyecto de desarrollo de software, la metodología define Quién debe hacer Qué, Cuándo y Cómo debe hacerlo No existe una metodología de software universal. Las características de cada proyecto (equipo de desarrollo, recursos, etc.) exigen que el proceso sea configurable.
+
+ABC
+Para efectos de desarrollo de nuestro sistema nos apoyaremos de la metodología ABC, la
+cual nos guiara hacia la creación de nuestra base de datos y aplicaciones. Así como a la
+reestructuración de funciones actuales hacia funciones mas concretas y a la incorporación de la
+función de administración de datos.
+Sus principales objetivos de esta metodología son; Generar sistemas orientados a los
+usuarios, reducir costos y riesgos de desarrollo, planear y controlar los avances del proyecto, y
+asegurar que las bases de datos se han de calidad y flexibles.
+Fases de la metodología ABC:
+1. Análisis Operacional
+2. Diseño Conceptual
+3. Definición de la Base de Datos
+4. Análisis Heurístico
+5. Prueba Ambiental
+6. Revisión de Rendimiento / Calidad
+1.- Análisis Operacional
+En esta primera fase de desarrollo del sistema nos involucramos con las áreas de la
+empresa identificando así los procesos del negocio (no importando que estos sean realizados de manera manual o automatizados). Se interactúa con el usuario a través de entrevistas y serealizan los modelos de actividades empleándose la técnica del SADT.
+2.- Diseño Conceptual En esta fase se realizaran el modelo conceptual de nuestra base de datos, el cual
+describirá mantenimientos, salidas y utilización de la base de datos. El modelo se compone de
+entidades y atributos.
+3.- Definición de la Base de Datos
+En esta fase se obtiene un prototipo de la base de datos. Se normaliza la base de datos
+para evitar redundancia de datos, evitar problemas de actualización de los datos en las tablas y proteger la integridad de los datos.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Para llevar a cabo esta investigación se requiere de varias etapas métodológicas.
+La primera etapa se centra en la revisión de la literatura existente en la temática de:
+modelado del tutor, protocolos de enseñanza, Sistemas Tutores Inteligentes (STI) en
+general, así como también se relevarán las posibles herramientas que provee la
+Inteligencia Artificial (IA) para poder llevar a cabo el modelo planteado. Esta etapa
+finaliza con la elaboración de un informe que constituye el Estado del Arte donde se
+resumen las investigaciones más relevantes en el tema y el estado actual de las
+herramientas, métodos y técnicas disponibles. Aquí se describen también los
+fundamentos teóricos que cimentarán la solución elegida a través de la investigación de
+libros, revistas especializadas, sitios de Internet de centros de investigación de
+universidades nacionales e internacionales y eventos de la temática (Simposios,
+Congresos, Jornadas, Workshops, etc.).
+La segunda etapa consiste en el diseño y elección de las herramientas de toma de datos
+(planillas de estilos de aprendizaje). De acuerdo con Hernández Sampieri [Hernández
+Sampieri, 2001] se determinará la validez y confiabilidad de la herramienta utilizada.
+Por otra parte, se debe determinar el tamaño muestral adecuado del total de estudiantes
+(población en estudio) a fin de trabajar por debajo de una cota de error de
+generalización (aproximadamente 5%).
+En la tercera etapa se definirá la arquitectura básica del Sistema Tutor Inteligente
+(STI) que permita independizar las funciones básicas de los módulos y submódulos que
+componen a todo el sistema, evitando la superposición de funcionalidad entre los
+distintos módulos.
+En la cuarta etapa a partir de los datos tomados mediante el instrumento (planilla de
+estilos de aprendizaje) se debe determinar la existencia de las preferencias de los
+estudiantes hacia los diferentes protocolos pedagógicos (formas de enseñanza). Con lo
+que se validarán las hipótesis y que los estilos de aprendizaje condicionan las formas o
+protocolos de enseñanza.
+En esta etapa se deben aplicar las herramientas más apropiadas de la Inteligencia
+Artificial (IA) para la selección del modo de enseñanza que mejor se adapte para cada
+estudiante y se busca el modo de enseñanza más efectivo para cada estudiante. De no
+estar presente el mismo en el sistema para un tema dado, se debe prever que el Sistema
+Tutor Inteligente (STI) genere una escala o ranking de los métodos de enseñanza
+adecuados para que se le pueda recomendar al estudiante.
+La quinta etapa consiste en evaluar la solución propuesta a través de una muestra
+significativa de estudiantes de Programación Básica utilizando como datos de referencia
+sus rendimientos académicos. Finalmente se llevará a cabo el informe final de la tesis,
+con las conclusiones, limitaciones encontradas y con las futuras líneas de investigación.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Para la realización de un proyecto de desarrollo informático la selección de una
+métodología adecuada para el tipo y tamaño de proyecto es fundamental para
+su éxito.
+Las actividades y tareas ejecutadas como parte del proceso de realización de
+un proyecto de titulación son complejas pues relacionan a una gran cantidad de
+usuarios, cada uno con acceso a diferentes niveles de información, esta
+complejidad y gran potencial de cambio de requerimientos, debido a la gran
+cantidad de usuarios involucrados, requiere una métodología que permita la
+adopción de cambios a través iteraciones en cualquier fase del proceso debido
+a cambios en requerimientos o a retroalimentación de los usuarios.
+"El Proceso Unificado de Rational (Rational Unified Process - RUP) es un
+proceso de desarrollo de software y junto con el Lenguaje Unificado de
+Modelado UML1, constituye la métodología estándar más utilizada para el
+análisis, implementación y documentación de sistemas orientados a objetos.
+El RUP2 no es un sistema con pasos firmemente establecidos, sino un conjunto
+de métodologías adaptables al contexto y necesidades de cada organización.3
+A continuación se exponen las razones para la adopción de RUP como
+métodología para la realización del presente proyecto:
+		*	La gran cantidad de usuarios involucrados en el sistema requiere que el
+proceso de desarrollo sea iterativo para incorporar rápidamente cambios
+o retroalimentación de los usuarios involucrados en el desarrollo del sistema, la utilización de modelos lineales como cascada no resulta
+factible.
+		*	Junto a UML, RUP permite capturar requerimientos utilizando diagramas
+de casos de uso, estos diagramas permiten una más sencilla relación
+del usuario con el proceso pues facilitan la comprensión y
+retroalimentación de requerimientos y en última instancia permiten
+capturar un mayor porcentaje de estos eliminando los riesgos
+ocasionados por pasar por alto requerimientos o no comprenderlos
+completamente.
+		*	En caso de la eventual aparición de cambios sustanciales o nuevos
+requerimientos durante fases avanzadas del proyecto (desarrollo o
+implantación) que no puedan ser introducidos sin afectar la arquitectura
+o tiempos de entrega del producto, estos podrán ser pospuestos para la
+siguiente iteración del sistema, permitiendo la entrega de un producto
+funcional a los usuarios mientras se trabaja en su sucesor.
+		*	RUP propone la producción de hitos o entregables (milestones) al
+finalizar cada fase del proceso, esto facilita el control de cambios y del
+proyecto en general.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>En el estudio se decidió realizar una encuesta para obtener la
+información necesaria, ésta provee de un mecanismo muy práctico y
+fácil de comprender.
+Esta encuesta se la realizó de manera presencial; y las razones que nos
+llevaron a aplicarla de esta forma fueron:
+* Garantizar un alto porcentaje de respuestas, eliminando el envío de
+encuestas por email que no ha dado resultados favorables en
+estudios anteriores.
+* Obtener resultados claros y precisos mediante la explicación de cada
+pregunta en caso de ser necesario.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Para llevar a cabo esta investigación se hicieron los siguientes estudios preliminares:
+1. Estudio sobre Estilos de Aprendizaje de los Profesores del CP
+2. Estudio sobre uso de Tecnología Computacional por parte de los profesores en el Colegió de Postgraduados Después de practicados estos estudios se procedió a identificar las variables de estudio y los métodos de análisis estadístico de los datos resultantes.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>2.3 métodología del Seguimiento de Egresados
+De acuerdo al análisis de los referentes históricos, normativos y teóricos referentes al seguimiento de egresados, para el análisis y diseño del Sistema de Información de Seguimiento de Egresados (SISEG), se consideraron las recomendaciones de la ANUIES (algunas de estas mencionadas en el capitulo anterior, léase apartado 1.3 Marco normativo del estudio de egresados), además de las características propias de la carrera, y puesto que un trabajo de investigación requiere una métodología la elegida para el desarrollo de este proyecto es Áncora.
+Dentro de las partes de este proyecto se encuentra el análisis y el diseño del sistema. Para la parte del análisis de requerimientos se empleara la métodología ÁNCORA, ya que se adapta perfectamente al tipo de proyecto.
+
+métodología empleada para el desarrollo del SISEG
+En todo proceso de desarrollo, se sigue una serie de pasos o etapas para la organización del proyecto o trabajo a realizar es por eso el uso de una métodología.
+"Para trabajar con alguna métodología, lo primero es conocer que se puede hacer con ella, cuál es su enfoque y que herramientas brinda (Sumano López, 2001).
+El uso de una métodología en la realización de un trabajo práctico-técnico, ayuda en el desarrollo del mismo porque se siguen bases teóricas y técnicas, es decir en cuánto a conceptos nuevos y el como aplicarlos.
+métodología. Se refiere a los métodos de investigación que se sigue para alcanzar una gama de objetivos en una ciencia.
+En el desarrollo de esta aplicación se utiliza la métodología de Áncora por que es una métodología ágil para el desarrollo de aplicaciones.
+Los beneficios de utilizar una métodología radican en que se sustente la construcción de una aplicación, mediante el uso de sus artefactos que se describirán mas adelante.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Actualmente los métodos utilizados en OCR no son totalmente ajenos a los utilizados en el problema del reconocimiento general de patrones de una imágen, especialmente en lo que se refiere al análisis de la imágen y al reconocimiento del patrón. Sin embargo debido a la particularidad del OCR, las técnicas se pueden resumir en las siguientes [AVI87].
+
+   i)   Comparación global punto a punto
+        (Plantilla de normalización)
+        Este proceso supone una verifiicación de todos los  "pixeles" que constituyen la imágen contra un modelo preestablecido. De la conparación que resulte con un menor porcentaje de error, dentro de un limite predeterminado de tolerancia, se padrá determinar el, o los, posible(s) caracter(es) de que se trata.
+
+   ii)  Transformaciones globales.
+        Éstos métodos tienen como objetivo la información del documento a procesar en funciones primarias que permitan analizar y operar con mayor facilidad. Esto es, transformar la imagen bidimensional en un modelo matemático cuya complejidad operacional sea menor.
+
+        Estas transformadas pueden ser Karhunen-Loever, Fourier, cálculo de momento y relaciones con respecto al eje principal de inercia.
+
+        Por ejemplo, la transformada de Fourier en dos dimensiones realiza operaciones entre el dominio de la frecuencia y el tiempo, que representan imágenes de documentos y patrones de los trazos de cada caracter.
+
+   iii) Momemtos
+        Este métod puede ser empleado para la extracción de característícas o símplemente como herramíenta de apoyo para la normlízación en otras métodos. 
+
+        El (í.j)-ésimo momento de la matríz-imapegen f del carácter está definído por la fórmula: 
+
+        m[ij] = S [k=1,M] S[i=1,N] K'l'f(k,l)
+
+        donde f(k,l) contribuye a las sumatorias sí el pixel correspondiente a esa coordenada en la matríz f es negro. El caracter se encuentra enmarcado dentro de un rectángulo de dímerisíones M x N. 
+
+    iv) Extracción de propiedades locales. 
+        Las propiedades locales de un caracter son los puntos terminales, los ángulospronunciados o esquinas, los cruces de linea y los cruces de formas. Este extraccíón se puede realízar mediante al uso de máscaras predefinidas, o los caracteres que usualmente se encuentran ya filtrados.
+
+        Las máscaras usualmente extraen una caracteristica única de los caracteres a reconocer. Es decir, las máscaras estarán hechas a base de ciertas patrones primitivos los cuales serán comunes a algunos caracteres pero na a otros. 
+
+        Así por ejemplo. una linea recta  localizada al lado izquierdo del caracter puede formar parte de las letras B,D,F,E,H,K,L,P,R, mientras que una linea curva en formc de "C:". pcuirb ser parte der las letras C,G.O,Q.
+
+    v)  Búsqueda para la extracción en base a líneas determinadas.
+        Consiste en particionar el caracter en un número determinado de regiones, y analizar caracterísbicas comunes en ellas, como pueden ser porcentajes de áreas en negro, número de trazos cerrados, etc. 
+
+        Las líneas de particicón pueden formar cuadriláteros  regulares o ser, simplemente, horizontales o verticales. 
+
+    vi) Análisis por medio de curvaturas.
+        Este involucra el seguimiento de una curva, detección de concavidades y análisis geométrico.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia> </Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Para llevar a cabo el diseño del S.A.R. se llevaron a cabo una serie de procesos para poder
+obtener la información necesaria para tener una base sólida y con ello tener un mejor desempeño
+del software.
+* Analizar una métodología Estructurada para desarrollar el Ciclo de Vida completo de los
+Sistemas Informáticos(ver Apéndice D).
+* Resolver algunos casos prácticos de Análisis y Diseño de Sistemas Informáticos basados
+en casos reales de la empresa.
+* Informarse de las plataformas y arquitecturas tecnológicas disponibles y según las
+tendencias y estándares del mercado, con especial mención a los sistemas abiertos
+basados en modelos Cliente / Servidor, Sistemas de Gestión de Bases de Datos.
+* Conocer el Lenguaje de Consulta Estructurado(SQL) para un mejor desempeño en
+almacenamiento y procesamiento de los datos.
+* Realizar entrevistas con los usuarios del sistema para considerar las propuestas para
+mejorar ciertos puntos básicos en el S.A.R..
+* Elección de entre varios lenguajes de programación el mas adecuado para el manejo de
+Bases de Datos de manera confiable y con ello agilizar los procesos.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Ya se ha comentado sobre las necesidades a cubrir en el sistema; enseguida se 
+describen los usuarios que la base de datos contemplara. 
+
+La base de datos tendra como usuarios los siguientes actores: 
+* Notificador 
+* Grupo Ejecutivo: 
+	
+	Presidente.
+	Vicepresidente. 
+	Director de Seguridad Nuclear.
+	Director de Seguridad Radiologica. 
+
+* Grupo logistico. 
+* Grupo operativo. 
+
+-Nota
+El enfoque de este trabajo va dirigido hacia el notificador, pero aun asi se
+dejaran implementados los modulos para el desarrollo de los demas actores. </Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Para comenzar con esta tesis era necesario realizar una investigación acerca de
+los programas que estaba utilizando; en el IMP se me encargó realizar los
+programas que iban a utilizar para depurar documentos en Visual Basic.
+Primero comencé realizando depuraciones manuales para comprender como
+debían trabajar los programas, donde se me indicaba cuales columnas de las
+hojas de cálculo iban a ser utilizadas y a partir de esa observación la información
+la acomodé en tablas.
+En base a la creación de los programas en Visual Basic me surgió la idea de crear
+otros programas que sirvieran para crear catálogos, documentos, hacer
+búsquedas etc. Para que también fueran usados por los trabajadores del IMP que
+sirvieran de ayuda para reducir el proceso de depuración haciéndolo más rápido,
+reduciendo los procesos a simples clics de un usuario en los programas creados
+con Java y C#.
+Para realizar los programas utilicé la programación orientada a eventos; este tipo
+de programación es usada por Visual Basic, el usuario interactúa con botones que
+contienen las acciones programadas. Por cada clic del usuario del programa en
+algún botón se genera un evento.
+También utilicé la programación orientada a objetos "POO; la programación
+orientada a objetos está basada en herencia entre clases para conformar objetos
+que pueden usar métodos o acciones que estos pueden realizar; según la clase de
+la cual son creados.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>REVISIÓN DEL MARCO LEGAL
+Para cubrir con el primer objetivo específico de la investigación, se
+procedió a realizar una revisión completa de leyes venezolanas vigentes
+para el periodo de la misma, seleccionando los artículos de interés, y
+elaborando fichas. Posteriormente se inició una revisión a fondo de la
+selección mencionada, la cual se refleja en el presente documento final de
+tesis.
+
+METHONTOLOGY
+Se aplicó la Methontology [27], métodología para construcción de
+ontologías desarrollada en el Laboratorio de Inteligencia Artificial de la
+Universidad Politécnica de Madrid, para proponer la Ontología espacio
+temporal de Registro Catastral venezolano. Esta consiste en una serie de
+pasos, como son:
+1. Especificación: Se identificó el propósito de la ontología.
+2. Adquisición de conocimiento: Éste fue el resultado de entrevistas
+con expertos y análisis de textos, en el marco de la Constitución,
+leyes y documentos emitidos por autoridades en materia
+catastral. El resto trató de teorías computacionales debidamente
+citadas en el presente texto, para la posterior prueba del
+prototipo.
+3. Conceptualización: En este paso, se definió el dominio de
+conceptos, relaciones y propiedades.
+4. Integración: Este paso no se realizó, pues no se integró la
+ontología con alguna ontología preexistente.
+5. Implementación y evaluación: Se creó en formato digital, el
+documento OWL con la definición del dominio de conceptos del
+paso 3. Se creó una base de datos de prueba con la misma
+estructura conceptual de la ontología en owl. Se evaluó la
+consistencia y relevancia de lo generado en el paso 5, a través de
+una aplicación basada en agentes de software, la cual consistió en
+consultas a la base de datos de prueba, desde la Web Semántica.
+6. Documentación: La ontología se entrega en el capítulo 4 de esta
+investigación, debidamente documentada. También se puede
+observar la información relacionada a cada una de las clases,
+atributos y relaciones presentes en la ontología, en el archivo OWL
+generado que se presenta en el (Anexo 8).
+Para realizar los mismos, se siguieron las siguientes tareas, propuestas en la Methontology:
+		*	Construir un glosario de términos,
+		*	Construir una taxonomía de conceptos,
+		*	Construir diagramas de relaciones binarias,
+		*	Construir un diccionario de clases o conceptos, y para esta
+tarea es necesario:
+i. Describir las relaciones binarias,
+ii. Describir los atributos de las instancias,
+iii. Describir las constantes.
+		*	Describir los axiomas formales y las reglas.
+		*	Una tarea opcional de la Methontology, fue generar las
+instancias de prueba, aunque ésto no se hizo dentro de la
+ontología debido al gran espacio de almacenamiento
+ocupado por las instancias geoespaciales, sino en una base
+de datos relacional, que tenía la misma estructura del
+documento OWL.
+Así mismo, en el siguiente capítulo 4, se responde a las preguntas
+que Noy [46] plantea para desarrollar una ontología. Estas sirvieron para
+orientar la investigación, pues para la prueba se desarrolló un agente
+consultor, y son las siguientes: * ¿Cuál es el dominio que cubrirá la
+ontología?, * ¿Para qué usaremos la ontología?, * ¿Para qué tipo de preguntas
+deberá la ontología proveer respuestas?, y * ¿Quién usará y dará
+mantenimiento a la ontología?.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La métodología de investigación utilizada en el desarrollo de este proyecto se sustenta en la
+técnica documental la cual ha permitido la recopilación de información para elaborar un marco
+teórico conceptual para formar un cuerpo de ideas sobre la construcción del prototipo ejecutable
+de la Interfaz Computacional para administrar un Examen Adaptativo.
+A continuación se describe la métodología para llevar a cabo este proyecto
+		*	Realizar una investigación sobre la evaluación del aprendizaje para tener un marco de
+referencia del contexto donde esta inmerso el proyecto.
+		*	Realizar una investigación referente a los exámenes de conocimientos, origen, evolución,
+características, y lineamientos para su construcción, y el impacto de las nuevas
+tecnologías de la información.
+		*	Investigar sobre las aproximaciones psicometrícas de la Teoría de los Test que se emplean
+en la medición de rasgos clínicos, educativos, de personalidad entre otros.
+		*	Seleccionar del modelo de medida mas adecuado para medir el rasgo de interés.
+		*	Desarrollar el algoritmo de administración de ítems que será implementado en el sistema.
+Investigar las fases del proceso de desarrollo del software orientado a objetos, siguiendo
+los lineamientos de la métodología Proceso Unificado de Desarrollo, para la construcción
+del prototipo ejecutable de la interfaz computacional del examen.
+		*	Investigar UML (Lenguaje de Modelado Unificado) para modelar, construir y documentar
+las fases del proceso de desarrollo de software orientado a objetos.
+		*	Realizar una investigación sobre las API's de lenguaje de programación Java que
+cumplan con las necesidades de implementación del sistema, así como de las Bases de
+Datos MySQL.
+		*	Realizar una investigación del sistema moodle para la calibración de los ítems que
+integraran la Base de Datos para la prueba piloto del sistema.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La nueva tecnología de comunicación que ofrece servicios de telefonía VoIP resultaría más eficiente que las actuales (PSTN: Red de transporte del servicio público)</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Licenciatura</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>METODOLOGÍA
+
+A continuación se presentan los distintos esquemas del algoritmo evolutivo paralelo planteados
+por la Dra. Graciela, se explican también algunas particularidades existentes que conforman las distintas
+versiones de los algoritmos desarrollados.
+
+Finalmente se establecen las variables que servirán para comparar las distintas versiones del  
+algoritmo evolutivo paralelo.
+
+Paralelización de los algoritmos evolutivos
+               
+NOTA: Para codificar cada uno de los esquemas propuestos, se utilizo el modelo de programación
+PVM   'master/worker1.
+
+El termino modificar población se refiere a aplicar los operadores genéticos a los individuos de  
+dicha población.
+
+
+- Primer esquema (Central i. i=POPSIZE)
+ 
+Este esquema corresponde al modelo de islas con comunicación en estrella descrito en la
+sección de algoritmos genéticos paralelos, como podrá deducirse al comprender la siguiente descripción. En
+este esquema el proceso "master":
+
+ - Inicialmente crea y lanza los 'workers'."
+ - Crea su población aleatoria, guarda el mejor individuo en la posición POPSIZE de su arreglo (population),
+   y pide a cada proceso "worker" crear su propia población aleatoria.
+ - A continuación recibe las poblaciones de cada "worker", junta todos estos individuos (los creados por él y
+   por los demás) en un arreglo de Individuos (Array ()).    
+ - Después de hacer esto pide a todos los "workers" modificar su población - que deben conservar- y las recibe
+   nuevamente, modifica su población - aplicando elitismo nuevamente- y junta todos estos  individuos en otro
+   arreglo de Individuos (Array).
+ - Repite lo siguiente para el número de generaciones establecidas:
+ - Selecciona de los dos arreglos (ArrayO y Arrayí) informados en los pasos previos los  POPSIZE                
+   mejores individuos, haciéndolos propios del proceso 'master1.
+ - Después envía a cada "worker" esta población para que la hagan propia, y les pide modificar     
+   esta población. El proceso 'master' modifica su propia población.
+ - Recibe la población modificada por cada uno de los procesos 'workers'.
+ - Se aplica Elitismo a los POPSIZE mejores individuos, asegurando que el individuo más apto   esta en la  
+   posición POPSIZE del arreglo de Individuos "population".
+ - Después se guardan todas estas poblaciones en un arreglo de Individuos (ArrayO o Arrayí).
+ - Finalmente se aplica el algoritmo de Retropropagación al individuo population [POPSIZE]. 
+
+Para cada  esquema descrito anteriormente y el mejorado se usaron las siguientes bases de datos:
+ 
+Base de datos Iris 
+
+Contiene el análisis de una especie de plantas llamada 'iris'. En la base de datos se describe en 3            
+valores numéricos ciertas características de las plantas las cuales se clasifican en tres clases que son iris-setosa, iris-versicolor e iris-virginica. Se manejan cuatro características a las que llamamos atributosy estos son los que se utilizan para obtener la clasificación. Se tienen un total de 119 ejemplos de los                
+cuales 85 son para entrenamiento y 34 para prueba. Esta es la base de datos más pequeña que se                 
+utilizo.
+                
+Base de datos Diabetes
+
+Esta base de datos contiene 768 ejemplos los cuales se dividen en dos clases donde la clase 1                
+indica que el paciente no dio positivo con la enfermedad y la clase 2 indica que el paciente si dio positivo con la enfermedad. Se manejan 500 ejemplos de la clase 1 y 268 de la clase 2. Cada ejemplo contiene 8 atributos que son los que se utilizan para hacer la clasificación.
+                
+Base de datos Heart
+
+Esta base de datos contiene 270 ejemplos los cuales se dividen en dos clases donde la clase 1                
+indica que una persona no esta propensa a tener un ataque al corazón y la clase 2 indica que la persona si es propensa a tener un ataque. Los ejemplos se distribuyen en 150 para la clase 1 y 120 para la clase               
+Cada ejemplo contiene 13 atributos.
+
+Base de datos DNA 
+
+Esta base de datos contiene 3186 ejemplos los cuales están clasificados en tres clases. Para su                 
+manejo la base de datos esta dividida en 2000 ejemplos para entrenamiento y 1186 para prueba. La                 
+clase 1 contiene 464 ejemplos de entrenamiento y 303 de prueba, la clase 2 contiene 485 ejemplos de
+entrenamiento y 280 de prueba, y por ultimo la clase 3 contiene1051 ejemplos de entrenamiento y 603            
+de prueba. Para la clasificación cada ejemplo contiene 180 atributos.
+
+En cada uno de los esquemas se esta obteniendo un valor llamado calidad (fitness) el cual nos                 
+indica que tan bien clasifica nuestra red en cada una de las bases de datos, este valor se obtiene después de aplicar el Backpropagation a nuestro mejor individuo. Cada algoritmo nos da el valor calidad tanto para los ejemplos de entrenamiento como para los de prueba, sin embargo, para efectos de análisis de resultados, solo se utiliza el de prueba. También se obtiene el tiempo de ejecución da cada uno de los algoritmos descritos.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+</Informacion>
+</body>

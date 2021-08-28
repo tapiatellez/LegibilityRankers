@@ -1,0 +1,1542 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<body>
+<Informacion xmlns='http://www.w3.org/1999/xhtml' >
+
+<style type='text/css'>
+	
+@charset 'utf-8';
+
+table{
+	border: 1px black solid;
+	border-radius: 5px;
+	min-width: 400px;
+	font-family: Helvetica,Arial;
+	margin-top: 10px;
+	margin-right: 40px;
+	margin-bottom: 10px;
+	margin-left: 40px;
+	} 
+
+table td{
+	padding:7px;
+    text-align:justify;
+	}
+
+.tablas_corpus { 
+	font-family: Arial, Helvetica, sans-serif;
+	line-height:25px;
+	float:left;
+	}
+
+.tablas_corpus table{
+	font-family: 'Lucida Sans Unicode', 'Lucida Grande', Sans-Serif;
+	font-size: 14px;
+	text-align: left;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	}
+
+.tablas_corpus th {
+	font-size: 13px;
+	font-weight: normal;
+	padding: 8px;
+	background: #b9c9fe;
+	color: #039;
+	border: 1px solid #FFFFFF;
+	}
+
+#campos{
+    text-align:center;
+    font-weight: bold;
+    color: #4646C1;
+	}
+
+.tablas_corpus td {
+	padding: 8px;
+	background: #e8edff;
+	color: #4E4E4E;
+	border: 1px solid #fff;
+	}
+
+.tablas_corpus tr:hover td { 
+	background: #d0dafd; 
+ 	}
+
+h1 {
+	color: #666666;
+ 	font-family: Helvetica Neue, Arial, Helvetica, sans-serif;
+	letter-spacing: -1px;
+	text-decoration: none; 
+	text-shadow: 2px 2px #fff, 0 0 #0e0e0e, 3px 4px 2px #e3e3e3; 
+	text-transform: none; 
+	word-spacing: -2px;
+	}
+
+.titulo{
+	width: 1000px;
+	height: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #BDDDF2;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 50px;
+	border-radius: 26px 26px 26px 26px;
+	}
+
+resultados{
+	float: right;
+	padding-right: 100px;
+    font-weight: bold;
+	margin-top: 40px;
+	margin-bottom: 10px;
+	}
+
+</style>
+<div class='titulo'> <center><h1> INAOE CORPUS </h1></center> </div>
+<resultados> Resultados = 66</resultados>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Justificacion</td>
+				<td width='1000'>
+					<Justificacion>En la sección anterior se ha evidenciado la importancia de las WNN y las ventajas que
+ofrecen estos modelos sobre las RNA con pesos, y se han fundamentado estos hechos con
+referencias bibliográficas correspondientes a trabajos de investigación científica de punta realizada por equipos internacionales. Por otro lado, se ha enfatizado la existencia, la importancia y la aplicación de los modelos asociativos Alfa-Beta, cuyas características más importantes son similares a las que exhiben las WNN, en cuanto eficacia, eficiencia y facilidad de implementación.
+Ciertamente algunos connotados autores en el área de las redes neuronales sin pesos
+han creado modelos relacionados con memorias asociativas [6, 8, 19, 30, 56, 79]; otros, han incursionado en los modelos asociativos Alfa-Beta [19-24, 70], o bien, han realizado
+implementaciones en hardware de algunos modelos conocidos de redes neuronales sin
+pesos [25-29, 41, 60, 67, 72, 74-77, 91]. Sin embargo, hasta noviembre de 2007, no se han
+reportado en la literatura trabajos científicos donde se relacionen específicamente las redes neuronales sin pesos con los modelos de memorias asociativas Alfa-Beta.
+El presente trabajo de tesis queda justificado porque incluye, de manera central, la
+creación y diseño de un nuevo modelo de redes neuronales sin pesos, basado en los
+operadores Alfa y Beta, los cuales son tomados de los modelos de memorias asociativas
+Alfa-Beta. Por otro lado, se establecen las condiciones necesarias y suficientes de
+equivalencia de las redes neuronales sin pesos y los circuitos booleanos, y se presenta un
+estudio completo de factibilidad de implementación en hardware del nuevo modelo, el cual
+exhibe un alto desempeño, derivado del hecho de que es un hecho ya probado que la
+densidad aritmética de los modelos de memorias asociativas Alfa y Beta es menor que la
+otros modelos relevantes de memorias asociativas, como las morfológicas [18].</Justificacion>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Justificacion</td>
+				<td width='1000'>
+					<Justificacion>La idea de considerar la necesidad de seguridad de redes ad hoc no es nueva, inclusive en redes de sensores hay ataques específicos ante los cuales es necesario utilizar mecanismos de proteccion para evitar ataques de suplantacion y negacion de servicios, entre otros posibles; sin embargo no todas las tecnicas utilizadas en soluciones a estos problemas en redes ad hoc, no son del todo aplicables en una WSN.
+Con el fin de establecer claramente los riesgos a que se expone la informacion en una WSN en un ataque, conviene retomar una definición de la seguridad de la informacion, la cual consiste en otorgarle a la informacion cuatro propiedades basicas, como se indica en [50]:
+Confidencialidad, Autenticidad, Integridad,Disponibilidad.
+Con base en estas cuatro propiedades, los escenarios de riesgo en una WSN, y sobre todo, considerando el impacto de un ataque sobre la operacion de la red, se considera que el problema de la suplantacion de nodos es uno de los mas severos dada la mecanica de operacion de la red. A fin de ilustrar esta situacion, en las siguientes líneas se plantea un ataque hipotetico.
+Una red de WSN con topología ad hoc esta formada por varios nodos, entre los cuales existe una relacion de confianza mutua, por lo que cada uno puede establecer enlaces con cualquier otro nodo que este dentro de su area de cobertura. Estos enlaces permiten a la WSN cumplir sus dos funciones basicas: recoleccion y transporte de datos y órdenes de control de la red. En las condiciones mas críticas, no se tiene forma alguna de establecer
+autenticidad entre los nodos de la red.
+Para esta red, la ejecucion de un ataque de suplantacion es una situacion no muy ajena a la realidad. Este ataque puede llevarse a cabo por lo menos de las siguientes dos formas:
+Con la captura de un nodo y la manipulacion del mismo.
+Con la incorporacion de un dispositivo que se haga pasar por un nodo de la red autentico.
+La realizacion del primer ataque es muy simple, ya que como se ha dicho anteriormente, uno de los problemas del dispositivo en sí es la facilidad de ser capturado, ya que la mayoría de las veces los sensores no cuentan con mecanismos de proteccion física alguna, ademas de estar expuestos a fallas, e interrupcion en su servicio.
+Para el caso del segundo ataque, si bien se requiere la construccion de un
+sensor compatible con la WSN, esto no parece ser muy complicado una vez que se tiene la posibilidad de capturar uno o mas nodos originales y recuperar informacion del mismo que permita completar la construccion.
+Dada la dinámica de operacion de las WSN, y las posibilidades de ocurrencia de un ataque de suplantacion, es conveniente evaluar que tan graves podrían ser los daños en caso de la realizacion del mismo para así tener una mejor perspectiva del enfoque del problema que adopta el presente estudio.
+Bajo la suposicion que un tercer elemento ha logrado suplantar un nodo autentico en la red, los daños generados a partir de tal accion pueden agruparse en dos casos generales:
+1. Una parte de la informacion recolectada por la WSN tendra que hacer un salto a traves del nodo comprometido, esto pone en riesgo la disponibilidad, la integridad y la confidencialidad de dicha informacion, ya que ésta podría perderse, alterarse o en un caso extremo, ser expuestos a terceros no autorizados.
+2. De igual forma, las órdenes de control que viajan por la red pueden ser interceptadas y alteradas al momento de pasar por el nodo comprometido, acarreando un mal funcionamiento de la WSN, llegando en algunos casos incluso a poner en riesgo la integridad de elementos circundantes al sensor o del sensor mismo.
+La ocurrencia de cualquiera de estos casos anteriores sería en menoscabo de la operacion de la WSN, lo que repercutiría en consecuencias acordes a la importancia de la mision que desempeñe dicha red. Esto deja sobre la mesa la necesidad de contar con mecanismos de autenticidad que operen en las WSNs.
+En terminos generales, el problema de establecimiento de identidad tiene solucion mediante un proceso de autenticacion entre pares. En las redes de comunicaciones y en los sistemas de informacion, este proceso comunmente involucra el uso de mecanismos criptograficos, ya sean de clave secreta osimetricos, o bien de clave publica o asimetricos.
+La autenticidad en una WSN debe ser una propiedad inherente de la propia red, ya que como se ha establecido en la seccion anterior, un ataque originado a raíz de la falta de ésta puede llegar a comprometer el funcionamiento de la red completa. Sin embargo, a diferencia de otros entornos, las WSN tienen como un marco de operacion muy reducido en recursos, por lo que la seleccion de los mecanismos de autenticidad a utilizar debe ser acorde a dichas limitantes.</Justificacion>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Justificacion</td>
+				<td width='1000'>
+					<Justificacion>Es importante abordar el problema del agrupamiento conceptual ya que en muchas 
+ciencias el especialista está interesado en encontrar no sólo los agrupamientos en que se 
+clasifican los objetos sino además las propiedades que caracterizan a estos agrupamientos. 
+Sin embargo, las herramientas que se han diseñado hasta el momento tienen algunas 
+limitantes al ser aplicados en problemas donde se tienen objetos descritos por variables 
+cualitativas y cuantitativas mezcladas. Además, no permiten trabajar con ausencia de 
+información en las descripciones de los objetos. 
+En muchas ocasiones los conceptos obtenidos por los algoritmos no son fácilmente 
+interpretables, no cubren a todos los objetos del agrupamiento o cubren objetos que 
+pertenecen a otros agrupamientos. 
+Una restricción fuerte de estos algoritmos es que los conceptos deben ser disjuntos, es 
+decir, los objetos sólo pueden pertenecer a una clase. Sin embargo, en muchos problemas
+reales no sucede así, ya que los objetos pueden pertenecer a más de una clase y en este caso
+los conceptos deberían ser no disjuntos. 
+También es importante desarrollar algoritmos conceptuales difusos ya que en 
+problemas reales el especialista puede estar interesado en conocer en qué grado pertenece 
+un objeto a cada uno de los agrupamientos, más que saber si un objeto pertenece o no a un 
+agrupamiento.</Justificacion>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Justificacion</td>
+				<td width='1000'>
+					<Justificacion>El uso tan frecuente de las computadoras en la actualidad ha conllevado al desa-
+rrollo de múltiples aplicaciones tecnológicas, cuya base es el lenguaje natural. Aunado
+a esto, el surgimiento de Internet y con ello la gran reserva de recursos de información
+digitales, incita el desarrollo de algoritmos de búsqueda eficientes, que ponen a nuestra
+disposición todo un mundo de lenguaje. Con esta plataforma es común el uso de apli-
+caciones importantes de la linguística computacional, como: la traducción automática,
+el manejo y gestión de documentos, la generación de texto y resúmenes, las bibliote-
+cas digitales, las interfaces en lenguaje natural, etc.; cuya efectividad depende en gran
+medida de la eficacia de los algoritmos que han sido propuestos y que en todas estas
+tareas consideran la desambiguación de los sentidos de las palabras.
+La investigación y mejora de algoritmos de WSD conduce, por consiguiente, a la
+mejora en las aplicaciones antes mencionadas, lo que justifica el área de investigación
+seleccionada para esta tesis.
+Muchos métodos han sido propuestos para llevar a cabo la desambiguación y entre
+ellos los supervisados han sido de los más sobresalientes, con la presente dificultad de
+que requieren datos etiquetados de sentidos, adquiridos en la gran mayoría de las oca-
+siones, de forma manual.
+La disponibilidad de los conjuntos adecuados de datos etiquetados es por tanto un
+factor significativo y crucial para el entrenamiento de algoritmos basados en aprendi-
+zaje. Por desgracia, estos recursos son difíciles de obtener y de crear, pues requieren
+que cada una de las palabras haya sido etiquetada con su sentido. Este procedimiento
+resulta muy costoso y por ello solamente algunos artículos de vocabulario terminan
+siendo etiquetados.
+Mientras el cuello de botella léxico parece estar resuelto para el idioma inglés, no
+existe un amplio rango de recursos linguísticos para el procesamiento del lenguaje na-
+tural en otros idiomas [11]. El recurso de mayor cobertura de palabras es Princeton
+WordNet, un lexicón de concordancia semántica para el idioma inglés1
+, que agrupa los
+sinónimos en conjuntos denominados synsets y proporciona a las palabras su defini-
+ción. El propósito de éste es producir una combinación de diccionario y tesauro que sea
+intuitivamente utilizable y respalde el análisis de texto automático y las aplicaciones
+de inteligencia artificial. Sin embargo, su utilidad como recurso de entrenamiento y
+evaluación para anotadores de sentidos supervisados está actualmente algo limitada
+por su metodología secuencial. Esta notación obliga a los intérpretes a familiarizarse
+con los inventarios de sentidos de cada palabra [2].
+A pesar de sus inconvenientes, este recurso representa una contribución muy im-
+portante al campo, proporcionando el primer conjunto de datos balanceados de larga
+escala para el estudio de las propiedades de polisemia en el idioma inglés.
+Desafortunadamente, no existe para el idioma español un recurso léxico de tal mag-
+nitud con el cual se pueda proveer de sentido a las palabras, aunque se han están
+llevando a cabo esfuerzos en esta dirección. Por lo tanto, la búsqueda de recursos dis-
+ponibles que permitan asociar etiquetas de sentidos y más aún, esto lo realice de forma
+automática, es una tarea intermedia indispensable en el procesamiento de lenguaje
+natural</Justificacion>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Justificacion</td>
+				<td width='1000'>
+					<Justificacion>Esta tesis espera realizar distintas contribuciones. En primer lugar, 
+incorporando determinadas herramientas conceptuales desarrolladas en el campo de 
+los estudios sociales de la ciencia y la tecnología que no han sido mayormente 
+aplicadas al estudio particular de las Tecnologías de la Información y la Comunicación. 
+Añadir aquellos conceptos presentes en el estudio de las tecnologías en general 
+permitiría comprender lo particular de los procesos de incorporación de TIC y de la 
+construcción de "campus virtuales en universidades del país. Junto con ello, 
+proporcionar nuevos andamiajes teóricos vinculados con las características 
+inherentes a las TIC. Este propósito se presenta como inédito ya que pocos trabajos 
+en el ámbito de las ciencias sociales han analizado las dinámicas de desarrollo 
+tecnológico que posibilitan la construcción de entornos "virtuales que se gestan en las 
+universidades desde un enfoque que se encuadre en el propuesto por el campo de los 
+estudios sociales de la ciencia y la tecnología. 
+En ese sentido se aspira a establecer una ruptura con aquellas formas 
+"cristalizadas de determinismo tecnológico que consideran que la creciente "difusión 
+y proliferación de las Tecnologías de la Información y la Comunicación producen 
+"efectos en la "sociedad y se limitan a una mirada meramente instrumental dejando 
+de lado aquellas que hacen hincapié en la tecnología como construcción social, 
+entendiendo que no hay una relación sociedad-tecnología, como si se tratara de dos 
+entidades separadas y que la distinción misma entre social y técnico debe 
+considerarse como el resultado de un proceso de "co-construcción.
+Por otra parte, esta investigación espera contribuir al campo de los estudios 
+de la educación superior y los estudios sobre universidad en el cual aparece 
+como vacante la problemática vinculada a la educación universitaria "virtual. La 
+utilización de la tecnología para la enseñanza y la investigación no es únicamente una 
+cuestión técnica, puesto que replantea cuestiones fundamentales no sólo sobre los 
+métodos de trabajo sino sobre las metas y los propósitos que persiguen las 
+instituciones universitarias. Así, el estudio de los "campus virtuales de las 
+universidades nacionales argentinas podría contribuir a replantear la dinámica de 
+formulación de políticas y toma de decisiones al interior de la universidad. 
+Por último se espera contribuir a los estudios que relacionan los procesos 
+de "innovación tecnológica y los territorios indagando en la nueva dimensión 
+espacio-temporal que generan las TIC y en las condiciones territoriales, económicas, 
+sociales, organizacionales y simbólicas, entre otras, que inciden sobre la 
+implementación de los "campus virtuales"</Justificacion>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Justificacion</td>
+				<td width='1000'>
+					<Justificacion>Actualmente nos encontramos en un proceso de constantes cambios y transformaciones 
+que obedecen a una serie de factores y entre ellas a la incorporación vertiginosa de 
+nuevas tecnologías de la información y la comunicación en diversos campos, incluidos 
+en el aspecto educativo. De acuerdo a la UNESCO (2005) los sistemas educativos de 
+todo el mundo se enfrentan actualmente al desafío de utilizar las nuevas tecnologías de 
+la información y la comunicación TIC para proveer a sus estudiantes con las 
+herramientas y conocimientos necesarios para el siglo XXI. En el año 2005, el Informe 
+Mundial sobre la Educación de la UNESCO, "El Imperativo de la Calidad, enfatizó en 
+la importancia de los métodos de aprendizaje y en la utilización de materiales 
+educativos, infraestructura y acceso a las TIC, como un importante desafío en el campo 
+educativo. 
+Las tecnologías de la información y la comunicación TIC son un factor de vital 
+importancia en la transformación de diversos campos de la sociedad. En el campo 
+educativo las TIC tienen el potencial de transformar la naturaleza de la educación en 
+cuanto a dónde y cómo se produce el proceso de enseñanza aprendizaje, así como de 
+introducir cambios en los roles de los profesores y los estudiantes, y en las diferentes 
+acciones que se realiza en el proceso educativo, incluido en temas de gestión 
+institucional. 
+En este nuevo panorama se enfatiza la importancia de desarrollar nuevas competencias, 
+capacidades, habilidades y uso de herramientas. De acuerdo a Valzacchi (2003) los estudiantes deben cultivar las siguientes destrezas que según los estándares de la 
+International Society for Technology in Education son necesarios para desenvolverse 
+en el siglo XXI. Estas son: manejarse con soltura en el empleo de la tecnología; 
+comunicar información e ideas usando una gran variedad de medios y formatos; 
+acceder, intercambiar, compilar, organizar, analizar y sintetizar información; saber 
+encontrar información adicional; saber evaluar la información y sus fuentes; construir, 
+producir y publicar modelos, contenidos y otros trabajos creativos; colaborar y cooperar 
+en grupos de trabajo e interactuar con otros en forma apropiada y ética. 
+En el país se inició el proceso de integración de las TIC en el sistema educativo público 
+estatal a través del Proyecto Huascarán y actualmente a través de la Dirección General 
+de Tecnologías Educativas del Ministerio de Educación, con la finalidad que las TIC de 
+acuerdo al (Ministerio de Educación, 2007, p.60) "mejoren la calidad de la educación 
+secundaria para que los estudiantes alcancen una formación integral que comprenda la 
+consecución de logros de aprendizaje y una sólida formación en valores. 
+Esta investigación también se justifica teniendo en consideración que de acuerdo a 
+(Guiloff, 2007, p.11) "no existe suficiente información sobre el compromiso e 
+interacción tecnológica relacionada con las actividades de aprendizaje formal de los 
+estudiantes y de acuerdo a (Condie, 2007, p.75) "a la fecha hay muchos estudios de la 
+relación entre TIC y la educación, sin embargo varían de acuerdo a las regiones donde 
+se han realizado, con estudiantes de ciertas características y disciplinas; siendo 
+necesario hacer investigaciones locales específicas. 
+Asimismo este tema es de especial importancia y de actualidad, y de acuerdo a las 
+diversas organizaciones, instituciones e investigadores que vienen trabajando sobre las 
+TIC y la educación, han convocado a realizar investigaciones a nivel micro con la 
+finalidad de contribuir a la generación de conocimiento científico. 
+El trabajo también se justifica puesto que permitirá entregar a las autoridades que 
+vienen implementando la integración de las TIC a través de la Dirección General de 
+Tecnologías Educativas del Ministerio de Educación, resultados sobre el desarrollo de 
+capacidades TIC en los estudiantes.</Justificacion>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Justificacion</td>
+				<td width='1000'>
+					<Justificacion>Los problemas de optimización industriales, en general, son muy demandantes en cuanto al
+uso de los recursos computacionales. En la investigación hecha por Zabinsky [14] se
+describe el ambiente donde operan y diseñan las aplicaciones de ingeniería. Estos
+ambientes tienen restricciones en los tiempos de entrega de sus productos originadas por los compromisos con los clientes. Los desarrollos propuestos para encontrar las soluciones a los problemas técnicos, particularmente los de optimización, se ven afectados por dichas
+restricciones, es necesario disponer de herramientas que permitan atacar y resolver los
+problemas en los tiempos establecidos.
+Una alternativa que permite superar las restricciones de tiempo de los problemas de
+ingeniería es la implementación, en hardware especializado, de los algoritmos numéricos
+utilizados. Bajo este enfoque se abre la posibilidad de disminuir el tiempo de ejecución del esquema seleccionado, comparado con una plataforma de procesamiento convencional,
+cuando la implementación en hardware es soportada por el estudio detallado del algoritmo
+seleccionado. Así, en la puesta en marcha en hardware se busca, usualmente, utilizar los
+algoritmos con menor costo computacional.
+Por lo anterior es primordial seleccionar el procedimiento que presente un bajo costo
+computacional. Los algoritmos deterministas ofrecen la ventaja de tener tal característica, si se comparan con los métodos de exploración estocástica. Está propiedad es más notable cuando la demanda computacional está definida por la forma en que se plantea el problema a resolver. El método propuesto por Gutmann [11][29] pertenece a las estrategias deterministas para OG por lo que lo convierte en un buen candidato para dicha tarea.
+El algoritmo de Gutmann utiliza un conjunto de puntos, { , ( )} i i x f x , 1... , m
+i i = n x , que son empleados para generar una superficie de interpolación en la cual cada punto de entrada implica una evaluación del modelo f (x) . Al realizar una depuración del conjunto de puntos inicial se reduce el número de evaluaciones de f (x) , por lo que el costo computacional del método disminuirá. Dicha depuración debe realizarse de tal forma que la superficie de interpolación no sea alterada.
+Por lo general, los problemas a resolver no son bien comportados. En condiciones reales,
+los diseños están sometidos a diversas perturbaciones que alteran el funcionamiento de la
+aplicación las cuales son, comúnmente, modeladas como ruido gaussiano. El algoritmo de
+Gutmann, de acuerdo a la evidencia encontrada [28], presenta problemas de convergencia
+al estar sometido a estas condiciones. Es deseable que el funcionamiento del algoritmo no
+sea afectado por el ruido, de lo contrario se corre el riesgo de que el modelo no represente de manera realista el fenómeno bajo consideración.</Justificacion>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Justificacion</td>
+				<td width='1000'>
+					<Justificacion>Tras analizar la propuesta MDA de OMG se han detectado dos
+importantes carencias relacionadas con el tratamiento de los modelos iniciales:
+* No se aclara cómo deben manejarse los modelos ligados al negocio,
+lo que se conoce como modelos independientes de la computación ó
+CIM.
+* No se describe cómo deben asociarse esos modelos CIM con los
+primeros modelos del software a desarrollar, es decir, con los PIM.
+Debido a las carencias mencionadas la mayoría de trabajos relacionados
+con el desarrollo de software basado en MDD ó MDA suelen enfocarse desde
+una perspectiva puramente tecnológica. Salvo contadas excepciones no se
+trabaja partiendo desde un punto de vista orientado al negocio y relacionado
+con los objetivos empresariales.
+La mayor parte de las investigaciones actuales sobre este campo están
+centradas en aspectos técnicos que pueden mejorar la obtención de código a
+partir de modelos más o menos abstractos. Esos modelos suelen estar
+directamente relacionados con el software, como son los modelos de requisitos,
+de información, de casos de uso, de análisis, de diseño, etc.
+
+De todo lo anterior se deduce que la falta de conexión real entre el
+dominio del negocio y el tecnológico provoca que, en la mayoría de los casos,
+los modelos del negocio no sean utilizados como punto de partida de los
+procesos de desarrollo de software. Este problema se aprecia claramente en el
+ámbito de MDA, siendo evidente la falta de asociación entre modelos CIM y
+PIM.
+Las metodologías de desarrollo ágil de software tiene como punto fuerte
+la conexión de los aspectos asociados al negocio con los tecnológicos. Sin
+embargo, no se ajusta a la especificación MDA y por lo tanto no puede aportar
+los beneficios inherentes, relacionados con el desarrollo de software dirigido por
+modelos.
+Por consiguiente, una vez expuestas de forma resumida las ventajas,
+desventajas y deficiencias de los modelos de desarrollo mencionados y con el
+objetivo de solventar sus puntos débiles y aprovechar sus aportaciones,
+planteamos la siguiente hipótesis de partida en esta tesis:
+La combinación de la especificación MDA con la idea del
+desarrollo ágil resultaría muy ventajosa de cara a un desarrollo
+de software flexible y asociado a los procesos del negocio.</Justificacion>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Justificacion</td>
+				<td width='1000'>
+					<Justificacion>La presente tesis se justifica, además del interés objetivo de la misma, en la
+formación y el desarrollo académico del autor, así como en razones personales. En
+1995, confluyeron una serie de hechos casi consecutivos: el final de la Licenciatura
+en Ciencias de la Información, en la rama de Periodismo; el surgimiento del interés por la investigación en documentación periodística, fomentado por el Dr. Félix del
+Valle Gastaminza en los citados estudios, en la Universidad Complutense de Madrid;
+la introducción del autor en el uso de Internet, como usuario, y el surgimiento de la
+prensa accesible a través de Internet en España, a semejanza de lo sucedido ya en
+años anteriores en otros lugares.
+La intersección de estas circunstancias produjo el interés por investigar la aplicación
+de la documentación periodística a esos nuevos contenidos periodísticos. El
+desarrollo de los mismos corrió paralelo a la formación posterior del autor, desde
+1996, en los cursos del Doctorado en Documentación en la Universidad Carlos ifi de
+Madrid.
+Muy pronto, contó con la tutela del profesor Antonio Hernández Pérez, del
+Departamento de Biblioteconomía y Documentación de la misma universidad, y
+licenciado y doctor en Ciencias de la Información por la Universidad Complutense
+de Madrid. A esta formación común a la del doctorado se unía también el interés por
+los mismos temas, así como en otros relacionados con las Tecnologías de la
+Información aplicadas documentalmente a contenidos accesibles en Internet.
+Además de la dirección por el Dr. Hernández de la tesina de doctorado, esa tutela se
+manifestó mediante la inclusión en varios proyectos en los que participaron ambos,
+principalmente, dirigidos por la Dra. Mercedes Caridad Sebastián, del mismo
+Departamento. En esos proyectos, el autor participó como becario FPI del Ministerio
+de Educación y Ciencia, entre 1998 y 2000, bajo la tutela del Dr. Hernández, y desde
+octubre de 2000, como Ayudante de Escuela Universitaria en el citado
+Departamento.
+Varios de esos proyectos estaban relacionados con el tratamiento de contenidos
+periodísticos representados mediante marcado de texto, dirigidos por el Dr. Carlos
+Delgado Kloos, del Dpto. de Ingeniería Telemática de la Universidad Carlos ifi de
+Madrid. Ese fue el caso del titulado Periotrónico: Concepción y desarrollo de un
+periódico electrónico personalizado (CICYT TEL97-0788), entre 1998 y 1999, y del
+subsiguiente proyecto InfoMedia: un sistema multiplataforma para la publicación de
+David Rodríguez Mazeos información (CICYT TEL99-0207), entre 2000 y 2002, así como del proyecto
+InfoFlex: Gestión de contenidos flexible y distribuida basada en tecnologías Web
+(T1C2003-07208), dirigido por el Dr. Luis Sánchez Fernández, del mismo
+Departamento, que se desarrollará a partir de 2004.
+En esos proyectos, se investiga el uso de lenguajes de marcado de texto periodístico
+basado en XML. De esa investigación se derivó el interés definitivo del director y del
+autor de esta tesis por desarrollar la aplicación de este metalenguaje, y de los
+lenguajes derivados del mismo desarrollados por instituciones internacionales, en los
+centros de documentación periodística pertenecientes a medios de comunicación
+accesibles en Internet.
+Este interés por la documentación periodística y por su desarrollo en Internet se ha
+visto reflejado también en el plano docente, donde, tras participar corno A.E.U. en
+diversas asignaturas relacionadas con las tecnologías de la información en la
+Diplomatura en Biblioteconomia y Documentación, el autor participa en la docencia
+de asignaturas, dentro de la Licenciatura en Periodismo de la Universidad Carlos ifi
+de Madrid, que están relacionadas con la documentación €como Documentación
+Informativa, desde el curso 2002/2003€, o con el uso de Internet con fines
+periodísticos, como Aplicaciones de la Red al Periodismo (desde el curso
+2003/2004).</Justificacion>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Justificacion</td>
+				<td width='1000'>
+					<Justificacion>Esta tesis espera realizar distintas contribuciones. En primer lugar,
+incorporando determinadas herramientas conceptuales desarrolladas en el campo de
+los estudios sociales de la ciencia y la tecnología que no han sido mayormente
+aplicadas al estudio particular de las Tecnologías de la Información y la Comunicación.
+Añadir aquellos conceptos presentes en el estudio de las tecnologías en general
+permitiría comprender lo particular de los procesos de incorporación de TIC y de la
+construcción de "campus virtuales en universidades del país. Junto con ello,
+proporcionar nuevos andamiajes teóricos vinculados con las características
+inherentes a las TIC. Este propósito se presenta como inédito ya que pocos trabajos
+en el ámbito de las ciencias sociales han analizado las dinámicas de desarrollo
+tecnológico que posibilitan la construcción de entornos "virtuales que se gestan en las
+universidades desde un enfoque que se encuadre en el propuesto por el campo de los
+estudios sociales de la ciencia y la tecnología.
+En ese sentido se aspira a establecer una ruptura con aquellas formas
+"cristalizadas de determinismo tecnológico que consideran que la creciente "difusión
+y proliferación de las Tecnologías de la Información y la Comunicación producen
+"efectos en la "sociedad y se limitan a una mirada meramente instrumental dejando
+de lado aquellas que hacen hincapié en la tecnología como construcción social,
+entendiendo que no hay una relación sociedad-tecnología, como si se tratara de dos
+entidades separadas y que la distinción misma entre social y técnico debe
+considerarse como el resultado de un proceso de "co-construcción.
+Por otra parte, esta investigación espera contribuir al campo de los estudios
+de la educación superior y los estudios sobre universidad en el cual aparece
+como vacante la problemática vinculada a la educación universitaria "virtual. La
+utilización de la tecnología para la enseñanza y la investigación no es únicamente una
+cuestión técnica, puesto que replantea cuestiones fundamentales no sólo sobre los
+métodos de trabajo sino sobre las metas y los propósitos que persiguen las
+instituciones universitarias. Así, el estudio de los "campus virtuales de las
+universidades nacionales argentinas podría contribuir a replantear la dinámica de
+formulación de políticas y toma de decisiones al interior de la universidad.
+Por último se espera contribuir a los estudios que relacionan los procesos
+de "innovación tecnológica y los territorios indagando en la nueva dimensión
+espacio-temporal que generan las TIC y en las condiciones territoriales, económicas,
+sociales, organizacionales y simbólicas, entre otras, que inciden sobre la
+implementación de los "campus virtuales.
+
+De esta forma, se busca abrir nuevas posibilidades de triangulación teórica,
+entre la sociología de la tecnología, los estudios vinculados a la educación superior y a
+la universidad en particular y los estudios orientados a comprender las distintas
+dinámicas de los territorios contribuyendo a ampliar los alcances de los actuales
+estudios sociales de la tecnología.</Justificacion>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Justificacion</td>
+				<td width='1000'>
+					<Justificacion>La necesidad de cada vez más capacidad de cómputo para muchas aplicaciones importantes, incluyendo modelado, simulación y sistemas inteligentes, tales como los que realizan máquinas de visión, ha motivado que  la investigación en el área de arquitecturas de cómputo haya avanzado de manera considerable en los últimos años. Los sistemas requieren mejor desempeño del que puede proporcionar las máquinas que existen  actualmente o las que podrán ser construidas en un futuro cercano. Actualmente se están alcanzando los límites de las capacidades de procesamiento de los diseños seriales, una opción para alcanzar las velocidades de procesamiento deseadas, es físicamente posible es a través de procesamiento paralelo [hm94].
+
+Las arquitecturas Reconfigurables prometen ser una valiosa alternativa  a los dispositivos de cómputo convencionales. El hardware no es estático sino que se adapta a las aplicaciones, a diferencia de los procesadores o ASICs. Las técnicas de reconfiguración se utilizan ampliamente en procesamiento paralelo, particularmente en arreglos de procesadores tales como los sistólicos.
+La necesidad de suspender la operación de los dispositivos, aún para realizar pequeños cambios, tiene un impacto crítico si se van a usar como aceleradores de un algoritmo en aplicaciones donde la naturaleza de las tareas que van a ejecutar es cambiante. La reconfiguración dinámica permite realizar cambios en la configuración de un dispositivo "al vuelo durante la operación del sistema [mr01].
+
+A partir de estos conceptos, este trabajo se propone reducir el cuello de botella de los sistemas basados en el modelo de Von Neumann, explorar y analizar las técnicas de reconfiguración dinámica junto con la implementación de algoritmos basados en operaciones de ventanas  para poder proponer soluciónes más acordes a las restricciones de tiempo real. De manera específica el uso de la reconfiguración parcial. 
+
+Existen una serie de problemas que se deben manejar asociados con el uso de FPGAs acoplados a un procesador, primero el proceso de mapeo de un algoritmo en los FPGAs no es automático. Típicamente el programador es quien debe cuidar  la forma de identificar un algoritmo (o una parte de él) para ser implementado en hardware y las herramientas especializadas para convertir el algoritmo en una descripción de hardware. La presente propuesta pretende determinar la mejor forma de resolver el problema del codiseño HW/SW [nj02].
+
+Otro  desafío interesante asociado con la computación reconfigurable es la reconfiguración dinámica en sí misma, y sobre todo como manejarla, lo cual es el objetivo principal de este proyecto.
+
+Los FPGAs tradicionales tienen tiempos de configuración relativamente largos, por lo que para aplicaciones que dependen de modificaciones en línea, cualquier retardo de configuración incrementa el tiempo total de cómputo y por tanto el desempeño global. Otro de los objetivos de este trabajo es disminuir este efecto utilizando reconfiguración parcial que permite modificar sólo un área del FPGA sin perturbar el funcionamiento del resto del dispositivo. El desafío consiste en determinar la granularidad apropiada para el sistema en relación al desempeño obtenido.
+
+Finalmente, se plantea la posibilidad de generar un sistema que permita optimizar área, reducir el consumo de potencia, de bajo costo y que cuente con la habilidad de hacerlo compatible con otras tecnologías.</Justificacion>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Justificacion</td>
+				<td width='1000'>
+					<Justificacion>El aumento del volumen y variedad de información en las Bases de Datos ha incrementado la dificultad para la clasificación, caracterización y comprensión de las mismas, una solución a este problema es el uso de técnicas de análisis de datos, Reconocimiento de Patrones o minería de datos entre otras. 
+
+ 	En base al estudio de los trabajos relacionados, una forma de abordar el problema es encontrar regularidades que puedan representar a los conjuntos de datos, permitiendo caracterizarlos y de esta manera reducir información. Una forma de hacer esto es utilizar conjuntos de representantes los cuales son una herramienta útil para la clasificación supervisada y la caracterización de universos estructurados. Sin embargo,  no se cuenta con un algoritmo para su cálculo, exceptuando la verificación de la definición contra todo el espacio de búsqueda. 
+
+
+Otro problema  es que los representantes pueden incluir mucha redundancia y por tal motivo pueden llegar a ser demasiados (por ejemplo en un conjunto de 798 objetos, con 31 rasgos y 5 clases se encontraron 15362 representantes)
+
+
+Por todo esto,  es necesario contar  con una herramienta que permita encontrar un subconjunto de representantes que sea adecuado para la clasificación y/o la caracterización.</Justificacion>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Justificacion</td>
+				<td width='1000'>
+					<Justificacion>Es enorme la cantidad de imágenes en crudo que se tiene almacenada de la
+superficie terrestre. La interpretación de las imágenes es laboriosa y consume tiempo,
+por lo cual es inimaginable la interpretación sin la ayuda del procesamiento de
+imágenes[23]. Pongamos el ejemplo de las imágenes satelitales que se tienen del
+territorio nacional tomadas por la constelación de satélites SPOT, sin considerar
+las imágenes que se siguen adquiriendo. Hasta el primer trimestre de este año,
+las imágenes tomadas por el satélite SPOT 5 alcanzan la cantidad de 10,200 imágenes aproximadamente. Entre ellas se encuentran imágenes pancromáticas y
+multiespectrales de resolución espacial de 20, 10, 5 y 2.5 metros sin contabilizar las
+de los otros dos satélites que permanecen en órbita SPOT 2 y 44. Del satélite SPOT
+4 se tienen 825 imágenes pancromáticas de 10m de resolución que cubren casi todo
+el territorio nacional.
+Por otro lado, las herramientas que se han diseñado tienen algunas limitantes al
+ser aplicadas a la clasificación de coberturas espectralmente similares, obteniendo
+resultados de clasificación entre el 62.7% [17] y 73% [20].
+Una de las desventajas de los algoritmos comúnmente empleados en la clasificación de
+coberturas, es que no involucran información espacial de los objetos que están siendo
+clasificados, por lo cual un modelo probabilístico resulta atractivo en este dominio.
+Sin embargo, los objetos en imágenes satelitáles presentan además geometrías y/o
+características estocásticas, la cual es información a considerar para incrementar los
+porcentajes de reconocimiento [25].
+Por último, el algoritmo aplicado sobre algún tipo de cobertura en particular para
+obtener su clasificación fina podría ser extendido para otros tipos de cobertura con
+comportamiento similar.</Justificacion>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Justificacion</td>
+				<td width='1000'>
+					<Justificacion>La justificación de la investigación doctoral se fundamenta en los siguientes criterios:
+1. Conveniencia. Se pretende elevar la eficacia de la enseñanza provista al estudiante a través de los SEBW. Para ello, se evalúan las experiencias y se eligen aquellas, que se supone, habrán de estimular positivamente el aprendizaje del estudiante de la mejor manera.
+2. Relevancia social. Se busca mejorar el aprendizaje del estudiante al personalizar la enseñanza que un SEBW le provee. Para este fin se consideran las capacidades cognitivas, las preferencias de aprendizaje y ciertos atributos de la personalidad del estudiante.
+3. Implicaciones prácticas. Se procura adecuar la enseñanza a cada estudiante con base en las variedades de contenido, secuencia y evaluación disponibles en un SEBW. De esta forma, se promueve un paradigma general para diversos dominios de enseñanza.
+4. Valor teórico. Se concibe el proceso de enseñanza-aprendizaje como un fenómeno causa-efecto. Por lo tanto, además de formular un modelo causal para caracterizar a dicho proceso, se recolecta evidencia empírica que sustente la verificación de la hipótesis.
+5. Utilidad métodológica. Se define un marco de trabajo para evaluar los conceptos que componen un modelo del estudiante. Con base en exámenes psicológicos se emite un diagnóstico del individuo acerca de su personalidad, sus preferencias de aprendizaje y sus capacidades cognitivas.
+6. Consecuencias. La investigación busca tratar al estudiante en forma individualizada. Bajo este precepto, se impulsa un paradigma de servicio alterno al tradicional, ofertado por la educación presencial y a distancia, en el cual a los estudiantes se les trata sin distinción.
+7. Viabilidad. El desarrollo de la investigación y su comprobación experimental se lleva a cabo en su propio dominio: la educación basada en Web.
+8. Comprobación. Para verificar la tesis se crea un prototipo8 del modelo del estudiante basado en mapas cognitivos. El prototipo forma parte de un SEBW que provee enseñanza sobre un dominio de conocimiento específico a una muestra de voluntarios. La muestra se organiza en dos grupos: el primer grupo recibe el soporte del modelo del estudiante; mientras que el otro no cuenta con su respaldo. Al final del experimento, se comparan los alcances logrados por los dos grupos para identificar la ventaja del modelo del estudiante.</Justificacion>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Justificacion</td>
+				<td width='1000'>
+					<Justificacion>Tomando en cuenta la revisión que se hizo del estado del arte y generalizando el problema de clasificación en este tipo de dominios del diagnóstico médico, nuestra justificación es la siguiente:
+Existe la necesidad de desarrollar un algoritmo de aprendizaje inductivo que permita resolver problemas de clasificación binaria a partir de conjuntos de datos no balanceados, alcanzando un consenso apropiado entre precisión y comprensibilidad. Por otro lado, la extracción de conocimiento útil a partir de conjuntos de datos médicos, puede ayudar a predecir la incidencia de algún tipo de enfermedad, lo que representaría la oportunidad de aplicar a tiempo un tratamiento médico, capaz de evitar, eliminar o disminuir en cierto grado la aparición de la misma.</Justificacion>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Justificacion</td>
+				<td width='1000'>
+					<Justificacion>Esta tesis trata de la planificación de sistemas de tiempo real utilizando sistemas 
+multiprocesador de memoria compartida. La principal motivación para iniciar la
+investigación en la planificación de sistemas de tiempo real está fundamentada en el
+plan estratégico del departamento en el que trabajo, el Departament d’Enginyeria
+Informàtica i Matemàtiques de la Universitat Rovira i Virgili. Esta universidad está
+ubicada en un entorno geográfico donde las instalaciones industriales con entornos
+de tiempo real críticos abundan: refinerías de petróleo, industrias petroquímicas,
+diversas centrales nucleares, etc. Así, las líneas del departamento estaban
+principalmente enfocadas al “tiempo-real”, tanto en la parte docente como en la parte 
+investigadora. 
+
+En lo referente a la planificación de sistemas de tiempo real, la teoría para los
+sistemas monoprocesador ya estaba muy consolidada. Para los sistemas distribuidos
+había abundante bibliografía pero para los sistemas multiprocesador con memoria
+compartida al principio apenas se encontraban referencias. Esto era debido a los
+enormes problemas que conlleva y a una praxis que utilizaba el multiprocesador
+como si fuesen monoprocesadores independientes o como si fuese un sistema
+distribuido.  
+
+Recientemente las arquitecturas multiprocesador se han ido popularizando. Su uso va
+desde los ordenadores personales hasta grandes servidores y computadores, pasando
+por los sistemas empotrados. Con los límites actuales del hardware, es más fácil y
+con un menor coste incrementar la capacidad de cálculo con un multiprocesador que
+realizarlo con sistemas de un procesador de equivalente capacidad. Así, han ido
+apareciendo diversos chips Multi-Core o Chip-level Multiprocessors (CMP). Los
+fabricantes de procesadores con mayor volumen, como son Intel y AMD, primero
+lanzaron al mercado chips con dos procesadores (por ejemplo AMD Athlon X2 e Intel
+Core Duo) y en la actualidad ya son frecuentes con cuatro procesadores (Quad-Core
+AMD Opteron y Quad-Core Intel Xeon). En la Tabla 4 se resumen los procesadores
+multicore actuales, donde se aprecia la gran evolución en los últimos años. </Justificacion>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Justificacion</td>
+				<td width='1000'>
+					<Justificacion>Evidencias que apoyan la propuesta
+
+* Para la indexación se ha estudiado que las unidades óptimas son las palabras,
+mientras que para la traducción es mejor emplear unidades más grandes (Verdejo
+et al., 2000), ya que el uso de palabras individuales para traducir no resuelve
+el problema de la ambiguedad semántica.
+* La estadística sobre coocurrencia de términos permite realizar traducciones más
+fiables (Ballesteros and Croft, 1998) que la simple utilización de diccionarios.
+Aplicarla sobre sintagmas nominales va a mantener esta característica (recordemos
+que un sintagma nominal se compone de varios términos).
+* La utilización de sintagmas nominales, con un contenido semántico más claro
+para el usuario, proporcionará una mejor información a efectos de interacción
+que el simple uso estadístico de la coocurrencia de términos próximos que se
+hace en (Ballesteros and Croft, 1998).
+* Diversos estudios como (Pe~nas et al., 2001; Dennis et al., 2002) muestran que
+los sintagmas son una forma natural para los usuarios de refinar una consulta.
+Representan conceptos de una forma más clara y con un mayor contenido
+semántico que los términos aislados.
+* Además, la determinación de los sintagmas y su utilización como índices puede
+hacerse de manera eficiente (Pe~nas, 2002).</Justificacion>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Justificacion</td>
+				<td width='1000'>
+					<Justificacion>Las estructuras metálicas usadas en la industria del transporte, tales como bastidores de pared y
+piso de vehículos automotores, están sometidas a cargas cíclicas durante su vida de servicio,
+induciendo la aparición de grietas por fatiga. En las estructuras soldadas de aleaciones de
+aluminio tratables térmicamente el riesgo de aparición de una grieta es probable, debido a la
+heterogeneidad en las propiedades mecánicas de las zonas que comprenden la unión. Por lo
+anterior surge la necesidad de realizar uniones experimentales de soldaduras que permitan
+retardar el crecimiento de grietas por fatiga en uniones soldadas en aleaciones de este tipo. Para
+ello se establecen estudios comparativos entre dos procesos de unión; por ejemplo, el proceso
+convencional de soldadura de arco eléctrico con material de aporte y gas de protección, la
+implementación de la técnica de arco eléctrico indirecto modificado. Con ello se busca
+identificar una técnica de aplicación de soldadura que permita incrementar la vida a la fatiga de
+los componentes soldados.</Justificacion>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Justificacion</td>
+				<td width='1000'>
+					<Justificacion>En la literatura hay una gran diversidad de controladores adaptativos que usan redes neuronales, sin embargo, es importante el desarrollo de nuevos controladores con mejor desempeño, menor tiempo de convergencia y más confiables.
+Los sistemas que son difíciles de modelar o de los que no se dispone de un modelo dinámico, pueden ser objeto de estudio usando redes neuronales para la identificación del mismo. En el caso de incertidumbres en el modelo dinámico, las dinámicas no modeladas pueden ser aproximadas por redes neuronales. El control neuronal puede aplicarse a sistemas robóticos en la industria, que ayudaría a la reducción de tiempos en los procesos productivos, con la reducción del mantenimiento a los sistemas robóticos, dado que las dinámicas de estos sistemas cambian con el tiempo debido al desgaste de sus mecanismos o factores externos como la adhesión de polvo o suciedad. También, el control neuronal se puede usar para el control de sistemas humano-robóticos con la finalidad de ayudar a las personas con discapacidades físicas, y al control de dinámicas complejas como los robots bípedos o similares. También, esta investigación puede ser usada en el campo educativo como una referencia en investigaciones en el ´área de control neuronal aplicada a mecanismos.
+</Justificacion>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Justificacion</td>
+				<td width='1000'>
+					<Justificacion>En las ultimas décadas se ha constatado el creciente interés que presentan los  
+robots caminantes, tanto desde el punto de vista de la investigación básica como  
+de sus potenciales aplicaciones. Una de las principales características de los robots
+equipados con patas es su capacidad para poder desplazarse sobre una amplia
+variedad de terrenos no estructurados. Esta particularidad los hace muy atractivos
+para su aplicación practica como robots de servicios en los que se requiere la  
+locomoción sobre terreno natural, el cual se caracteriza por presentar superficies  
+irregulares, diversos tipos de obstáculos y distintas pendientes. Sin embargo, el caminar sobre terreno natural implica que tanto la geometría como las propiedades
+físicas de los elementos que rodean al robot son desconocidas y muy variables, por
+lo que es necesario dotar al robot de una estrategia que adapte su comportamiento
+con respecto al entorno. Si bien el modelo del robot puede ser conocido con
+precisión razonable, resulta difícil obtener una descripción detallada del entorno,  
+especialmente en lo que respecta a sus propiedades físicas.
+La estabilidad de los robots caminantes durante la realización del ciclo de  
+locomoción, es de gran importancia. Por lo tanto, la consideración de una determinada medida de estabilidad durante la locomoción influye de manera directa en 
+la seguridad del robot.
+En este trabajo se presenta el planteamiento de estrategias de adaptabilidad
+para el robot hexápodo Hex-piderix, basadas en un modelo geométrico, en el cual  
+no es necesario conocer el ambiente, pues con tan solo saber que extremidades  
+están tocando la superficie es posible estimar el plano de apoyo.  
+En este documento se presenta el diseño y simulación de estrategias de adaptabilidad para el robot caminante hexápodo Hex-piderix basadas en un modelo
+geométrico. La validación de cada una de ellas se realiza sobre un plano con distinto grado de inclinación; además de que se analiza la estabilidad estática de cada  
+postura con el criterio de estabilidad estático normalizado por el peso (SNE, por  
+sus siglas en ingles)
+</Justificacion>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Justificacion</td>
+				<td width='1000'>
+					<Justificacion>Este trabajo de tesis se desarrolla debido a la necesidad de un sistema completo capaz de
+predecir los efectos indeseables de memoria en un PA con profundidad de memoria y órdenes
+de no linealidad variables. Para ello se desarrollan modelos polinomiales y basados en
+truncaciones de las series de Volterra como Wiener, Hammerstein y MPM, además de utilizar
+técnicas de aprendizaje como ANN y ANFIS dentro de una tarjeta de desarrollo FPGA/DSP, y una
+técnica de medición de bajo costo de las curvas de distorsión en amplitud y en fase.
+El sistema es controlado por una Interfaz Gráfica de Usuario (GUI) la cual permite de manera
+simple abrir las mediciones reales de cualquier PA basado en sus curvas de distorsión AM/AM y
+AM/PM y obtener los coeficientes respectivos del MPM obtenidos a través del método Error
+Cuadrático Mínimo (LSE).
+El sistema tiene niveles variables de memoria y órdenes de no linealidad variables para
+adecuarse al comportamiento del PA. La parte principal del trabajo está basada en la
+herramienta de diseño DSP Builder la cual permite traducir un programa de sistema como
+Matlab/Simulink a VHDL ahorrando tiempo de diseño. En la parte final se realiza una
+comparación con modelado a través de VHDL puro, y modelado obtenido a través de ANN y
+ANFIS.
+La ventaja de utilizar este sistema de simulación es el uso de algoritmos para etapas de
+linealización posteriores. En trabajos desarrollados como autor se probó la eficiencia de los
+modelos a través de FPGA [44-46].</Justificacion>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Justificacion</td>
+				<td width='1000'>
+					<Justificacion>Existen elementos estructurales y mecánicos utilizados en Ingeniería como estructuras, chasis
+de autos, componentes aéreos, estructuras marinas, válvulas, etc., son fabricados con la
+aleación de aluminio 6061-T6.
+Para la fabricación de dichos elementos se requieren procesos de unión, uno de ellos es la
+soldadura. La soldadura es un proceso metalúrgico que requiere el entendimiento del
+comportamiento del material durante su producción ya que la mayoría de los procesos de
+soldadura, al igual que en la fundición de metales, requieren de altas temperaturas para hacer
+posible la unión de los materiales involucrados.
+En la aleación de aluminio 6061-T6 se presenta una degradación en las propiedades mecánicas
+debido al efecto térmico del proceso de soldadura. Además, la alta solubilidad del hidrógeno en
+el aluminio líquido que cuando ocurre el proceso de solidificación queda atrapado, generando
+porosidad en el material.
+También se sabe que es posible reducir el efecto térmico ya que con la técnica AEIM [23] al
+utilizar un solo paso de soldadura reduce el efecto en la microestructura final. Para este caso la
+aleación a unir se encuentra en un estado de solubilización y envejecido artificial (-T6) pero
+cuando alcanza temperaturas muy elevadas se obtiene un sobreenvejecido en la aleación, lo
+cual disminuye las propiedades mecánicas. Sin embargo, el tratamiento térmico T6 es un
+proceso reversible, por lo tanto, se puede considerar como alternativa para mejorar las
+propiedades mecánicas de las uniones de aluminio soldadas con un tratamiento térmico postsoldadura.
+Una mejora en las propiedades mecánicas de uniones de aluminio soldadas se aprecia en un
+incremento en la resistencia a la fatiga para elementos estructurales que son sometidos a cargas
+cíclicas. Al incrementar la resistencia a la fatiga se retarda la aparición de grietas por fatiga. Por
+lo anterior surge la necesidad de hacer uniones soldadas que permitan aumentar la resistencia a
+la fatiga y retardar el crecimiento de grietas por fatiga en aleaciones de este tipo con la
+implementación de la técnica AEIM y un tratamiento térmico post-soldadura</Justificacion>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Justificacion</td>
+				<td width='1000'>
+					<Justificacion>Los sensores basados en fibra óptica ofrecen algunas ventajas sobre los sensores más
+tradicionales tales como inmunidad a interferencias electromagnéticas, son ultraligeros,
+pueden ser empleados en ambientes altamente corrosivos o explosivos, y su uso en
+aplicaciones para sensado remoto es factible debido a las bajas pérdidas de señal que las
+fibras ópticas presentan.</Justificacion>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Justificacion</td>
+				<td width='1000'>
+					<Justificacion>En los Ãºltimos aÃ±os se ha dedicado considerable esfuerzo al problema de la segmentaciÃ³n del color en imÃ¡genes digitales dada su importancia y potencial. Hasta hace poco, la mayorÃ­a de los enfoques publicados para la segmentaciÃ³n del color se basaba en tÃ©cnicas monocromÃ¡ticas aplicadas a cada componente de color de la imagen, en diferentes espacios de color (RGB u otros) y en diferentes formas, para producir una composiciÃ³n. Estos enfoques tienen el problema inherente de una pÃ©rdida significativa de la informaciÃ³n de
+color durante el proceso [3][4].</Justificacion>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+</Informacion>
+</body>

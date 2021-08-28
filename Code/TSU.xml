@@ -1,0 +1,4726 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<body>
+<Informacion xmlns='http://www.w3.org/1999/xhtml' >
+
+<style type='text/css'>
+	
+@charset 'utf-8';
+
+table{
+	border: 1px black solid;
+	border-radius: 5px;
+	min-width: 400px;
+	font-family: Helvetica,Arial;
+	margin-top: 10px;
+	margin-right: 40px;
+	margin-bottom: 10px;
+	margin-left: 40px;
+	} 
+
+table td{
+	padding:7px;
+    text-align:justify;
+	}
+
+.tablas_corpus { 
+	font-family: Arial, Helvetica, sans-serif;
+	line-height:25px;
+	float:left;
+	}
+
+.tablas_corpus table{
+	font-family: 'Lucida Sans Unicode', 'Lucida Grande', Sans-Serif;
+	font-size: 14px;
+	text-align: left;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	}
+
+.tablas_corpus th {
+	font-size: 13px;
+	font-weight: normal;
+	padding: 8px;
+	background: #b9c9fe;
+	color: #039;
+	border: 1px solid #FFFFFF;
+	}
+
+#campos{
+    text-align:center;
+    font-weight: bold;
+    color: #4646C1;
+	}
+
+.tablas_corpus td {
+	padding: 8px;
+	background: #e8edff;
+	color: #4E4E4E;
+	border: 1px solid #fff;
+	}
+
+.tablas_corpus tr:hover td { 
+	background: #d0dafd; 
+ 	}
+
+h1 {
+	color: #666666;
+ 	font-family: Helvetica Neue, Arial, Helvetica, sans-serif;
+	letter-spacing: -1px;
+	text-decoration: none; 
+	text-shadow: 2px 2px #fff, 0 0 #0e0e0e, 3px 4px 2px #e3e3e3; 
+	text-transform: none; 
+	word-spacing: -2px;
+	}
+
+.titulo{
+	width: 1000px;
+	height: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #BDDDF2;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 50px;
+	border-radius: 26px 26px 26px 26px;
+	}
+
+resultados{
+	float: right;
+	padding-right: 100px;
+    font-weight: bold;
+	margin-top: 40px;
+	margin-bottom: 10px;
+	}
+
+</style>
+<div class='titulo'> <center><h1> INAOE CORPUS </h1></center> </div>
+<resultados> Resultados = 227</resultados>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Para llevar a cabo el diseño del S.A.R. se llevaron a cabo una serie de procesos para poder
+obtener la información necesaria para tener una base sólida y con ello tener un mejor desempeño del software.
+Analizar una Metodología Estructurada para desarrollar el Ciclo de Vida completo de los
+Sistemas Informáticos(ver Apéndice D).
+Resolver algunos casos prácticos de Análisis y Diseño de Sistemas Informáticos basados
+en casos reales de la empresa.
+Informarse de las plataformas y arquitecturas tecnológicas disponibles y según las
+tendencias y estándares del mercado, con especial mención a los sistemas abiertos
+basados en modelos Cliente / Servidor, Sistemas de Gestión de Bases de Datos.
+Conocer el Lenguaje de Consulta Estructurado(SQL) para un mejor desempeño en
+almacenamiento y procesamiento de los datos.
+Realizar entrevistas con los usuarios del sistema para considerar las propuestas para
+mejorar ciertos puntos básicos en el S.A.R..
+Elección de entre varios lenguajes de programación el mas adecuado para el manejo de
+Bases de Datos de manera confiable y con ello agilizar los procesos.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Estudiar el formato en que los registros bibliográficos son almacenados en el
+sistema ALEPH en su versión 500.
+Estudiar y aplicar técnicas de indización de texto en lenguaje natural.
+Estudiar y aplicar técnicas de recuperación de información.
+Aplicar la teoría de redes neuronales artificiales para clasificar de forma
+automática los registros bibliográficos.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>En  ésta tesis se aplicará la siguiente metodología:
+1.-  Sustentar y comprender la teoría básica para que ocurra el vuelo de una aeronave.
+2.-  Definición  de los parámetros que integrarán el sistema representados a través de un modelo matemático.
+3.-  Análisis del sistema estático. 
+4.-  Diseño del sistema en diagrama de bloques, con los elementos que intervienen. 
+5.-  Análisis del control adaptivo como una forma de reducción y modificación de errores en el sistema y así lograr que el vuelo sea lo más deseable posible.
+La tesis está integrada por dos partes que constituyen siete capítulos. La primera parte constituye el análisis de la dinámica de una aeronave rígida, con un sistema de referencia tierra­nave nave-vuelo. En una segunda parte se discuten la obtención de la base de imágenes, así como la programación por computadora para poder procesar y reconocer la base de imágenes, previamente  obtenida, con tres texturas que reconoce el sistema: zona de cultivo,  zona de bosque y zona urbana.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La primera fase fue leer e investigar sobre la documentación ya realizada. Todos los
+autores de libros, revistas, documentos e investigaciones coinciden en la carencia de
+información sobre el tema. Esto llevo a realizar un estudio muy amplio de los elementos
+relacionados. Fue tan amplio que derivó en la necesidad de resumirlo. Es el Capítulo 3,
+aunque no todo lo aprendido ha podido ser escrito.
+La segunda fase fue concretar la definición de I.S., a partir de lo aprendido de la
+información consultada y de la meditación de la misma. Vista la dificultad que supone
+definir la I.S., se acompaña con pautas para identificar los ataques. Es el Capítulo 2.
+La tercera fase fue ampliar y adentrarse con dos casos más concretos, para demostrar la
+amenaza que esta supone y aprender a responder preguntas subjetivas. Existen más
+casos concretos, como la automatización de la I.S. Es el Capítulo 4.
+La cuarta y última fase vino a través de la anterior ya que el segundo caso concluye en
+una incoherencia, que muestra la entrada al mundo de la Interacción Humano-
+Computador Segura, un nuevo campo de investigación relacionado a la I.S. Se define e
+introduce, añadiendo una lista de ejemplos de ataques usando esta vía. Es el Capítulo 5.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>El método a utilizar será el empírico-analítico, debido a que es un sistema auto
+correctivo y progresivo, es decir, el método esta abierto a la incorporación de
+nuevos conocimientos y procedimientos.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La metodología se realiza en cuatro pasos:
+El análisis de la situación actual con todos sus problemas y requerimientos de
+servicios de red; el diseño de la red LAN/WAN; propuesta de soluciones con sus
+costos referenciales y el piloto de pruebas para verificar la funcionalidad de
+administración de la aplicación Tie del Sistema AWOS.
+El análisis de la situación actual detalla los diferentes equipos que conforman el
+Sistema AWOS, así como su operación y funcionamiento de aquí surgen los
+requerimientos de servicios de red; este análisis se lo efectúa tomando como
+referencia la arquitectura modular SAFE.
+Para los diseños de las redes LAN se efectúan levantamientos o tomas físicas de
+datos en el sitio; las distancias en metros hacia el Switch más cercano o el sitio
+más probable de instalación aplicando los criterios de cableado estructurado,
+asignando las direcciones IP y el grupo de trabajo al que pertenecen en cada
+aeropuerto. Para la WAN se proponen varias soluciones: la primera es un diseño
+nuevo en su totalidad con sus direcciones IP, Máscaras y Gateway de los
+dispositivos activos enlazándolos con su respectivo Lan en cada aeropuerto. La
+segunda propuesta de solución utiliza la infraestructura de la institución y en los
+aeropuertos donde no existe ninguna red se realiza el diseño de la LAN y WAN
+cuyos enlaces Frame Relay en aquellos donde no existe se arrendará el servicio a cualquiera de los diferentes proveedores. Y la propuesta de solución 3, una parte
+se reutilizará la infraestructura de la institución y en aquellos aeropuertos donde
+no se enlaza mediante ningún proveedor de carrier, es primordial la adquisición
+de la línea telefónica para acceder remotamente al servidor Tiempo y poder
+monitorear o controlar el o los equipos de la red LAN y de esta manera solventar
+los inconvenientes.
+Todas las propuestas de solución son factibles, cuyos costos referenciales están
+detallados en dólares americanos y no incluyen el IVA (12%), procediendo a
+determinar sus ventajas y desventajas y seleccionar aquella que mejor se adapte
+a las necesidades de la situación actual de la Dirección General de Aviación Civil.
+El piloto de pruebas se lo efectúa en dos partes:
+a) Una vez recibido la llamada de soporte, el personal mediante su computador accesa remotamente al servidor RAS y a través del cual accede a los recursos compartidos de la red y puede verificar los archivos que son motivos de interés. Con el servicio de escritorio remoto se puede controlar remotamente a cualquier equipo computacional de la red Lan/Wan y monitorear la actividad del sistema AWOS y de esta manera determinar y solucionar la mayoría de los problemas.
+b) Mediante conexión Dial_up se controla remotamente el equipo Tiempo ubicado en cada aeropuerto, accediendo a la aplicación, a los procesos, etc. Y de esta manera se puede verificar las bases de datos, imprimir datos e información y todas las funcionalidades que proporciona el software de control remoto en la aplicación Tie.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La metodología que se empleará para el desarrollo de la aplicación Web es el modelo en
+espiral el cual permite un desarrollo de software mediante un proceso evolutivo. Es un
+modelo meta del ciclo de vida del software donde el esfuerzo de desarrollo es iterativo, es
+decir, cuando se termina una etapa de desarrollo “ciclo”, comienza otra.
+Dentro de cada uno de los ciclos de vida del Software se pueden apreciar los siguientes
+pasos:
+Determinar o fijar los objetivos. En este paso se definen los objetivos específicos del
+proyecto para poder identificar las limitaciones del sistema, además se estructura una
+planificación de gestión y se identifican los riesgos.
+1. Análisis del riesgo. En este paso se hace un análisis detallado para cada uno de los
+riesgos identificados del proyecto y se definen los pasos a seguir para reducirlos.
+2. Desarrollar, verificar y validar. Después del análisis de riesgo, se hace una lista de
+tareas para el desarrollo del sistema de software y se implementan.
+3. Planificar. En el último paso se revisa el proyecto y se toma la decisión si se debe
+continuar con un ciclo posterior al de la espiral.
+De este modo las tareas a realizar serán organizadas en 3 ciclos, que permitirán
+modelar, implementar y unificar cada uno de los 3 módulos que van a integrar la
+Biblioteca Multimedia.
+ Ciclo 1: Delimitación del sistema y gestión de usuarios
+o Recopilación de requerimientos del sistema.
+o Diseño general.
+o Realizar altas, bajas y cambios de usuarios.
+o Desarrollo, revisión, correcciones, elaboración de reporte e implementación.
+o Análisis de riesgos.
+o Planificación del ciclo 2
+ Ciclo 2: Contenido Multimedia.
+o Realizar altas, bajas y cambios de contenido multimedia.
+o Análisis de riesgo.
+o Desarrollo, revisión, correcciones, elaboración de reporte e implementación.
+o Planificación del ciclo 3.
+Ciclo 3: Conexión Usuario Servidor.
+o Análisis y diseño.
+o Análisis de riesgo.
+o Desarrollo, correcciones e implementación.
+o Elaboración de reporte.
+Los módulos se describen de forma general de la siguiente manera:
+ Módulo de Usuarios. En este módulo se pretende realizar la gestión de usuarios.
+ Módulo de Contenido. En este módulo se pretende desarrollar la gestión de
+contenido multimedia.
+ Módulo de integración. En este módulo se pretende desarrollar la interfaz de usuario
+y su interacción con el sistema.
+</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>El presente trabajo terminal nos ha llevado a establecer una metodología que abarca aspectos tanto
+de Software (SW) como de Hardware (HW), el cual pretende dar solución a problemas reales donde
+resulta ineludible la interacción de ambos. De esta forma, nos apoyaremos del ciclo de desarrollo
+clásico en V, en el cual veremos un conjunto de técnicas y métodos propuestos para mejorar la
+confiabilidad a lo largo de todo el ciclo de vida. 
+ESPECIFICACIÓN DE REQUISTOS DE HW/SW (Fase 1): Se deben definir y documentar los
+diferentes requisitos del sistema a desarrollar, identificando los valores numéricos más concretos
+posibles [23]. Aplicado a nuestro trabajo aquí haremos mención del análisis que se realizó para la
+selección de los mejores dispositivos y herramientas (Microcontroladores, Sensores,
+Transceptores, Estándares, Protocolos, Módulo GSM) que cumplieran con las características
+adecuadas para lo que deseamos implementar.
+DISEÑO GLOBAL (Fase 2): También llamado diseño de alto nivel. Su objetivo es obtener un
+diseño y visión general del sistema [23]. En esta fase nosotros nos enfocamos a definir claramente
+los objetivos que deseamos alcanzar con nuestro trabajo, así como adecuar un diseño muy general
+de lo que vamos a realizar, implementando casos de usos.
+DISEÑO EN DETALLE (Fase 3): Consiste en detallar cada bloque de la fase anterior. De acuerdo
+a la fase anterior nos vimos en la necesidad de mejorar nuestro diseño ya que a manera de ir
+analizando, resultaron cosas que no las teníamos planeadas, como las limitantes de nuestro sistema.
+IMPLEMENTACIÓN (Fase 4): Es la fase en la que se materializa el diseño en detalle.
+Se implementara el diseño de lo que es el módulo sensor y el modulo servido de acuerdo a las
+características deseadas.
+TEST UNITARIO (Fase 5): En esta fase se verifica cada módulo HW y SW de forma unitaria,
+comprobando su funcionamiento adecuado [21]. Esta fase la implementaríamos con la realización
+de pruebas a los diferentes componentes de nuestro sistema. Estos son los sensores hall y de
+temperatura, la cámara, el módulo GSM y los transceptores de manera individual. Realizando
+varias pruebas en las cuales analizaremos diferentes tipos situaciones.
+INTEGRACIÓN (Fase 6): En esta fase se integran los distintos módulos que forman el sistema.
+Por una parte, se debe comprobar en todo el sistema el funcionamiento correcto, y por otra, en caso
+de tratarse con un sistema tolerante a fallos, debe verificarse que ante la presencia de un fallo
+persiste el funcionamiento correcto. Se comprueba el cumplimiento de los requisitos establecidos
+[23].
+En esta fase se integraran los diferentes tipos de dispositivos que conforman a los nodos sensores
+y al nodo servidor. Se realizaran pruebas para comprobar el correcto funcionamiento del sistema,
+estas pruebas abarcaran el funcionamiento correcto de los sensores, así mismo la transmisión de
+dichos datos que arroje el nodo sensor, hacia el nodo servidor, el cual deberá enviar un mensaje
+por GSM, entre otras cosas como la tolerancia de los dispositivos.
+TEST OPERACIONAL DEL SISTEMA (Fase 7): Se realizan las últimas pruebas pero sobre un
+escenario real, en su ubicación final, anotando una vez más las pruebas realizadas y los resultados
+obtenidos [23]. Durante esta fase se realizaran las pruebas en el PCB final, colocando la red de
+sensores en una representación a escala de una casa habitación, que contara con los requisitos
+mínimos para colocar los dispositivos, en el lugar adecuado para poder medir las variables físicas
+para lo que fue diseñado. </Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La metodología de investigación más adecuada para la elaboración de este trabajo
+es la descriptiva; debido a que dicha metodología permite formular un diagnóstico
+con el fin de conocer carencias esenciales y sugerir una acción posterior.
+Por lo anterior, el presente trabajo se basará en el análisis del contenido de la
+legislación aeronáutica nacional vigente aplicable a los centros de capacitación en
+donde será de vital importancia el contenido publicado en la NOM-064-SCT3-2012.
+De la misma forma se analizará bibliografía especializada en materia de gestión de
+la seguridad operacional para buscar variantes de procedimientos a aplicar en el
+SMS.
+Asimismo se proseguirá a analizar las características y particularidades que
+representan las operaciones aéreas por parte de un centro de capacitación, de este
+modo se buscará identificar la manera más eficiente de implementar la fase I del
+sistema de gestión de la seguridad operacional, mediante este método se buscará
+cubrir el análisis de carencias y el plan de implementación.
+Después se analizarán las publicaciones y anexos emitidos por la OACI en materia
+de seguridad operacional incluyendo el Anexo 19 “Gestión de la Seguridad Operacional” el cual ha estado vigente desde Noviembre de 2013, de esta manera
+se tendrá un espectro más grande de las especificaciones que debe tener cada
+procedimiento a desarrollar en el Manual de SMS y Plan de Respuesta a la
+Emergencia, y el tiempo propuesto de su ejecución (plan de implementación),
+asimismo se deberá de verificar los avances en materia de seguridad operacional
+de otras naciones con el mismo fin.
+Por otra parte se deberá de analizar la mejor alternativa para el desarrollo de una
+base de datos que sea implementada en la Fase I con el fin de tener un resguardo
+de la información en materia de seguridad operacional (biblioteca de seguridad
+operacional) la cual sea útil y acorde a las dimensiones y complejidad de las
+operaciones de un CFCA, para poder ser utilizada durante el desarrollo del resto de
+las fases del Sistema de Gestión de la Seguridad Operacional.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>El presente proyecto se realiza en el marco de investigación aplicada, el nivel de
+investigación es explicativo y la aproximación es cuantitativa.
+Como primera etapa se analizó el estado del arte para a definir el tipo de tren de
+aterrizaje a diseñar, a partir de los parámetros del proyecto y mediante el método
+de Noman S. Currey se calcularon la posición y carga del tren de nariz.
+Como segunda etapa mediante el uso de herramientas de modelado y
+simulación se calculó las especificaciones del elemento estructural, mediante la
+simulación se probaron diversos materiales y especificaciones hasta llegar al
+modelo final presentado en el proyecto.
+Finalmente se presenta las consideraciones, planos y memoria de cálculo del
+tren diseñado.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Para poder llegar a la construcción final de un producto de software existen una gran variedad de
+modelos definidos por la ingeniería de software, los cuales son aplicables dependiendo a las
+características del proyecto a desarrollar, así como cada uno optimiza el desarrollo del mismo
+dependiendo de su definición.
+Las metodologías ágiles nos permiten aplicar modelos en los que se tiene una retroalimentación del
+cliente considerándolo como parte del equipo de desarrollo, uno de estos modelos es el modelo de
+desarrollo ágil scrum, donde el proyecto se ejecuta en bloques temporales, cortos y fijos con
+iteraciones (Sprint) de un mes (o de hasta dos semanas si se necesita). Cada iteración tiene que
+proporcionar un resultado completo, un incremento del producto final. [8]
+En base a la metodología scrum se decidió que cada sprint representa uno de los bloques mostrados a
+continuación, y cada sprint tendrá una duración de cuatro semanas. Al analizar el método de desarrollo de software antes mencionado concluimos que es el adecuado
+para poder aplicarlo a nuestro sistema ya que necesitamos realizar diferentes bloques y sobre
+estos trabajar hasta llegar al sistema final, es decir tendremos un avance paulatino en los
+requerimientos y desarrollo del mismo, los cuales se describen de manera general a continuación:
+Participantes:
+• Coordinador
+• Profesor
+• Alumno
+En base a la metodología scrum se decidió que cada sprint representa cada uno de los bloques
+mostrados a continuación con una duración de cuatro semanas.
+Bloque 1: Diseño de las interfaces y de la base de datos
+Se definirán los requerimientos de los profesores y alumnos del IPPLIAP para poder crear las
+interfaces que mejor se adapten sus necesidades, y poder diseñar la base de datos que mejor se
+adapte al sistema.
+Bloque 2: Diseño y funcionamiento del servidor:
+En este bloque se evaluara las características del sistema para elegir un equipo de cómputo y
+software óptimos para cumplir el papel de servidor de nuestra aplicación, y de esta manera
+satisfacer todas las necesidades de nuestros usuarios finales.
+Bloque 3: Implementación de la funcionalidad de las actividades del profesor:
+Al final de este bloque tendremos la implementación del sistema en el cual el profesor alimenta
+el sistema con el texto de la lectura, y la grabación de la interpretación en lengua de señas.
+Bloque 4: Implementación de la funcionalidad de las actividades alumno
+En este bloque se definirán las características y la secuencia del contenido (texto y videos con la
+interpretación), se elegirán elementos visuales más adecuados e ilustraciones.
+Bloque 5: Diseño e Implementación de actividades.
+En este bloque se desea implementar actividades como completar palabras y/o frases, con ayuda
+de los videos de las interpretaciones, con el fin de reforzar los conocimientos adquiridos.
+Bloque 6: Implementación en el aula de clases del Institución Pedagógica para Problemas del
+Lenguaje I.A.P.
+Este bloque tiene como fin, instalar el sistema en el aula del IPPLIAP para que los niños utilicen
+la aplicación, evaluar sus resultados antes y después de usarla, para poder comprobar si se
+cumplió o no el objetivo establecido.
+Bloque 7: Pruebas
+Este bloque será dedicado a hacer pruebas acerca del funcionamiento de nuestro sistema y
+documentar todos aquellos problemas que se lleguen a presentar.
+Bloque 8: Depuración
+Todos los problemas que se hayan encontrado en las pruebas serán corregidos par la adecuada
+funcionalidad de la aplicación web.
+Bloque 9: Implementación de la versión depurada
+Se implementara la versión mejorada de la aplicación para los usuarios puedan hacer uso
+adecuado de la aplicación. </Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La metodología empleada para el desarrollo del presente trabajo de tesis obedece a una
+investigación aplicada, a un nivel predictivo con aproximaciones tanto cualitativas como
+cuantitativas para el desarrollo de una aeronave de carga, la cual se encuentra plasmada por la
+secuencia lógica del siguiente diagrama.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Las actividades de este modelo se conforman en una espiral, en la que cada bucle o iteración representa
+un conjunto de actividades. Las actividades no están fijadas a ninguna prioridad, sino que las siguientes
+se eligen en función del análisis de riesgo, comenzando por el bucle interior. Este modelo está enfocado en
+la evaluación de riesgos, así como su minimización mediante la segmentación del proyecto en fragmentos
+pequeños y brindando una adaptabilidad al cambio durante el proceso de desarrollo. 
+El desarrollo del sistema estará definido por el análisis, el diseño y la programación, los módulos de la
+espiral serán los siguientes:
+Módulo de gestión de ejercicios electorales.
+Módulo de empadronamiento de usuarios.
+Módulo de autenticación de usuario.
+Módulo para la emisión del voto.
+Módulo de presentación de resultados. </Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Para poder realizar la detección de la información en los archivos de audio consta de dos etapas
+principales:
+ Leer el archivo con extensión .WAV y verificar si cumple con los parámetros de acuerdo a la
+FFT y así poder analizar la banda de los 7 a los 8 kHz
+ El cálculo de la potencia de la banda de los 7 a los 8 kHz, y dependiendo del umbral se
+detectará si hay o no información oculta en el archivo de audio.
+La primera etapa de este modelo tiene como principal función leer el archivo de audio y que se
+calcule la FFT y así poder analizar la banda de los 7 a los 8 kHz que es en donde se podría encontrar
+la información oculta.
+Por otra parte la segunda etapa es un proceso en el cual de cumplir con la primera etapa se calcula
+la potencia promedio del umbral de audio, es decir si este umbral es mayor o menor al promedio
+indicará si en la banda a analizar que es la de los 7 a los 8 kHz se encuentra algún tipo de información
+o si el archivo está completamente limpio y sin modificación alguna.
+Al desarrollar una herramienta que pueda detectar la información oculta en los archivos de audio el
+usuario final del archivo, podrá tener la certeza de que su archivo no ha sido corrompido o alterado
+para fines diferentes a los que tiene como propósito.
+A continuación se muestran las características del equipo así como del tipo y versión del lenguaje
+de programación que fueron utilizados para el desarrollo del presente trabajo.
+ Tipo: PC de Escritorio
+ Marca: Dell
+ Modelo Optiplex 990
+ Procesador: Core i5
+ Memoria RAM: 4 GB
+ Disco Duro: 250GB
+ Tarjeta de Audio: Realtek SR5325LA
+ Sistema Operativo: Windows 7 a 64 bits
+ Herramienta de Programación: Matlab
+ Versión: 8.2
+Cabe mencionar que este algoritmo puede ser utilizado con cualquier equipo y cualquier versión de
+la herramienta Matlab, ya que no está condicionado bajo ningún modo a que se ocupe en ambientes
+idénticos a los que se ocuparon para diseñarlo. </Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La metodología que utilizaremos durante todo el proceso de análisis y desarrollo de
+software será la metodología ágil SCRUM ya que nos permite una interacción dinámica y
+cercana entre los integrantes del equipo.
+El fin principal de SCRUM es permitir un desarrollo incremental e iterativo sobre el
+software y su diseño de manera dinámica y paralela, sin descuidar las principales etapas del
+proceso de análisis de requerimientos así como la generación de escenarios de caso de uso.
+En SCRUM las iteraciones son llamadas Sprints, los cuales son paquetes de tareas que
+generalmente están destinadas a realizarse en lapsos de tiempo de entre 1 y 2 semanas.
+Mientras que dichos paquetes de tareas son llamados Backlogs, las cuales son tareas
+definidas en mayor detalle con métricas aproximadas, medidas en unidades de tiempo,
+generalmente horas.
+Se quiere explotar las características de esta metodología ya que se adapta al modelo
+dinámico del proyecto, las mejoras iterativas deben estar siempre disponibles y poder
+recapitular al análisis del problema a resolver.
+SCRUM provee de juntas diarias llamadas “Dayli” las cuales tienen la función de enterar a
+todo el equipo sobre los avances y dificultades que se han suscitado en cada uno de los
+miembros del equipo, esta característica en especial nos brinda valor agregado ya que los
+problemas de comunicación son los que generalmente provocan malos entendidos, y como
+consecuencia una entrega ajena de calidad [5]</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>El desarrollo del sistema se dividirá en componentes con base a la metodología Top-Down [18].
+En la Figura 1.7 se muestra la jerarquía para trabajar con esta metodología. El sistema se
+desarrollará comenzando con el componente hardware y seguido por el componente software.
+El hardware está formado por las implementaciones de los componentes digitales y analógicos que
+son requeridos para el modelo matemático. El software debe contar con una interfaz gráfica de
+usuario y una interfaz física con el hardware. Tal como se indica en la metodología, se comenzará
+por el desarrollo de los componentes más altos de la jerarquía y para los componentes Hardware y
+Software se realizará la aplicación de la metodología basada en prototipos [19], donde se realizará
+el análisis de requerimientos, diseño, implementación, prototipo y pruebas.
+Para realizar el sistema, se tendrá que estudiar la base principal, que en este caso es el modelo
+matemático. Enseguida se buscarán los componentes digitales y analógicos necesarios para la
+implementación del modelo matemático. Esto conformará el sistema. Con base en la teoría de
+muestreo compreso, se deben realizar pruebas que permitan conocer si la compresión se está
+llevando a cabo correctamente. El sistema debe generarse para obtener las muestras necesarias para
+la recuperación exitosa de una imagen.
+Como proceso final se ha de realizar la aplicación de distintas técnicas para la reducción del
+consumo de potencia del sistema, como principales tenemos: árbol de distribución de relojes,
+paralelismo, reordenamiento de datos, manejo de punto fijo [20].
+</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La metodología mediante la cual se desarrollará el sistema será Desarrollo iterativo [10] y
+creciente (o incremental); se ha decidido utilizar este modelo debido a la dinámica del
+proyecto, que requiere un contacto recurrente con el usuario final, con el objetivo de
+obtener una retroalimentación y así cumplir con los requerimientos especificados por el
+coordinador (Ver Figura 5).
+El objetivo principal del modelo de Desarrollo iterativo y creciente consiste en desarrollar
+una serie de programas de manera incremental, permitiéndole al desarrollador sacar ventaja
+de lo que se ha aprendido a lo largo del desarrollo anterior, creando versiones que se van
+adaptando cada vez más a las necesidades del usuario.
+La idea de este modelo de desarrollo de software es comenzar con una implementación
+simple de los requerimientos del sistema, el cual pasa por un proceso de retroalimentación
+entre el usuario y los desarrolladores, con la intención de mejorar la secuencia evolutiva de
+versiones hasta que el sistema completo esté implementado.
+En cada iteración es probable que se realicen cambios en el diseño y se agreguen nuevas
+funcionalidades y capacidades al sistema.
+El proceso en sí mismo consiste de [11]:
+ Etapa de inicialización
+ Etapa de iteración
+ Lista de control de proyecto
+Etapa de inicialización - Se crea una versión del sistema. La meta de esta etapa es crear un
+producto con el que el usuario pueda interactuar, y por ende, retroalimentar el proceso.
+Debe ofrecer una muestra de los aspectos claves del problema y proveer una solución lo
+suficientemente simple para ser comprendida e implementada fácilmente. Para guiar el
+proceso de iteración se lleva una lista de control de proyecto.
+Etapa de iteración - Esta etapa involucra el rediseño e implementación de una tarea de la
+lista de control de proyecto, y el análisis de la versión más reciente del sistema. La meta del
+diseño e implementación de cualquier iteración debe ser simple, directa y modular, con la
+intención de soportar el rediseño de la etapa o considerarla como una tarea añadida a la lista
+de control de proyecto. El análisis de una iteración se basa en la retroalimentación del
+usuario y en el análisis de las funcionalidades disponibles del programa, lo cual involucra el
+análisis de la estructura, modularidad, usabilidad, y la valoración de las metas que se
+desean alcanzar, lo cual, en cierta medida, repercute en la lista de control del proyecto.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia> Para el desarrollo del sistema como metodología se usará Prototipado Evolutivo.
+ Es frecuente que los requerimientos de un sistema cambien conforme avanza su
+desarrollo, lo que hace que trazar una trayectoria lineal hacia el producto final sea poco
+realista. Por ello cuando se comprende bien el producto básico se lanza una versión
+limitada que ayude a resaltar detalles y/o extensiones que aún están por definirse o no
+estaban del todo contempladas. En estas situaciones es necesaria una metodología que se
+adapte a un producto que evoluciona con el tiempo.
+ Con respecto al Trabajo Terminal, este se compone tanto de partes de hardware y de
+software lo cual por lo cual al elegir una metodología iterativa se permitirá el desarrollo de
+prototipos cada vez más complejos y detallados del sistema que con el tiempo y la
+refinación formarán parte final del sistema.
+</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>En la siguiente figura se muestra el esquema de desarrollo evolutivo, en el cual las actividades de especificación, desarrollo y validación se entrelazan en vez de separarse, esto con una rápida retroalimentación entre ellas. Nos basaremos en el desarrollo exploratorio, donde el objetivo del proceso es trabajar con los requerimientos y entregar un sistema final. El desarrollo empieza con las partes del sistema que se comprenden mejor; el sistema evoluciona agregando nuevos atributos dependiendo de nuevos requerimientos propuestos.
+Para este proyecto se plantearon 2 prototipos que servirán para dar un panorama amplio al próximo de la iteración y así dividir las características del prototipo final.
+El desarrollo evolutivo se basa en la idea de desarrollar una implementación inicial y refinarla a través de las diferentes versiones hasta que se desarrolle un sistema que cumpla con los requerimientos y funcionalidad deseados. Existen dos tipos de desarrollo evolutivo: Desarrollo exploratorio: el objetivo del proceso es trabajar con los requerimientos y a partir de eso entregar un sistema final. El desarrollo empieza con las partes del sistema que se comprenden mejor y va evolucionando, agregando nuevos atributos hasta obtener la versión final. Prototipos desechables: el objetivo del proceso es que a partir de los requerimientos propuestos se desarrolle una definición mejorada del sistema. Se centra en experimentar con los requerimientos que no se comprenden del todo. Ventajas: Ideal para proyectos cuyos requerimientos cambian con rapidez. Cuando el cliente no puede especificar el conjunto total de los requerimientos. Cuando no se logra identificar de forma apropiada el ´área de aplicación. Cuando los desarrolladores no están seguros de la arquitectura o los algoritmos adecuados a utilizar. Desventajas: Existe una imposibilidad de conocer al inicio del proyecto lo que se tardara en crear un producto aceptable. Esta aproximación puede convertirse fácilmente en una excusa para realizar el desarrollo con el modelo de codificar y corregir.
+</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>De Acuerdo a las características del proyecto, tomaremos como guía la metodología
+de desarrollo de proyectos denominada Modelo en V, o Modelo de Cuatro Niveles.
+(García F. G., 2010).
+Como se muestra en la Ilustración 16, el modelo consta de cuatro niveles los
+cuales serán descritos a continuación:
+ Nivel 1. En esta etapa, realizaremos la identificación y análisis de los
+requerimientos de nuestro proyecto con su respectiva fase de verificación. 
+Como resultante se obtienen el presente documento y el documento de análisis
+de requerimientos, D-IR y D-AR respectivamente.
+ Nivel 2. En esta segunda etapa se realizará la parte del análisis funcional
+incluyendo las partes que son directamente de interacción con los usuarios
+finales como lo son las interfaces. Como resultante obtendremos las vistas del
+sistema.
+ Nivel 3. En la tercera etapa tendremos el diseño propio de la arquitectura del
+proyecto, definiendo los componentes Hardware y Software, y de la cual
+obtendremos el documento de diseño del sistema, D-DS.
+ Nivel 4. Por último en la etapa final nos dedicaremos al desarrollo de los
+componentes del proyecto y la implantación el sistema.
+Tomamos como referencia este modelo de proceso debido a que nos brinda la
+ventaja de que en cada fase contamos con una contraparte de verificación lo cual nos
+brinda la seguridad de estar realizando los procesos de forma correcta y con ello
+reducir el margen de error. Por otra parte, este modelo de proceso para el desarrollo de
+proyectos es recomendable para equipos de trabajo pequeños, no mayores a 5 personas,
+dentro de los cuales la comunicación entre las partes involucradas es fácil de llevar,
+además, los costos en tiempo y recursos se reducen logrando la conclusión de nuestro
+proyecto de una forma más rápida.
+Con la finalidad de enlistar nuestros objetivos primordiales al basarnos en este
+modelo de gestión, los nombramos a continuación:
+ Minimizar los riesgos del proyecto. Mejorando la transparencia y control del
+proyecto, especificando enfoques estandarizados describiendo resultados
+correspondientes y funciones de responsabilidad. Por otra parte, teniendo una
+detección oportuna en desviaciones y riegos, así como mejora la gestión de
+procesos reduciendo los posibles riesgos.
+ Mejorar la calidad y ofrecer garantías. Asegurando que los resultados
+proporcionados sean completos y que contengan la calidad esperada. El
+modelo, al mantener la uniformidad de la información permite comprobaciones
+tempranas así como mejora la legibilidad, comprensibilidad y verificabilidad.
+ Reducir los costos totales durante todo el proyecto y ciclo de vida del
+mismo. El desarrollo, producción, operación y mantenimiento del sistema es
+una de las fases más crudas de cualquier modelo. Sin embargo permite ser
+calculado, estimado y controlado de forma transparente por medio del modelo de procesos estandarizado que se conforme. El proceso no debe ser un simbionte
+entre cada elemento de colaboración para poder reducir la dependencia entre
+ellos y en el esfuerzo que se aplica en las actividades a desarrollar para el
+proyecto.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>PUMAGEMA será desarrollado bajo la metodología de Métrica Versión 3 [7] pasando por sus 5 fases:
+ Fase 0: Plan de sistemas de información
+ Fase 1: Análisis de sistemas
+ Fase 2: Diseño de sistemas
+ Fase 3: Construcción de sistemas
+ Fase 4: Implantación de sistemas
+Esta es una metodología orientada a objetos que utilizando el estándar de UML [8] nos ayuda con la elaboración de
+la documentación correspondiente al sistema utilizando como forma de desarrollo en espiral. Bajo el estándar
+ISO/IEC 12207:2008 se establece un marco común para los procesos del ciclo de vida del software con una
+terminología bien definida, que puede ser referenciada por la industria del software. Contiene procesos,
+actividades y tareas que se deben ir desarrollando a lo largo del proyecto. El objetivo principal de esta metodología
+es definir mediante un marco teórico el desarrollo de un sistema, permitiendo mejorar la productividad, de esta
+manera se tiene una mayor capacidad de adaptarse a los cambios, tomando en cuenta la reutilización en la medida
+de lo posible. Considerando estos aspectos, la metodología facilita la operación, mantenimiento, desarrollo y uso
+del sistema de tal forma que satisfaga las necesidades de los usuarios dando una mayor importancia al análisis de
+requerimientos. Cada una de sus fases serán aplicadas para el desarrollo del sistema propuesto.
+Utilizando la flexibilidad de esta metodología se usara el lenguaje de programación Visual C++ de .NET dado que su
+eficacia nos ayudara a realizar de manera óptima el desarrollo de PUMAGEMA, de igual manera utilizaremos JAVA
+en algunas aplicaciones de PUMAGEMA por su adaptabilidad con los diferentes Sistemas Operativos y lenguajes de
+programación. En el caso de la documentación nos apoyaremos en Rational Rose de UML ya que contiene las
+herramientas necesarias para la elaboración de la documentación.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>El modelo en espiral que fue propuesto originalmente por Boehm [33] el cual es un modelo de
+proceso de software evolutivo que conjuga la naturaleza iterativa de la construcción de prototipos
+con los aspectos controlados del modelo en cascada [34]. Seleccionamos esta metodología por ser
+eficiente y flexible ya que el proyecto requiere de modificación constante y de análisis del
+algoritmo que se va usar, además de las pruebas que se deben de estar realizando a tiempo ya sea
+a lo largo del proyecto o bien si se desea hacer posteriormente una vez finalizado el
+proyecto. Esta metodología nos sirve para reducir riesgos y permite aplicar el enfoque de
+construcción de prototipos en cualquier etapa de evolución del producto. El diagrama de espiral
+se basa en cuatro etapas la cual se iterará las veces que sea necesaria y se enlistan a continuación
+[35].
+I- Definición de objetivos
+II- Evaluación y reducción de riesgos
+III- Desarrollo y validación
+IV- Planificación </Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Se utilizó una metodología de desarrollo de software ágil llamada SCRUM[10] , ya que es una
+metodología iterativa en donde se van generando prototipos o partes del sistema que se van
+mejorando continuamente. Los participantes que intervienen en la metodología son: cliente,
+administrador del sistema, equipo de trabajo (desarrolladores) y especialistas (en este caso, en
+computación y pedagogía).
+A cada fase iterativa se le conoce como sprint, la cual puede tener una duración máxima de 30
+días. En el sprint cero, conocido como fase de preparación, se establecen las necesidades del
+software, diseño, tecnologías a usar, prioridades de las necesidades del cliente, estimaciones de
+esfuerzo del equipo de desarrollo, asignación de tareas y el objetivo de cada uno de los sprints
+siguientes. En la siguiente iteración se desarrolla el prototipo establecido en la fase de
+preparación y se lleva a cabo una reunión con todo el equipo de trabajo con el fin de resolver
+dudas acerca de las necesidades del cliente y factores que puedan retrasar la entrega del sprint. Al
+final de cada sprint se presenta el prototipo, así como las pruebas y revisiones por parte del
+equipo de desarrollo, una vez avalado por los especialistas y el cliente se proponen mejoras, en
+donde a partir del sprint dos se toman las sugerencias del sprint anterior y se mejoran en el sprint
+actual.
+La ventaja más significativa que tiene esta metodología es tener al cliente involucrado en el
+equipo de trabajo, ya que conforme va evolucionando el software en cada iteración se tiene un
+prototipo más robusto y adecuado a sus necesidades. En el caso de Peques y Grandes un aspecto
+importante fue contar con la colaboración de un especialista en el área de educación como guía
+para implementar los modelos de enseñanza existentes para el pensamiento proporcional.
+Los participantes o stakeholders que intervienen en la metodología SCRUM, son individuos
+interesados e involucrados dentro del proceso de desarrollo de la herramienta educativa, por ende,
+se deben tomar en cuenta a lo largo de todo este proceso.
+ Dueño del producto: Cliente del producto.
+ Administrador del sistema: Encargado de la administración técnica del sistema.
+ Profesor: Cualquier docente registrado en el sistema.
+ Estudiante: Cualquier persona registrada en el sistema que utilice los recursos de
+aprendizaje dentro del Sistema.
+ Desarrolladores: Equipo de analistas y desarrolladores del sistema.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Para el desarrollo de nuestro trabajo terminal se utilizará la metodología modelo
+incremental. Esta metodología es de naturaleza interactiva en la que al final de cada
+incremento se entrega un producto completamente operacional.
+Cuando se utiliza un modelo incremental, el primer incremento a menudo es un producto
+esencial. Es decir, se afrontan requisitos básicos, pero muchas funciones suplementarias
+quedan sin extraer. El cliente utiliza el producto central o sufre la revisión detallada. Como
+un resultado de utilización y/o de evaluación, se desarrolla un plan para el incremento
+siguiente. El plan afronta la modificación del producto central a fin de cumplir mejor las
+necesidades del cliente y la entrega de funciones, y características adicionales. Este proceso
+se repite siguiendo la entrega de cada incremento, hasta que se elabore el producto
+completo.
+Este modelo posee etapas tales como:
+1. Definición de requerimientos
+2. Asignar los requerimientos a los incrementos.
+3. Diseño del incremento a partir de los requerimientos.
+4. Desarrollo del incremento.
+5. Validar incrementos.
+6. Integrar incrementos.
+7. Validar funcionamiento.
+Las ventajas que ofrece esta metodología a nuestro proyecto es que reduce el tiempo de
+desarrollo inicial ya que se implementa la funcionalidad parcial y provee un impacto
+ventajoso frente al cliente ya que se hacen entregas tempranas de partes operativas del
+software, sin embargo requiere mucha planeación además de metas claras para conocer el
+estado del proyecto [24].</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Debido a la naturaleza del proyecto, el modelo seleccionado para el desarrollo del mismo fue el
+Modelo en espiral propuesto por Boehm, éste es un modelo de proceso de software evolutivo que
+conjuga la naturaleza iterativa de construcción de prototipos. Proporciona el potencial para el
+desarrollo rápido de versiones incrementales de Software.
+Se basa en un enfoque heurístico hacia el desarrollo de sistemas y de software a gran escala,
+como el software evoluciona a medida que progresa el plan, el desarrollador y el cliente
+comprenden y reaccionan mejor ante riesgos en cada uno de los niveles evolutivos. Utiliza la
+construcción de prototipos como mecanismo de reducción de riesgos, permite aplicar el enfoque
+de construcción de prototipo en cualquier etapa de evolución del proyecto.
+</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Se propone emplear la metodología SCRUM, la cual es una metodología de desarrollo
+ágil la cual nos va a permitir un proceso iterativo e incremental. Se establecerá cada
+Sprint con una duración de 3 semanas, se irá ajustando en cada uno de estos Sprints la
+funcionalidad así como se irá añadiendo nuevas prestaciones las cuales se priorizarán
+según la cual aporte mayor valor al proyecto.
+Entre los beneficios que se tendrán al usar esta metodología serán:
+● Flexibilidad a cambios
+● Mayor productividad
+● Predicciones de tiempo
+● Reducción de riesgos</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Este proyecto de software tiene que basarse en una metodología formal de desarrollo que se adecúe a
+nuestros objetivos, deducimos que el modelo en espiral es la más idónea porque nos permite probar los
+avances algorítmicos con ejemplos y fácilmente detectar los errores y, si es que tenemos errores los podamos
+corregir fácilmente entre otras virtudes como lo es el modelado de software, el análisis de diseño, la eficacia
+de nuestro software, calidad, documentación etc. 8
+</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Para el desarrollo de nuestra solución usaremos el Modelo Evolutivo Incremental, este modelo
+aplica secuencias lineales (análisis, diseño, código y prueba) de forma escalonada mientras
+progresa el tiempo en el calendario, cada secuencia lineal produce un incremento del software [5].
+El modelo entrega el software en partes pequeñas pero utilizables llamadas incrementos, en
+general cada incremento se construye sobre aquel que ya ha sido entregado. Este proceso se
+repite hasta que se elabore el producto completo donde cada entrega es un producto operacional.
+
+Etapa 1: Análisis.
+Investigación sobre la realidad aumentada y sistemas de información y localización. Definición
+de la arquitectura del sistema. Así como su documentación correspondiente.
+Etapa 2: Diseño.
+Definir el proceso para aplicar las técnicas y principios con el propósito de tener el trabajo
+detallado para su interpretación y realización física. Así como su documentación correspondiente.
+Etapa 3: Codificación.
+Selección de la información que estará desplegada. Se realizará la codificación de los diferentes
+módulos que conforman el sistema y su documentación.
+Etapa 4: Pruebas
+Se realizarán una serie de pruebas para confirmar que el sistema cumple con el objetivo
+establecido, si los resultados no son satisfactorios se harán las modificaciones correspondientes.
+Así como la documentación correspondiente.
+</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La metodología que se propone es el modelo incremental porque tiene el enfoque del Modelo de
+Proceso Evolutivo, donde los sistemas van evolucionando conforme al tiempo, éste enfoque
+entrelaza las actividades de especificación, desarrollo y validación. Un sistema inicial se
+desarrolla rápidamente a partir de especificaciones abstractas y se refina basándose en las
+peticiones del cliente para producir un sistema que satisfaga sus necesidades.
+Los modelos evolutivos son iterativos. Se caracterizan por la manera en la que permiten
+desarrollar versiones cada vez más completas del software. En un proceso de desarrollo
+incremental, los clientes identifican a grandes rasgos los servicios que proporcionará el sistema,
+identifican qué servicios son más importantes y cuáles menos. Entonces se definen varios
+incrementos en donde cada uno proporciona un subconjunto de la funcionalidad del sistema. La asignación de servicios a los incrementos depende de la prioridad del servicio con los servicios
+de prioridad más alta entregados primero.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Para el desarrollo de este Trabajo Terminal se usará una metodología ágil de desarrollo. Dentro de
+las metodologías ágiles se encuentra el Proceso Unificado Ágil (AUP por sus siglas en inglés) [12],
+el cual es una versión simplificada del Proceso Racional Unificado (RUP) creado por Scott Ambler
+[13].
+AUP, según su guía oficial [13], busca simplificar el desarrollo de sistemas lo más posible. Tanto
+el planteamiento como la descripción del mismo hacen uso de un ciclo de vida iterativo e
+incremental, con lo cual los avances hechos deben reflejarse en bloques cortos y fijos de tiempo,
+lo cual permite que se tengan avances paralelos y se puedan ir observado prototipos funcionales.
+AUP está definido en 4 fases:
+Formulación: Se identifica el objetivo, el potencial y el alcance del sistema.
+Elaboración: El objetivo es que el equipo de desarrollo profundice en la comprensión de
+los requisitos del sistema, se realice un análisis y diseño de los modelos a ocupar.
+Construcción: El sistema es desarrollado y probado dentro del entorno de desarrollo.
+Entrega: El sistema es llevado a un entorno de preproducción donde se somete a pruebas
+de validación y aceptación con la finalidad de ser puesto en producción.
+Estas fases son las que pretenden seguir durante el desarrollo de cada una de las actividades del
+cronograma de este trabajo terminal.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>El presente proyecto, documenta la información necesaria para el mejoramiento
+de algunos de los procesos que se siguen en los consultorios médicos de
+especialidades del Hospital Ángeles Lindavista.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>El desarrollo evolutivo se basa en la idea de desarrollar una implementación inicial, exponiéndola
+a los comentarios del usuario y refinándola a través de diferentes versiones hasta que se desarrolle
+un sistema adecuado (Fig. 3.1 ). Las actividades de especificación, desarrollo y validación se entrelazan en vez de separarse, con una rápida retroalimentación entre estas.
+Los modelos evolutivos son iterativos. Se caracterizan por la forma en que permiten a los ingenieros del software desarrollar versiones cada vez más completas del software.
+Para este trabajo terminal se emplea el desarrollo exploratorio que tiene como objetivo del proceso
+trabajar con el cliente para explorar sus requerimientos y entregar un sistema final. El desarrollo
+empieza con las partes del sistema que se comprenden mejor. El sistema evoluciona agregando
+nuevos atributos acordes con las propuestas del cliente. La ventaja de un desarrollo evolutivo es
+que la especificación se puede desarrollar de manera creciente.
+El esbozo de la descripción sirve para encontrar y definir los objetivos globales para el software,
+a partir de especificaciones abstractas se identifican los requisitos y las áreas en donde es necesaria
+más definición. Éste se refina basándose en la investigación entre la respuesta inmune adaptativa
+ante la infección por el VIH y su control bajo un tratamiento ARV para producir un sistema final.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>En el desarrollo del proyecto se utilizó el prototipado evolutivo, es un caso especial de
+prototipado iterativo, tiene como propósito su evolución hacia el sistema final.
+Metodologías como Programación Extrema (Beck, 2000), consiste mayoritariamente en desarrollar módulos evolutivos. Esto porque los módulos son raramente robustos o
+completos, lo cual es muchas veces impráctico y en otras ocasiones representa un peligro
+para la evolución del sistema final. A pesar de tales desventajas respecto a otras
+metodologías de desarrollo, se optó por el prototipado evolutivo ya que proporciona la
+flexibilidad de probar distintas soluciones y atacar desde varios puntos de vista un
+problema, dándonos la posibilidad de constatar la viabilidad de diversas soluciones, y al
+final elegir la que resuelve de mejor manera la problemática inicial, sin embargo, es de
+suma importancia que la arquitectura general del sistema esté definida de manera total,
+logrando así, una vía de acción sobre la cual se mantiene el objetivo final del sistema y
+de ésta forma se logra que las implementaciones prototipadas tengan coherencia respecto
+a la totalidad del sistema.
+La definición de la arquitectura del software en el prototipado evolutivo es
+tradicionalmente realizada después de la especificación funcional pero es escrita antes de
+que la codificación comience, esto coadyuva a que se desarrolle una arquitectura que
+brinde soporte al prototipado iterativo y a su vez la evolución de los módulos es crucial
+para asegurar que las alternativas de diseño sean probadas con máxima flexibilidad y en
+un costo razonable (económico o temporal) (Michel Beaudouin-Lafon y Wendy Mackay).</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Para desarrollar un proyecto es necesario tener un conjunto de procedimientos, técnicas,
+herramientas y documentos auxiliares que ayuden al desarrollador para la construcción del
+proyecto, dicho conjunto se denomina metodología de desarrollo.
+Las metodologías ágiles son procesos para desarrollar software de manera rápida, con gran
+facilidad de adopción por los equipos de trabajo.
+Las metodologías en general se clasifican según su enfoque y características esenciales, las
+más recientes, que se fueron gestando a finales del siglo pasado y que se han comenzado a
+manifestar desde principios del actual, se han denominado “metodologías ágiles” y surgen
+como una alternativa a las tradicionales, estas metodologías se derivan de la lista de los
+principios que se encuentran en el “Manifiesto Ágil” y están basados en un desarrollo
+iterativo que se centra más en capturar mejor los requisitos cambiantes y la gestión de los
+riesgos, rompiendo el proyecto en iteraciones de diferente longitud, cada una de ellas
+generando un producto completo y entregable.
+El desarrollo de software para las plataformas móviles viene con características únicas y
+restricciones que se aplican a la mayoría de las etapas del ciclo de vida. Las características
+distintivas más importantes son: un alto nivel de competitividad, cortos tiempos de entrega,
+movilidad, portabilidad, capacidades específicas y constantemente cambiantes de las
+terminales, sistemas operativos diferentes e incompatibles, entre otras.
+Una metodología de desarrollo nueva, especialmente diseñada para el desarrollo de
+aplicaciones móviles, recibe el nombre de Mobile-D y es propuesta por Pekka Abrahamsson
+y su equipo del VTT (Valtion Teknillinen Tutkimuskeskus).</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Este trabajo se basará en la metodología propuesta por Ikerlan S. Coop. Se tomara ́ el modelo de
+desarrollo de sistema con el cual se pretende implementar las técnicas y medidas que puedan ser
+aplicables y factibles para el desarrollo de esta propuesta.
+La metodología en V consiste en las etapas descritas a continuación:
+DEFINICIÓN DE ESPECIFICACIONES (Fase 1): Se deben definir y documentar los
+diferentes requisitos del sistema a desarrollar, identificando los valores numéricos más concretos
+posibles. Entre ellos debe estar la especificación del nivel de integridad.
+DISEÑO GLOBAL (Fase 2): También llamado diseño de alto nivel. Su objetivo es
+obtener un diseño y visión general del sistema.
+DISEÑO EN DETALLE (Fase 3): Consiste en detallar cada bloque de la fase anterior.
+IMPLEMENTACIÓN (Fase 4): Es la fase en la que se materializa el diseño en detalle.
+TEST UNITARIO (Fase 5): En esta fase se verifica cada módulo HW y SW de forma unitaria,
+comprobando su funcionamiento adecuado.
+INTEGRACIÓN (Fase 6): En esta fase se integran los distintos módulos que forman el sistema.
+Como en el caso anterior, ha de generarse un documento de pruebas. Por una parte, se debe
+comprobar en todo el sistema el funcionamiento correcto, y por otra, en caso de tratarse con un
+sistema tolerante a fallos, debe verificarse que ante la presencia de un fallo persiste el
+funcionamiento correcto. Se comprueba el cumplimiento de los requisitos establecidos.
+TEST OPERACIONAL DEL SISTEMA (Fase 7): Se realizan las últimas pruebas pero sobre un
+escenario real, en su ubicación final, anotando una vez más las pruebas realizadas y los resultados
+obtenidos.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Existen diversas metodologías de trabajo, sin embargo por la naturaleza de nuestro
+problema, la que se ajusta es la metodología de prototipado evolutivo, la cual consiste en ir
+desarrollando prototipos de cada fase de la herramienta, esto nos permitirá tener un control
+sobre las versiones que se vayan desarrollando conforme evoluciona el sistema hasta llegar
+a la versión final.
+Al proponer y revisar el método de desarrollo de software anteriormente mencionado
+concluimos que es el que mejor se adecua a las necesidades de nuestro sistema, el diseño
+rápido se centra en una representación de aquellos aspectos que serán visibles para el
+usuario final. Este diseño nos conduce a la construcción de un prototipo inicial, el cual será
+evaluado para ajustar, refinar errores y así hasta llegar al sistema final. Esto permite a
+nosotros como desarrolladores que al mismo tiempo se entienda mejor lo que se debe hacer
+y no consumir tantos recursos, para ello proponemos de manera inicial cuatro prototipos,
+los cuales se describen de manera general anteriormente.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La metodología está basada en un proceso compuesto por diferentes fases. La
+primera de ellas consiste en el conocimiento del medio ambiente, esto es, conocer
+la situación actual del problema, sus antecedentes, así como su entorno y factores
+que influyen directamente en él. El hecho de tener conocimiento del medio
+ambiente nos permite realizar un análisis o evaluación detallada del problema y a
+partir de éste elaborar un diagnóstico basado en datos obtenidos en las fases
+anteriores.
+En la siguiente fase se realiza una propuesta de solución en la que se integran los
+datos y experiencias en las etapas anteriores. Una vez que se tiene una idea de
+cómo solucionar el problema se pone en práctica la propuesta aplicándola al
+problema. En la mayoría de los casos esta fase junto con siguiente son las partes
+más difíciles y delicadas ya que consumen más tiempo y recursos que las demás
+etapas.
+La fase final consiste en la supervisión y evaluación de la aplicación de la
+propuesta de solución en la que se hacen pruebas de control para verificar que los
+resultados son los que se definieron previamente como objetivos. De tener
+resultados satisfactorios se prosigue a mejorarlos, de lo contrario se tendría que
+regresar a una fase anterior (normalmente a la fase de propuesta de solución)
+hasta llegar a un resultado satisfactorio.
+</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>De acuerdo a lo que se ha expuesto en los capítulos anteriores, y de acuerdo a la
+experiencia obtenida, la metodología computacional para predecir problemáticas
+sociales es la que se describirá a continuación.
+Basándonos en el trabajo de investigación hecho por la investigadora Marta Cubero
+García, lo que se busca mediante el empleo, en el caso de este proyecto, de
+herramientas computacionales, es describir y formalizar la realidad, empleando
+modelos flexibles que interpreten las leyes que rigen el comportamiento humano y
+las relaciones entre los hombres.
+Para describir esa realidad incierta, tanto en el orden de lo social como en el de lo
+natural, se utilizarán polinomios matemáticos.
+La condición humana está marcada, afirma Cubero, por dos grandes
+incertidumbres: la incertidumbre cognitiva y la incertidumbre histórica. Conocer y pensar no es llegar a una verdad totalmente cierta, es dialogar con la incertidumbre.
+Esa incertidumbre puede representarse con una fórmula matemática.
+Si bien, en este proyecto, se parte de bases de datos, se pueden representar en
+fórmulas, apoyándonos en la idea de Cubero, que afirma que “el tratamiento
+tradicional de los datos no utiliza conceptos complejos como el de la incertidumbre,
+que aplicado al tratamiento informático de los datos muestra unas representaciones
+lineales objetivas para comprender las dispersiones y los agrupamientos mostrados
+por los diagramas de barras de los gráficos obtenidos con el método tradicional. Los
+investigadores buscan nuevos campos de aplicación de esta técnica” (La
+investigación en Trabajo Social con técnicas de lógica difusa, 2010)
+También, como analizando uno de los artículos citados en la justificación de este
+trabajo, se puede percibir que el autor identificó varios comportamientos sociales,
+que después consideró como variables dentro de una ecuación matemática, para
+analizar los movimientos en los índices de crimen, definidos en una variable x, en
+función del resto de las variables. Sin embargo, como se menciona en la
+justificación, requería de un conocimiento avanzado de matemáticas.
+Esta metodología es utilizada para describir la realidad social en fórmulas
+matemáticas, como , pero desde herramientas computacionales y el tratamiento de
+base de datos, como ; ambos conceptos, serán fácilmente leídos e interpretados
+por cualquier persona en una interfaz de software simple de entender, mejorando la
+desventaja que tiene, en el caso de , utilizar términos sobre especializados,
+reduciendo el valor agregado de las bases de datos de índices sociales, perdiendo
+uno de los principios de la información establecidos por Piatti.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>En la Imagen 1.3 se muestra el modelo que se ha decido utilizar, el modelo en espiral; por cada giro
+que realicemos, podemos hacer una entrega ya sea de software o de información, se delimitará y
+especificará más las características para el desarrollo de la aplicación.
+Lo primero que se decidió en las vueltas iniciales a la espiral son:
+Algoritmo de inteligencia artificial que se aplicará
+Plataforma a utilizar
+Lenguajes de programación
+Software a utilizar para la base de datos
+Una vez definidos se continuó con los siguientes objetivos:
+Adquisición de datos
+Desarrollo de la base de datos
+Desarrollo de la Herramienta
+Pruebas para comprobar la efectividad del algoritmo seleccionado
+Pruebas finales
+Correcciones parciales del sistema
+Para lograr esto se utilizarán:
+Diagramas de casos de uso
+Diagramas de actividades
+Diagramas de clases</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>En 1968 a causa de la Crisis del Software 4 se propuso lo que hoy conocemos como
+Ingeniería de Software. Debido a esto, el software resultante fue de órdenes de magnitud
+más grande y más complejo que los sistemas de software previos. Para solucionar esto se
+necesitaban nuevas técnicas y métodos para controlar la complejidad inherente a los
+sistemas grandes.
+Una de estas técnicas es el modelado del proceso del software. Un modelado de procesos
+del software es una descripción simplificada de un proceso del software que presenta una
+visión de ese proceso. El modelo que se utilizará en el desarrollo del Trabajo Terminal
+será el Modelo por Prototipos.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La presente propuesta emplea el ciclo de vida de desarrollo de software prototipado
+evolutivo [15, p. 361], en donde cada prototipo equivale a un subsistema cuyo desarrollo
+consta de 4 etapas, adaptadas del modelo de desarrollo en cascada [15, p. 62], descritas a
+continuación:
+1. Requerimientos – Identifica la funcionalidad y la calidad.
+2. Análisis – Define el modelo conceptual.
+3. Diseño – Planeación del software.
+4. Implementación – Desarrollo y pruebas del software.
+La Tabla 4-1 muestra la descripción cada prototipo desarrollado. Por la naturaleza del ciclo
+de vida de software, sólo se documenta la etapa final de cada prototipo.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Scrum es un proceso en el que se aplican un conjunto de buenas prácticas para trabajar
+colaborativamente, y así lograr obtener el mejor resultado posible de un proyecto. En Scrum se
+realizan entregas parciales y regulares del producto final, priorizadas por el beneficio que aportan
+al proyecto en la parte funcional de este mismo. Scrum está especialmente indicado para proyectos
+en entornos complejos, donde se necesita obtener resultados prontos, donde los requisitos son
+cambiantes o poco definidos, donde la innovación, la competitividad, la flexibilidad y la
+productividad son fundamentales.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>En esta metodología, se sugiere tomar todo el sistema y dividirlo en dos partes principales:
+hardware y software. La parte de hardware corresponde a los componentes físicos del sistema. En
+este caso en particular corresponde al FPGA. La parte de software corresponde a los programas
+que se incrustan dentro del dispositivo programable y la mayoría del tiempo, controlan el flujo de
+información.
+En la figura 3.1 se muestra la metodología propuesta para Sistemas Embebidos desarrollados bajo
+un entorno EDK (Embedded Development Kit o Kit de Desarrollo de Embebidos). En ella se
+muestra el flujo de diseño de ambas partes del Sistema Embebido [19].
+En la imagen se observan tres etapas numeradas y separadas unas de otras. Cada una de las tres
+etapas corresponde a la parte de desarrollo de hardware, la parte de desarrollo de software y una
+fase de unión de ambas.
+En la etapa 1 se muestran las actividades correspondientes al diseño de la parte de hardware. El
+lenguaje de programación para esta etapa puede ser VHDL o Verilog. Tiene la opción de generar
+un archivo de programación completo que puede ser directamente descargado en el FPGA.
+También es posible generar los archivos necesarios que, más adelante, se unirán a los archivos de
+software para formar el sistema completo.
+La etapa 2 corresponde al flujo de diseño de la parte del software. En los Sistemas Embebidos, es
+muy común que se realice la implementación en el lenguaje de programación C. De manera
+similar a como ocurre en la etapa de hardware, también es posible crear o modificar la parte del
+software e implementarla de manera directa en el FPGA. Sin embargo, existe una diferencia
+notable entre ambas partes.
+A diferencia de la implementación del hardware, donde se puede realizar el diseño completo o
+parcial y colocarlo dentro del FPGA directamente, no es posible hacerlo de manera directa con la
+parte del software sin haber depurado previamente el código. Una alternativa para ello, es cargar
+el programa compilado sin depurar en una memoria externa. El programa es entonces extraído de
+la memoria para ser usado en conjunto con el hardware implementado en el PFGA.
+Para la etapa 3 se considera el desarrollo conjunto de ambas partes del sistema embebido. Aquí el
+EDK requiere de los componentes de ambas partes para poder crear el sistema. Las partes
+mínimas que requiere son: un archivo con las especificaciones de conexiones entre los
+componentes del FPGA así como otro archivo con la plataforma sobre la cual se programa el
+código del software.
+Posteriormente, para crear el archivo de imagen final con el que se programa el FPGA, es
+necesario contar con dos archivos. El archivo de configuración de hardware (.bit) que contiene
+todas las especificaciones de conexiones, mapeo de componentes, síntesis de módulos, mapeo de
+puertos de E/S por mencionar algunos ejemplos. También se requiere del archivo generado al
+compilar el código en C del software (.elf) que es el que contiene las librerías de comunicación
+con los módulos del hardware, las funciones creadas por el usuario, datos de variables y
+constantes, flujo y control de datos, entre otros más.
+Ambos archivos son combinados en uno solo por el EDK. Una vez combinados, el archivo
+resultante se carga dentro del FPGA para poder comprobar el funcionamiento del Sistema
+Embebido.
+De acuerdo con la metodología propuesta para Sistemas Embebidos, el desarrollo de este trabajo
+debe descomponerse en tres fases: diseño del hardware, diseño del software y unión de ambas
+partes para su implementación en el FPGA.
+En la figura 3.2 se muestra, de manera muy general, la forma en la que interactúan las fases de
+hardware y software para lograr la comunicación entre el usuario y el Sistema Embebido. 
+En este caso, la parte del software corresponde a las librerías, las cuales contienen las funciones
+necesarias para poder manipular los datos dentro del hardware. Las librerías necesarias para cada
+módulo del hardware son generadas automáticamente por el EDK como archivos de cabeceras .h.
+La razón por la que se emplea este formato, es porque se utiliza el lenguaje de programación C,
+donde las librerías poseen formato .h.
+</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Para fines de este trabajo terminal se ha elegido como metodología, la incremental.
+Ya que, en un proceso de desarrollo incremental, los clientes identifican a grandes rasgos,
+los servicios que proporcionara el sistema priorizándolos. Entonces se definen varios incrementos
+en donde cada uno proporciona un subconjunto de la funcionalidad del sistema.
+Una vez que los incrementos del sistema se han identificado, los requerimientos para los
+servicios que se van a entregar en el primer incremento, se definen en detalle, y ´este se
+desarrolla según la priorización.
+Una vez que un incremento se completa, se tiene una entrega temprana de parte de
+la funcionalidad del sistema. Tan pronto como se completan los nuevos incrementos, se
+integran en los existentes de tal forma que la funcionalidad del sistema mejora con cada
+incremento entregado.  El desarrollo incremental tiene varias ventajas:
+Los clientes no tienen que esperar hasta que el sistema esté completo. El primer
+incremento satisface los requerimientos más críticos de tal forma que pueden utilizar
+el incremento inmediatamente.
+Los clientes pueden utilizar los incrementos iniciales como prototipos y obtener experiencia
+sobre los requerimientos de los incrementos posteriores del sistema.
+Existe bajo riesgo de un fallo total del proyecto, puesto que los servicios de más alta
+prioridad se entregan primero y los incrementos posteriores se integran en ellos.
+</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Para la realización de este Trabajo Terminal, nos apoyaremos en la metodología de desarrollo
+de software del Proceso Racional Unificado (Rational Unified Process en inglés,
+comúnmente abreviado como RUP). Junto con el Lenguaje Unificado de Modelado UML,
+constituye la metodología estándar más utilizada para el análisis, diseño, implementación y
+documentación de sistemas.
+RUP es un proceso iterativo de desarrollo de software que no cuenta con una serie de pasos
+firmemente establecidos, sino un conjunto de metodologías adaptables al contexto y
+necesidades de cada organización.
+El ciclo de vida RUP es una implementación del desarrollo en espiral. El ciclo de vida
+organiza las tareas en fases e iteraciones como se muestra en la figura 3.1.
+En el modelado del negocio, se establece el entendimiento y alcance del proyecto. Se
+investiga el estado del arte, los proyectos que ya existen actualmente y que ofrecen una visión
+similar a la nuestra.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Antes de narrar el por qué seleccionamos la corriente pedagógica que escogimos
+valdría la pena señalar las dos opciones importantes con las que contábamos en un inicio,
+que son las corrientes socio-constructivista y socio-construccionista. A pesar de la
+semejanza de los dos nombres resulta un tanto distantes una de la otra por las sutiles
+diferencias que presentan en sus bases fundamentales; para comenzar, podemos decir que el construccionismo es un paradigma que aparece posteriormente al constructivismo,
+y es precisamente porque deriva de éste último. A grandes rasgos, en el segundo se
+hace hincapié en que el individuo forma su conocimiento a partir de experiencias que
+tienen qué ver con el contexto social en el que se desarrolla, mientras que en el primero
+explica que el individuo formará su aprendizaje basado en experiencias sociales, es decir,
+un grupo de sujetos desarrollará el conocimiento en el que se basarán para generar
+el siguiente contexto 1 . En seguida detallaremos mejor sus diferencias.
+El constructivismo tiene su base en la idea de que el conocimiento se escala, es decir,
+que una vez que se tiene aprendido algo o un acontecimiento fue significativo para
+una persona, ésta experiencia le servirá como fundamento para generar el conocimiento
+siguiente, de tal manera que se altere la estructura mental que se generó (modelo
+mental) para reacomodarse y fijar un nuevo concepto. El sujeto que se construye conocimiento
+a partir de este modelo hace que los nuevos modelos mentales adquiridos le
+resulten inherentes a su vida, puesto que lo que experimentó a lo largo de sus vivencias
+le permitió generar aprendizaje auto referenciado 2 3.
+Como anticipamos, el construccionismo se basa en un sistema social. Hace referencia
+a que en una sociedad la retroalimentación entre sus personajes es obligada porque
+la comunicación entre ellos es la base para su desarrollo; dentro de uno de los conceptos
+que componen a esta tendencia, está la definición del establecimiento de las reglas
+de las dinámicas de interacción por el conjunto de sus individuos; otro idea que la compone
+es que en la realidad de un sujeto, su sistema de acciones es resultado de las interacciones
+que tiene con la sociedad en la que se desenvuelve[3]. Como vemos ahora, el
+paradigma socio-construccionismo antecede la relación entre personas a la individualidad
+y es así como cada sujeto modela su realidad. De este modo podemos analizar el
+aprendizaje significativo de un sujeto cuando a este se le coloca en un entorno social con el que pueda interaccionar con otros individuos, con reglas a consensuar o las ya
+preestablecidas, para comenzar a experimentar la construcción de su conocimiento 2 3. Ahora retomemos la importancia del juego en el aprendizaje en edades tempranas,
+decidimos enfocarnos a niños por la trascendencia que queremos que tenga el juguete
+en el desarrollo de una persona, fundamentando el concepto de que el juego tiene
+mayor relevancia en un niño cuando se relaciona directamente con el objeto de aprendizaje.
+Lo anterior fue el motivo principal por el que seleccionamos la corriente construccionista
+porque pensamos fijamente que nuestro producto impactará no sólo a un niño
+a la vez, sino que consideramos que será utilizado por equipos de niños para que en
+conjunto encuentren nuevas formas de juegos y dinámicas de aprendizaje. Nos parece
+que de este modo también tendremos mayor repercusión con un grupo más alto de esa
+sección de la sociedad.
+El diseño del lenguaje para programar se basa también en estos principios para la
+mejor relación delos niños con la programación, es decir, simplificaremos el entorno
+de edición al grado de que el niño pueda identificar sin complicaciones los íconos para
+programar el mecanismo.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La metodología propuesta para este proyecto es Rational Unified Process (RUP), que es
+un proceso de software genérico que puede ser utilizado para una gran cantidad de tipos de
+sistemas de software, para diferentes áreas de aplicación, diferentes tipos de
+organizaciones, diferentes niveles de competencia y diferentes tamaños de proyectos[12]
+.
+El Proceso Unificado se basa en componentes, lo que significa que el sistema en
+construcción está hecho de componentes de software interconectados por medio de
+interfaces bien definidas [12]
+.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Se ha elegido como metodología el modelo de procesos evolutivos (Paradigma de construcción
+de prototipos) [31] ya que permite producir una versión completa en forma incremental con cada
+iteración. El flujo de trabajo de cada iteración incluye los cinco flujos de trabajo: requisitos,
+análisis, diseño, implementación y prueba. Los flujos de trabajo se repiten en cada iteración [32].
+Para el Trabajo Terminal propuesto, se considerarán los siguientes prototipos:
+Prototipo 1: Repositorio de datos
+Utilizando Feature selection (Selección de Características) se hará un análisis de los
+atributos de la base de datos con los que se trabajará, los cuáles se integrarán en el
+repositorio del Sistema Propuesto. Se investigará sobre las principales características del
+Parkinson, de las memorias morfológicas y la voz.
+Prototipo 2: Memoria.
+En esta etapa se desarrollarán dos tipos de memorias a implementar, las primeras serán
+memorias asociativas morfológicas, con las cuales estableceremos el principio de
+funcionamiento del sistema. Posteriormente se implementarán las memorias asociativas
+Alfa y Beta las cuales serán utilizadas para comparar los resultados respecto a las
+primeras memorias creadas.
+Prototipo 3: Entrenamiento.
+Las memorias asociativas previamente creadas serán entrenadas con los datos de la base
+de datos generada en la primera iteración. Cada memoria será entrenada con el mismo
+número y tipo de datos, para de esta forma, probar la efectividad de cada una de las
+memorias.
+Prototipo 4: Análisis de Resultados.
+En esta etapa final, se analizarán los resultados obtenidos en la etapa anterior, comparando
+los resultados de cada una de las memorias, generando un reporte con los datos obtenidos
+en esta iteración.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>El marco de trabajo Scrum consiste en los Equipos Scrum, roles, eventos, artefactos y reglas
+asociadas. Cada componente dentro del marco de trabajo sirve a un propósito específico y es
+esencial para el éxito de Scrum y para su uso. [19]
+Scrum se basa en procesos empírica o empirismo.
+El empirismo asegura que el conocimiento procede de la experiencia y de tomar decisiones
+basándose en lo que se conoce, empírico: transparencia, inspección y adaptación.
+Transparencia: Los aspectos significativos del proceso deben ser visibles para aquellos que son
+responsables del resultado.
+Inspección: Los usuarios de Scrum deben inspeccionar frecuentemente los artefactos de Scrum y
+el progreso hacia un objetivo.
+Adaptación: véase como los ajustes que debe realizarse cuanto antes para minimizar desviaciones
+mayores de producto.
+El Equipo Scrum (Scrum Team)
+El Equipo Scrum consiste en un Dueño de Producto (Product Owner), el Equipo de Desarrollo
+(Development Team) y un Scrum Master. Los Equipos Scrum son autos organizados y
+multifuncionales. [19]
+El Dueño de Producto (Product Owner)
+El Dueño de Producto es el responsable de maximizar el valor del producto y del trabajo del Equipo
+de Desarrollo. [19]
+ Expresar claramente los elementos de la Lista del Producto;
+ Ordenar los elementos en la Lista del Producto para alcanzar los objetivos y misiones de
+la mejor manera posible;
+ Optimizar el valor del trabajo desempeñado por el Equipo de Desarrollo.
+El Equipo de Desarrollo (Development Team)
+El Equipo de Desarrollo consiste en los profesionales que desempeñan el trabajo de entregar un
+Incremento de producto “Terminado”, que potencialmente se pueda poner en producción, al final
+de cada Sprint. Sólo los miembros del Equipo de Desarrollo participan en la creación del
+Incremento.[19]
+Los Equipos de Desarrollo tienen las siguientes características:
+ Son auto organizado.
+ Los Equipos de Desarrollo son multifuncionales, contando como equipo con todas las
+habilidades necesarias para crear un Incremento de producto; 
+ Scrum no reconoce títulos para los miembros de un Equipo de Desarrollo, todos son
+Desarrolladores, independientemente del trabajo que realice cada persona
+ Los Miembros individuales del Equipo de Desarrollo pueden tener habilidades
+especializadas y áreas en las que estén más enfocados, pero la responsabilidad recae en el
+Equipo de Desarrollo como un todo.
+El Scrum Master
+El Scrum Master es el responsable de asegurar que Scrum es entendido y adoptado. Los Scrum
+Masters hacen esto asegurándose de que el Equipo Scrum trabaja ajustándose a la teoría, prácticas
+y reglas
+El Scrum Master es un líder que está al servicio del Equipo Scrum. El Scrum Master ayuda a las
+personas externas al Equipo Scrum a entender qué interacciones con el Equipo Scrum pueden ser
+de ayuda y cuáles no.[19]
+El Scrum Master da servicio al Equipo de Desarrollo de varias formas, incluyendo:
+ Guiar al Equipo de Desarrollo en ser auto organizado y multifuncional;
+ Ayudar al Equipo de Desarrollo a crear productos de alto valor;
+ Eliminar impedimentos para el progreso del Equipo de Desarrollo;
+Las principales razones del uso de un ciclo de desarrollo iterativo e incremental de tipo Scrum para
+la ejecución de este proyecto son:
+ Sistema modular. Las características del sistema “sistema de gestión para la promoción
+turística y cultural GAM” permiten desarrollar una base funcional mínima y sobre ella ir
+incrementando las funcionalidades o modificando el comportamiento o apariencia de las
+ya implementadas.
+ Entregas frecuentes y continuas a la Delegación de los módulos terminados, de forma que
+puede disponer de una funcionalidad básica en un tiempo mínimo y a partir de ahí un
+incremento y mejora continua del sistema.
+ Previsible inestabilidad de requisitos.
+o Es posible que el sistema incorporé más funcionalidades de las inicialmente
+identificadas.
+o Es posible que durante la ejecución del proyecto se altere el orden en el que se
+desean recibir los módulos o historias de usuario terminadas.
+</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Para este proyecto de Trabajo Terminal "Visita Virtual al Museo Fuego Nuevo", se
+empleará una metodología en cascada.
+El Modelo en Cascada. Considera las actividades fundamentales del proceso de
+especificación, desarrollo, validación y evolución, y los representa como fases
+separadas del proceso, tales como la especificación de requerimientos, el diseño del
+software, la implementación, las pruebas, etcétera [7]. Sugiere un enfoque
+sistemático, secuencial, para el desarrollo del software que comienza desde una
+primera fase de Ingeniería de Sistemas y avanza a través del Análisis, Diseño,
+Codificación, Pruebas y Mantenimiento. 
+Análisis de Requerimientos: Se intensifica el proceso de recolección de requerimientos
+centrándose específicamente en el software.
+Diseño: A partir de los requerimientos se construyen modelos para las estructuras de
+datos y la arquitectura del software así como representaciones de las interfaces y
+detalles procedimentales. El proceso de diseño traduce los requisitos en una
+representación del software con la calidad requerida antes de que comience la
+codificación. Esta etapa a su vez, la dividimos en 2 sub etapas:
+a) Diseño del sistema
+En la parte del diseño del sistema, se lleva a cabo el análisis de nuestro sistema
+incluyendo el modelado del mismo, con los diagramas de UML pertinentes, y el
+modelado de nuestra base de datos usada.
+b) Diseño del programa
+Dentro de esta parte, se realiza un análisis de las herramientas disponibles en el
+mercado, analizar principalmente los precios de las licencias de cada producto, y
+sobretodo analizar las ventajas que nos brinda cada producto. En esta parte es de
+suma importancia analizar los recursos que cada herramienta consume.
+Codificación: El diseño es traducido a un lenguaje de programación concreto. Si el
+diseño ha sido llevado a cabo en forma detallada, entonces la generación de código
+puede realizarse automáticamente.
+Prueba: Una vez finalizada la generación de código, recién ahí comienza la etapa de
+prueba. La prueba se centra en la lógica interna del software, y en las funciones
+externas, realizando pruebas que aseguren que la entrada definida produce los
+resultados que realmente se requieren.
+Mantenimiento: Una vez que el software ha sido entregado al cliente, seguramente,
+éste sufrirá cambios ya sea debido a que se encontraron errores no detectados durante
+la prueba, o debidos a nuevos requerimientos, o a cambios en el entorno. En esta
+etapa se vuelven a realizar todas las etapas precedentes al programa ya existente. </Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Por la naturaleza del proyecto se ha seleccionado el modelo de desarrollo iterativo e incremental,
+esta metodología nos permite establecer bloques temporales de tiempo llamados iteraciones. Cada
+iteración se puede entender como un mini proyecto, en cada iteración se repite un proceso de trabajo
+similar con el fin de producir un resultado completo sobre un producto final. Debido a esta forma
+de trabajo será posible ir entregando constantemente los avances del prototipo a nuestros directores
+de trabajo terminal, sinodales y profesores de las materias trabajo terminar I y trabajo terminal II.
+Para ello cada objetivo o requisito que visualicemos se deberá completar en una sola iteración,
+deberemos realizar todas las tareas necesarias para completarlo de manera definitiva como lo son
+documentación y pruebas y así poder seguir avanzando en el desarrollo del prototipo. De esta
+manera se podrá visualizar un avance progresivo del prototipo sin el riesgo de pasar por
+desapercibido algún objetivo o requerimiento.
+Conforme las iteraciones vayan transcurriendo nuestro producto debe evolucionar de manera
+significativa, al finalizar cada iteración se añadirán nuevos objetivos y requisitos, con los cuales se
+trabajaran. Un aspecto fundamental será hacer un análisis previo para poder priorizar los requisitos,
+de manera que conforme se avance en el desarrollo del prototipo este adquiera más valor
+significativo con cada iteración.
+</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Scrum es un proceso de la Metodología Ágil que se usa para minimizar los riesgos durante la
+realización de un proyecto, pero de manera colaborativa.
+Entre las ventajas se encuentran la productividad, calidad y que se realiza un seguimiento diario
+de los avances del proyecto, logrando que los integrantes estén unidos, comunicados y que el
+cliente vaya viendo los avances.
+Buenas Prácticas
+Estándar ISO 9126
+Utiliza un modelo de calidad que define 5 características que se subdividen. Las características
+son las siguientes: Funcionalidad, Confiabilidad, Usabilidad, Eficiencia, Mantenimiento y
+Portabilidad
+El objetivo principal del estándar es atender a las necesidades del juicio humano que pueden
+afectar a la entrega y percepción del software. Estas parcialidades de juicio incluyen el cambio
+de prioridades o no tener una definición clara de éxito del proyecto. Al convertir propiedades
+abstractas en valores cuantificables se intenta desarrollar un entendimiento de los objetivos del
+proyecto.[35]
+El producto esperado será un sistema el cual permitirá realizar las siguientes acciones:
+● Sistema de gesón
+y evaluación de conocimiento montado sobre un servidor web.
+● Servicio Web con interacciones para el seguimiento (estadíscas),
+evaluación y
+retroalimentación de los usuarios.
+Aplicación web para el uso del servicio web.
+● Documentación técnica del sistema
+● Manual de usuario.
+● Código fuente de la aplicación</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La metodología utilizada en el desarrollo del SGT es el modelo en espiral, este tipo de
+metodología equivale al de cascada, pero en él se permite el la incorporación de varias
+etapas con el objetivo de flexibilizar y compensar el tiempo de desarrollo total y alcanzar
+resultados funcionales en etapas tempranas. Está considerada como un método de
+desarrollo rápido y eficiente.
+Es adecuada para proyectos en los que se tienen claros los objetivos finales pero no todos
+los detalles de implementación.
+La metodología de desarrollo en espiral permite construir aplicaciones de tamaño medio
+manteniendo los recursos constantes.
+Sufrir retrasos corre un riesgo menor, porque se comprueban los conflictos presentados
+tempranamente y existe la forma de poder corregirlos a tiempo. Consideramos que no
+requerimos una definición completa de los requerimientos del software a desarrollar para
+comenzar.
+Un modelo espiral comienza con la determinación de los objetivos tanto funcionales
+como de rendimiento. Después se enumeran algunas formas posibles de alcanzar estos
+objetivos identificando las fuentes de riesgos posibles. Luego continuamos con el
+siguiente paso que es resolver estos riesgos y llevar a cabo las actividades de desarrollo,
+para finalizar con la planificación del siguiente ciclo de la espiral como se muestra en la
+Figura 2.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Es un proceso en el que se aplican de manera regular un conjunto de buenas prácticas para trabajar
+colaborativamente, en equipo, y obtener el mejor resultado posible de un proyecto.
+En Scrum se realizan entregas parciales y regulares del producto final, priorizadas por el beneficio
+que aportan al receptor del proyecto. Por ello, Scrum está especialmente indicado para proyectos
+en entornos complejos, donde se necesita obtener resultados pronto, donde los requisitos son
+cambiantes o poco definidos, donde la innovación, la competitividad, la flexibilidad y la
+productividad son fundamentales.
+En Scrum un proyecto se ejecuta en bloques temporales cortos y fijos (iteraciones de un mes
+natural y hasta de dos semanas, si así se necesita). Cada iteración tiene que proporcionar un
+resultado completo, un incremento de producto final que sea susceptible de ser entregado con el
+mínimo esfuerzo al cliente cuando lo solicite.
+El presente proyecto será dividido en 5 módulos cada uno de los cuales representará un Sprint en
+la metodología.
+5.2. Módulo 1: Comando de voz
+Propósito
+Se desarrollara una aplicación móvil la cual hará el proceso de registro de un usuario al sistema,
+el ingreso al sistema por medio de una contraseña escrita, si el usuario lo quiere dar de alta o hacer
+un cambio del algún elemento en el sistema y hará el reconocimiento de un comando de voz que
+el usuario le haya proporcionado.
+Implementación
+En este módulo se implementa: la parte de la aplicación móvil encargada de registrar usuario en
+el sistema, hacer el inicio de sesión por medio de contraseña escrita; altas bajas y cambios tanto
+de dispositivos como de cuartos y la parte del comando de voz.
+Para el comando de voz se utiliza el API de Google Recognizer, la cual requiere internet y es
+capaz de regresar una cadena de caracteres en determinado idioma (en este caso español) al
+ingresar una secuencia de palabras por voz.
+En la aplicación se obtiene la cadena regresada por el API y se identifican las siguientes partes
+por medio de expresiones regulares:
+ Acción: Que puede ser las palabras “abrir” o “encender” (que tendrán el valor numérico
+de “1”) y las palabras “cerrar” o “apagar” (que tendrán el valor numérico de “0”).
+ Dispositivo: Nombre del dispositivo sobre el cual se quiera ejecutar la acción. Este
+nombre es dado por el usuario al momento de agregarlo.
+ Habitación (o cuarto): Nombre de la habitación donde se encuentra el dispositivo antes
+mencionado.
+Debido a que la identificación de las partes anteriormente mencionadas es por medio de
+expresiones regulares, es posible ingresar una frase o comando de voz completo y coherente con
+artículos de por medio entre las palabras que son las que se identifican, es decir, se pueden decir
+frases como: Encender la luz de mi habitación, en vez de solo: encender luz mi habitación.
+Una vez identificado el comando, se envía al servidor web para que este a su vez lo envía a la
+unidad de control y ésta lo ejecute. Cuando la unidad de control ejecuta el comando regresa al
+servidor que fue ejecutado con éxito. El servidor envía al dispositivo que el comando fue
+ejecutado con éxito.
+En este módulo no se cuenta con la parte del servidor web, por lo que se hizo mediante un servidor
+simulado (clase en Java).
+La secuencia de pasos que se siguen para la identificación del comando se muestra en la Figura
+6.
+Al no ingresar por voz alguna de las partes que necesita la aplicación para reconocer un comando
+se muestra un mensaje de error. También se muestra un mensaje de error si el dispositivo no se
+encuentra en el cuarto indicado o si la habitación mencionada no existe.
+Al ejecutar el comando con éxito éste se ve reflejado en el estado del dispositivo que se quiso
+alterar.
+Adicionalmente en este módulo se implementan la mayoría de las pantallas del sistema y clases
+necesarias para la comunicación con el servidor web y el funcionamiento de dichas pantallas.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La metodología de AUP resulto viable para el desarrollo de este proyecto con base a que es
+adaptable a proyectos largos y por la flexibilidad de iteración en iteración con la que cuenta y la
+cual permite adaptarse a los cambios o riesgos que llegasen a suceder. Permite una
+retroalimentación bastante considerable así como un conocimiento alto de los riesgos que se
+tienen. En los siguientes capítulos daremos a conocer las fases de AUP, describiendo cada una con
+el desarrollo de este sistema.
+ Reglas de negocio.
+ Obstáculos y limitaciones.
+ Requerimientos funcionales.
+ Requerimientos no funcionales.
+ Casos de Uso.
+ Análisis Financiero.
+ Análisis de Riesgos.
+ Prototipo no Funcional.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>El trabajo terminal utilizará el desarrollo evolutivo e incremental [10]. En esta metodología se
+comienza el desarrollo del sistema para satisfacer un subconjunto de requisitos especificados,
+mientras que las últimas versiones prevén los requisitos que faltan. En la figura 1-7 se
+presenta el esquema de trabajo de esta metodología.
+Las etapas contempladas para este trabajo terminal son las siguientes:
+1. Análisis. Se investigarán las técnicas del PLN aplicadas por Freeling, se definirán las
+estructuras gramaticales en las cuales Freeling genera relaciones de dependencias
+erróneas, se definirán los marcos a utilizar y el procedimiento de desambiguación de
+preposiciones y conjunciones.
+2. Diseño. Describir el diseño del analizador semántico a construir, mediante el uso de
+diagramas UML.
+3. Implementación. Programar las funcionalidades requeridas por el analizador
+semántico.
+4. Pruebas. Realizar las pruebas necesarias para verificar el correcto funcionamiento del
+analizador semántico.
+5. Documentación. Realizar el manual de usuario, así como el de instalación.
+Adicionalmente se escribirá un artículo técnico para divulgar los resultados de este
+trabajo.
+</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Metodología a utilizar
+Para el desarrollo de este Trabajo Terminal se utilizará la metodología de Prototipado Evolutivo,
+este modelo permite desarrollar el concepto del sistema a medida que se avanza dentro del
+proyecto. Permite desarrollar los aspectos que son más visibles al principio del sistema e ir
+desarrollándolo más a fondo hasta que se llega a un producto de ingeniería.
+2.2 Justificación de la metodología
+Se utilizará la metodología de prototipado evolutivo ya que facilita la retroalimentación de cada
+una de las fases del proyecto y permite volver a realizar una re-evaluación tanto de diseño como
+de análisis en caso de error. Algunas de sus ventajas son:
+ Permite realizar cambios en el proyecto con base al cambio de requerimientos.
+ Trabaja en base a medida que avanza el proyecto, lo cual permite una adaptación el
+trabajo.
+ La retroalimentación de pruebas permite llevar a cabo un rediseño en caso de errores.
+Debido a que el desarrollo del proyecto implica tanto la parte de software y hardware, la
+metodología permite establecer un rango de prueba y error en el cual, se pueden realizar las
+pruebas necesarias en el sistema hasta obtener los resultados deseados o cercanos a lo ideal.
+Teniendo la posibilidad de regresar a cierto punto del desarrollo y modificarlo para obtener el
+resultado deseado.
+2.3 Fases de la metodología
+Las fases que maneja la metodología de prototipado evolutivo son las siguientes:
+1.Planeación y análisis.
+2.Diseño rápido.
+3.Elaboración del software.
+4.Evaluación del software.
+5. Refinamiento del prototipo.
+6. Producto de ingeniería.
+Sin embargo las últimas dos fases de la metodología se excluirán del proyecto, ya que lo
+que se pretende elaborar es sólo un desarrollo de software implementado en un drone
+comercial y no el desarrollo de un prototipo.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Para el desarrollo de este proyecto de software se aplicará SCRUM, el cual es conjunto de buenas
+prácticas para trabajar colaborativamente, en equipo, y obtener el mejor resultado posible 
+de un proyecto. SCRUM se basa en entregas parciales y regulares del producto final por lo que
+SCRUM está indicado para este tipo de proyectos en donde suelen ser entornos complejos. 
+En la metodología SCRUM se establece una lista de tareas las cuales son desarrolladas en una
+o varias iteraciones, al finalizar cada iteración se obtiene un incremento operativo del producto. 
+Como resultado de estas iteraciones son el desarrollo ágil del proyecto y SCRUM gestiona esa 
+evolución a través de reuniones breves y diarias. SCRUM maneja 2 actividades, la planificación, 
+inspección y adaptación.
+</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Para desarrollar el trabajo se requiere seguir una metodología de software, con el fin de llevar un
+mejor control en la creación del sistema; para esto se utilizará la metodología Métrica en su versión
+3, ya que es muy útil para la sistematización de las actividades que dan soporte al ciclo de vida del
+software, además de que se adapta libremente a cualquier tipo de proyecto no importando su
+complejidad o magnitud.
+Métrica V3 fue desarrollada por el Consejo Superior de Informática del Ministerio de
+Administraciones Públicas, tomó como referencia el modelo de ciclo de vida propuesto en la norma
+ISO 12207, en la que se distinguen sus procesos principales, los cuales han ido mejorando con
+respecto a las versiones anteriores de Métrica [16].
+3.1.1 Etapas de la metodología
+La estructura de Métrica V3 es muy parecida a la metodología en cascada ya que sigue una
+secuencia lineal y se divide en: Planificación, Desarrollo y Mantenimiento, estos procesos a su vez
+se dividen en actividades y éstas en tareas que se deben de realizar de tal forma que se haga
+referencia a sus principales acciones, técnicas, prácticas, productos y participantes. Esta
+metodología es viable para realizar sistemas tanto estructurados como orientados a objetos, por lo
+que se mencionaran todas las etapas y procesos que conllevan ambos paradigmas de desarrollo
+pero cabe resaltar que para el desarrollo de este trabajo se utilizaran solo aquellas etapas y procesos
+dentro del paradigma orientado a objetos.
+En la figura siguiente se muestra el diagrama general de la metodología Métrica V3.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Elegir una metodología para el desarrollo de software es una de las tareas más importantes a
+realizar en todo proyecto ya que cada una ofrece ventajas y desventajas para ciertas situaciones,
+por lo que es necesario analizar cada una de ellas con mucho cuidado, existen algunas
+metodologías que solo ciertos tipos de proyectos, por lo que dependiendo de lo que proyecto se
+quiera realizar debe ser la metodología a elegir.
+De las metodologías candidatas a nuestro proyecto consideramos las siguientes:
+ Modelo en Cascada
+ Construcción de Prototipos
+ Modelo en Espiral
+El sistema que se planea desarrollar también va a depender de herramientas de desarrollo bien
+establecidas y documentadas, no vamos a utilizar herramientas en fase de prueba o desarrollo,
+entonces esta decisión dará más estabilidad al proyecto de mantenerse sin cambios en su forma de
+diseñar y desarrollar durante todo el tiempo de elaboración, por lo que decidimos basarnos en una
+metodología de desarrollo clásica.
+Se decidió no utilizar el modelo cascada porque nos parece que para el tipo de software que
+vamos a desarrollar en caso de detectar cualquier error de diseño en la etapa de pruebas conduce
+necesariamente al rediseño y nueva programación del código afectado, aumentando los costos del
+desarrollo.
+Al igual en la construcción de prototipos se decidió no tomarla en cuenta dado que este proyecto
+no se adapta para hacer distintos prototipos, ya que puede que por querer entregar lo mas rápido
+un prototipo al cliente se tome la mala decisión en alguno de los recursos y esto haga que se el
+proyecto no avance y nos quedemos estancados en un cierto modulo.
+Por lo que en nuestro plan de trabajo se adapta más la metodología en espiral, por lo que
+dividiremos el proyecto en 5 módulos, que más adelante hablaremos, ya que en ésta metodología
+los recursos se mantienen constantes; por lo que a cada módulo le aplicaremos el siguiente
+proceso:
+ Análisis de Requerimientos: Durante ésta etapa estudiaremos detalladamente los
+requerimientos que cada objetivo conlleva, además de establecer todos los detalles
+funcionales deseados por el cliente.
+ Diseño del Sistema: Con los datos de la etapa anterior, haremos el diseño del sistema,
+realizaremos un diseño de la base de datos, interfaz de usuario, etc.
+ Etapa de construcción: Se realizará la programación del proyecto.
+ Test y evaluación: Realizaremos pruebas por módulo completo así como su evaluación
+frente al estudio de requerimientos.
+Dos puntos a destacar sobre la elección de ésta metodología es que es adaptable, es decir algunos
+requerimientos pueden cambiar durante el ciclo de desarrollo, y los objetivos finales están
+totalmente definidos.
+</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>El sistema utiliza el modelo en cascada, debido a que este modelo permite en primera instancia
+diseñar cada uno de los módulos del sistema, así como su respectivo funcionamiento antes de
+realizar cualquier implementación. Además esta metodología nos brinda flexibilidad en caso de
+posibles mejoras o modificaciones en el sistema, ya sea en la plataforma Web o en Android.
+Este modelo consta de cuatro fases las cuales implican un desarrollo rígido pero bien definido
+desde el momento en el que se empieza a desarrollar, el modelo nos ofrece las siguientes
+ventajas:
+ Debido a la forma en la que se plantean las etapas el modelo nos brinda departamentalizar
+el sistema y tener un control de gestión.
+ Se establece un horario y los plazos que se dan en el mismo serán adecuados para cada
+etapa de desarrollo.
+ Debido a los horarios, el modelo nos conduce a entregar el sistema en el tiempo acordado.
+ Permite guardar el proyecto bajo control.
+ Definición de requerimientos: En esta etapa se analizan los requerimientos tanto
+funcionales como no funcionales que deberán ser implementados en el sistema, es decir,
+las necesidades del sistema.
+ Diseño: Se define el diseño y la arquitectura del sistema.
+ Implementación: Desarrollo del proyecto en código y se prueban las unidades.
+ Integración: Se integran todas las partes que conforman el sistema para así completar el
+mismo.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Para el desarrollo del sistema, se utilizara la metodología Leopoldo Galindo Soria [25], la
+cual consiste en cinco etapas principales, a saber: Análisis, diseño, construcción,
+implantación y mantenimiento; además de la aplicación de diversas técnicas y herramientas
+para la realización de este. En esta metodología daremos énfasis a la definición del usuario
+que se basa principalmente en el sistema educativo al que va dirigido.
+Consideraremos la finalidad didáctica, la interacción con el usuario, la individualización del
+trabajo y el uso de interfaces intuitivas como requisitos mínimos para basarme en el método
+didáctico adecuado.
+Como metas intermedias alcanzare una documentación completa y clara que me permita dar
+a conocer los progresos del proyecto además de incluir un análisis detallado de los alcances,
+visiones y proyecciones que tendrá el mismo, expondremos los problemas suscitados en el
+transcurso del tiempo empleado al proyecto así como sus posibles soluciones. 
+Definir los puntos más importantes de esta planeación.
+Concepción. Refiere a la identificación y definición de los requerimientos sustentados en la
+recopilación de la información.
+Diseño. Establece las interacciones entre los diferentes elementos involucrados. Se emplean
+las técnicas para la elaboración de diagramas que permitan el desarrollo del proyecto.
+Producción multimedia. Desarrolla las herramientas multimedia a utilizar en el sistema.
+Pruebas. En este proyecto solo se consideran las pruebas de tipo alfa.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La metodología a implementar es Scrum ya que se tiene la idea general del sistema pero no se ha
+determinado cómo hará el procesamiento digital de imágenes, por lo que es un proyecto
+cambiante.
+Scrum mantiene una revisión constante por parte de todo el equipo manteniendo a cada uno de
+los integrantes informados sobre los cambios o actualizaciones del proyecto. En la ilustración se
+puede observar las fases que sigue dicha metodología.
+Debido a que el desarrollo de metodologías ágiles emplean entornos de incertidumbre e
+inestabilidad de requisitos, no es conveniente predecir en las fases iniciales la arquitectura y el
+diseño del sistema ya que las circunstancias obligan a remodelarlo con mucha frecuencia, en este
+sentido Scrum permite la evolución sin degradar la calidad de la arquitectura que se generará
+durante el desarrollo.
+Scrum denomina “sprint” a cada iteración, cada sprint es planificado determinando los objetivos
+y el trabajo a realizarse, al final de cada iteración se revisa mediante reuniones para así analizar y
+revisar el incremento generado.
+Básicamente Scrum requiere de una planificación inicial marcando los objetivos esperados y
+priorizando los requisitos del sistema.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Esta es la metodología que seguimos para nuestro trabajo terminal debido a su facilidad, la
+cual indica una serie de pasos para el desarrollo de un sistema y ya a que nos enfocamos de
+lleno a alguna etapa podemos refinar rápidamente lo que estemos trabajando.
+Las etapas de las que consiste esta metodología se presentan en la siguiente ilustración:
+El diagrama nos indica que es necesario culminar una etapa y pasar a la siguiente, con la
+ventaja de que, ante cualquier inconveniente, podemos regresar a la etapa anterior
+inmediata y corregir por pasos los problemas y cambios que se presenten.
+Para esta etapa de trabajo terminal I se completaron las etapas de análisis y diseño de
+nuestro sistema. En las siguientes páginas se podrá apreciar el desarrollo que tenemos en
+cuanto a estas dos primeras etapas de la metodología cascada.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La metodología a usar en el presente trabajo terminal es el prototipo Evolutivo, el cual se
+basa en la idea de desarrollar una implementación inicial expuesta a los comentarios del
+usuario, para después refinarla a través de las diferentes versiones hasta el desarrollo de un
+sistema adecuado.
+Con esto se mantiene al cliente en constante contacto con los resultados obtenidos en cada
+incremento. Las actividades de especificación, desarrollo y validación se entrelazan
+mediante una rápida retroalimentación. Figura 1
+Se elige el Prototipo Evolutivo, ya que el punto central es el desarrollo e implementación de
+la solución, documentando breve pero sustancialmente cada prototipo.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Al contar ya con la propuesta de solución a continuación se explica la metodología,
+análisis y diseño del sistema.
+El presente trabajo terminal propone implementar un desarrollo ágil de software usando
+para ello la metodología SCRUM. La cual adopta una estrategia de desarrollo
+incremental, en lugar de la planificación y ejecución completa del producto, además de
+que basa la calidad del resultado en el conocimiento de personas en equipos auto
+organizados, que en la calidad de los procesos empleados.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>El modelo en cascada o también llamado ciclo de vida del software [10] contiene el enfoque
+metodológico que ordena de manera rigurosa cada una de las etapas del proceso para el desarrollo del
+software, de tal forma que para iniciar una nueva etapa se debe esperar a que la etapa anterior sea
+finalizada. En la práctica estas etapas se superponen y proporcionan información a las otras.
+Cualquier error de diseño que sea detectado en la etapa de prueba conduce necesariamente al rediseño y
+nueva programación del código que se vio afectado.
+Las principales etapas de este modelo se transforman en actividades fundamentales de desarrollo:
+1. Análisis y definición de requerimientos: los servicios, restricciones y metas del sistema se definen a partir
+de las consultas con los usuarios. Entonces, se definen en detalle y sirven como una especificación del
+sistema.
+2. Diseño del sistema y del software: el proceso de diseño del sistema divide los requerimientos en sistemas
+hardware o software. Establece una arquitectura completa del sistema. El diseño del software identifica y
+describe las abstracciones fundamentales del sistema software y sus relaciones.
+3. Implementación y prueba de unidades: Durante esta etapa, el diseño del software se lleva a cabo como
+un conjunto o unidades de programa. La prueba de unidades implica verificar que cada una cumpla su
+especificación.
+4. Integración y prueba de unidades: los programas o unidades individuales de programas se integran y
+prueban como un sistema completo para asegurar que se cumplan los requerimientos del software.
+Después de las pruebas, el sistema software se entrega al cliente.
+5.- Funcionamiento y mantenimiento: por lo general, aunque no necesariamente, esta es la fase más larga
+del ciclo de vida. El sistema se instala y se pone en funcionamiento práctico. El mantenimiento implica
+corregir errores no descubiertos en las etapas anteriores del ciclo de vida, mejorar la implementación de las
+unidades del sistema y resaltar los servicios del sistema una vez que se descubren nuevos
+requerimientos.
+ Ventajas y desventajas del modelo en cascada
+Se describe a las ventajas y desventajas que tiene este modelo (siguiendo su metodología de
+desarrollo) para el desarrollo del proyecto.
+Ventajas
+ Estricto orden en las etapas o fases.
+ La documentación se produce en cada fase.
+ Cuadra con otros modelos de proceso de ingeniería.
+ Planificación sencilla.
+ La calidad del producto resultante es alta.
+ Perfecto para proyectos que son rígidos, y además donde se especifiquen muy bien los
+requerimientos y se conozca bien la herramienta a utilizar.
+Desventajas
+ Iteraciones costosas.
+ Los problemas que se representan son corregidos posteriormente.
+ Inflexibilidad al dividir el proyecto en distintas etapas
+ Difícil respuesta a los cambios en los requerimientos del cliente.
+ Difícil incorporar nuevas cosas si se quiere actualizar.
+</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La metodología ágil para gestionar el desarrollo de software que se encontró como más eficiente dada las
+características de nuestro trabajo se coincidió que es Scrum el cual es un proceso en el que se aplican de manera
+regular buenas prácticas para trabajar colaborativamente en equipo y obtener el mejor resultado posible de nuestro
+proyecto. Con Scrum se generan entregas parciales y regulares del producto final, es por ello que Scrum es una de las
+mejores opciones para nuestro proyecto ya que los requisitos pueden resultar cambiantes o poco definidos donde la
+innovación la flexibilidad y la productividad son fundamentales [16].
+Scrum también se utiliza para resolver situaciones como: el cliente considera deficiente el avance, cuando las
+entregas se retrasan demasiado, solucionar ineficiencias sistemáticamente o cuando se quiere trabajar utilizando un
+proceso especializado en el desarrollo del producto.
+En Scrum un proyecto se ejecuta en bloques temporales cortos y fijos (iteraciones de un mes natural y hasta de dos
+semanas, si es requerido). Cada iteración tiene que proporcionar un resultado completo, un incremento de producto
+final que sea susceptible de ser entregado con el mínimo esfuerzo al cliente cuando lo solicite. En la próxima figura
+se muestra el ciclo de vida de Scrum.
+Con la metodología Scrum se permite en cualquier momento realinear el software con los objetivos de negocio de la
+institución, ya que puede introducir cambios funcionales o de prioridad en el inicio de cada nueva iteración sin
+ningún problema. Esta metódica de trabajo promueve la innovación, motivación y compromiso del equipo que forma
+parte del proyecto.
+Beneficios de Scrum:
+● Permite el cumplimiento de expectativas al cliente al permitir que éste las establezca indicando el valor que
+aporta cada requisito del proyecto, el equipo los estima y establece su prioridad.
+● Presenta una alta capacidad de reacción ante los cambios de requerimientos generados por necesidades del
+cliente o evoluciones del mercado. La metodología está diseñada para adaptarse a los cambios de
+requerimientos que conllevan los proyectos complejos.
+● El cliente puede empezar a utilizar las funcionalidades más importantes del proyecto antes de que esté
+finalizado por completo.
+● La metódica de trabajo y la necesidad de obtener una versión funcional después de cada iteración, ayuda a
+la obtención de un software de calidad superior.
+● Permite conocer la velocidad media del equipo por sprint (los llamados puntos historia), con lo que
+consecuentemente, es posible estimar fácilmente para cuándo se dispondrá de una determinada
+funcionalidad que todavía está en el Backlog.
+● El hecho de llevar a cabo las funcionalidades de más valor en primer lugar y de conocer la velocidad con
+que el equipo avance en el proyecto, permite despejar riesgos eficazmente de manera anticipada. </Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Para el desarrollo del trabajo terminal se ha decidido que el modelo a trabajar será el de
+ESPIRAL, ya que brinda las características que se necesitan para trabajar el proyecto además
+es considerado como un modelo evolutivo que combina el modelo clásico con el diseño de
+prototipos que contiene una nueva etapa que es el análisis de riesgos, no incluida anteriormente.
+El modelo en espiral esta compartida en seis actividades estructurales, también llamadas
+regiones de tareas, que son:
+I. Comunicación con el cliente.
+a) Determinar o fijar objetivos.
+b) Se fijarán los requerimientos, especificaciones para el diseño del proyecto.
+c) Se establecerán los requisitos funcionales y no funcionales de la aplicación.
+d) Se fijarán las restricciones del software y del hardware.
+II. Planificación.
+a) Planificación Inicial del proyecto.
+b) Se realizará la planeación de los documentos de análisis y diseño (Hardware/ Software).
+III. Análisis del riesgo.
+a) Analizar y estudiar los riesgos potenciales en el desarrollo del diseño de la aplicación y
+el dispositivo.
+b) Seleccionar la mejor alternativa para reducir o eliminar los riesgos estudiados.
+IV. Ingeniería.
+a) Se analizarán las tareas necesarias para construir el modelo de la aplicación y del
+dispositivo.
+b) Se realizará la distribución de tareas para la el diseño de la presentación de la aplicación
+del proyecto.
+V. Desarrollar, verificar y validar.
+a) Se desarrollará y se verificará el diseño de la aplicación.
+b) Construcción de los documentos de análisis y diseño del proyecto
+c) Generación del manual técnico y el manual de usuario.
+VI. Evaluación.
+a) Revisión y análisis de pruebas y documentación.
+b) Validación de los resultados y diseños obtenidos.
+Existen muchas ventajas al utilizar este modelo, como son que no requiere una definición
+completa de los requerimientos del software a desarrollar para comenzar su funcionalidad. Al
+terminar un producto desde el final de la primera iteración es muy factible aprobar los
+requisitos. Y además sufrir retrasos corre un riesgo menor, porque se comprueban los conflictos
+presentados tempranamente y existe la forma de poder corregirlos a tiempo.
+Es muy importante esta parte pues tenemos muy poco tiempo para la elaboración del proyecto
+y de esta manera vamos corrigiendo los errores al tiempo que se van presentando.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La metodología que se seguirá a lo largo del desarrollo del proyecto es una metodología en V
+[26] que consiste en 7 fases que se describen a continuación:
+ Definición de especificaciones (Fase 1): Se definirán y documentarán los diferentes
+requisitos del sistema a desarrollar, identificando los valores numéricos más concretos
+posibles. Entre ellos debe estar la especificación del nivel de integridad, o SIL, en caso de
+ser requerido.
+ Diseño global (fase 2): También llamado diseño de alto nivel. Su objetivo es obtener un
+diseño y visión general del sistema.
+ Diseño en detalle (fase 3): Consiste en detallar cada bloque de la fase anterior.
+ Implementación (fase 4): Es la fase en la que se materializa el diseño en detalle.
+ Test unitario (fase 5): En esta fase se verifica cada módulo de hardware y software de
+forma unitaria, comprobando su funcionamiento adecuado.
+ Integración (fase 6): En esta fase se integran los distintos módulos que forman el
+sistema. Se comprueba el cumplimiento de los requisitos establecidos.
+ Test operacional del sistema (fase 7): Se realizan las últimas pruebas, pero sobre un
+escenario real, en su ubicación final, anotando una vez más las pruebas realizadas y los
+resultados obtenidos.
+En la Figura 13 se indican las etapas del proceso que sigue esta metodología para el
+desarrollo del sistema.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>El modelo incremental combina elementos del modelo lineal secuencial (aplicados
+repetidamente) con la filosofía interactiva de construcción de prototipos. El modelo
+incremental aplica secuencias lineales de forma escalonada mientras progresa el tiempo en
+el calendario. Cada secuencia lineal produce un incremento del software. Se debería tener
+en cuenta que el flujo del proceso de cualquier incremento puede incorporar el paradigma
+de construcción de prototipos (Pressman, 1993).
+Cuando se utiliza un modelo incremental, el primer incremento a menudo es un producto
+esencial. Es decir, se afrontan requisitos básicos, pero muchas funciones suplementarias
+(algunas conocidas, otras no) quedan sin extraer. El cliente utiliza el producto central (o
+sufre la revisión detallada). Como un resultado de utilización y/o de evaluación, se
+desarrolla un plan para el incremento siguiente. El plan afronta la modificación del
+producto central a fin de cumplir mejor las necesidades del cliente y la entrega de
+funciones, y características adicionales. Este proceso se repite siguiendo la entrega de cada
+incremento, hasta que se elabore el producto completo.
+El modelo de proceso incremental, como la construcción de prototipos y otros enfoques
+evolutivos, es iterativo por naturaleza. Pero a diferencia de la construcción de prototipos, el
+modelo incremental se centra en la entrega de un producto operacional con cada
+incremento. Los primeros incrementos son versiones incompletas del producto final, pero
+proporcionan al usuario la funcionalidad que precisa y también una plataforma para la
+evaluación En ocasiones el primer incremento está basado en maqueta que no tienen
+funcionamiento alguno pero ofrecen un esquema general del funcionamiento que estas
+mismas podrían tener en el futuro.
+El desarrollo incremental es particularmente útil cuando la dotación de personal no está
+disponible para una implementación completa en la fecha límite que se haya establecido
+para el proyecto. Los primeros incrementos se pueden implementar con menos personas.
+Análisis de los requisitos del software. El proceso de reunión de requisitos se intensifica y
+se centra especialmente en el software. Para comprender la naturaleza del (los) programa(s)
+a construirse, el ingeniero («analista ») del software debe comprender el dominio de
+información del software así como la función requerida, comportamiento, rendimiento e
+interconexión.
+Diseño. El diseño del software es realmente un proceso de muchos pasos que se centra en
+cuatro atributos distintos de programa: estructura de datos, arquitectura de software,
+representaciones de interfaz y detalle procedimental (algoritmo). El proceso del diseño
+traduce requisitos en una representación del software donde se pueda evaluar su calidad
+antes de que comience la codificación.
+Generación de código. El diseño se debe traducir en una forma legible por la máquina. El
+paso de generación de código lleva a cabo esta tarea. Si se lleva a cabo el diseño de una
+forma detallada, la generación de código se realiza mecánicamente.
+Pruebas. Una vez que se ha generado el código, comienzan las pruebas del programa. El
+proceso de pruebas se centra en los procesos lógicos internos del software, asegurando que
+todas las sentencias se han comprobado, y en los procesos externos funcionales; es decir,
+realizar las pruebas para la detección de errores y asegurar que la entrada definida produce
+resultados reales de acuerdo con los resultados requeridos.
+Mantenimiento. El software indudablemente sufrirá cambios después de ser entregado al
+cliente (una excepción posible es el software empotrado). Se producirán cambios porque se
+han encontrado errores, porque el software debe adaptarse para acoplarse a los cambios de
+su entorno externo (por ejemplo: se requiere un cambio debido a un sistema operativo o
+dispositivo periférico nuevo), o porque el cliente requiere mejoras funcionales o de
+rendimiento. El soporte y mantenimiento del software vuelve a aplicar cada una de las fases
+precedentes a un programa ya existente y no a uno nuevo. El modelo lineal secuencial es el
+paradigma más antiguo y más extensamente utilizado en la ingeniería del software.
+</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>TSU</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+</Informacion>
+</body>

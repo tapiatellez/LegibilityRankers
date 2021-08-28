@@ -1,0 +1,2765 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<body>
+<Informacion xmlns='http://www.w3.org/1999/xhtml' >
+
+<style type='text/css'>
+	
+@charset 'utf-8';
+
+table{
+	border: 1px black solid;
+	border-radius: 5px;
+	min-width: 400px;
+	font-family: Helvetica,Arial;
+	margin-top: 10px;
+	margin-right: 40px;
+	margin-bottom: 10px;
+	margin-left: 40px;
+	} 
+
+table td{
+	padding:7px;
+    text-align:justify;
+	}
+
+.tablas_corpus { 
+	font-family: Arial, Helvetica, sans-serif;
+	line-height:25px;
+	float:left;
+	}
+
+.tablas_corpus table{
+	font-family: 'Lucida Sans Unicode', 'Lucida Grande', Sans-Serif;
+	font-size: 14px;
+	text-align: left;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	}
+
+.tablas_corpus th {
+	font-size: 13px;
+	font-weight: normal;
+	padding: 8px;
+	background: #b9c9fe;
+	color: #039;
+	border: 1px solid #FFFFFF;
+	}
+
+#campos{
+    text-align:center;
+    font-weight: bold;
+    color: #4646C1;
+	}
+
+.tablas_corpus td {
+	padding: 8px;
+	background: #e8edff;
+	color: #4E4E4E;
+	border: 1px solid #fff;
+	}
+
+.tablas_corpus tr:hover td { 
+	background: #d0dafd; 
+ 	}
+
+h1 {
+	color: #666666;
+ 	font-family: Helvetica Neue, Arial, Helvetica, sans-serif;
+	letter-spacing: -1px;
+	text-decoration: none; 
+	text-shadow: 2px 2px #fff, 0 0 #0e0e0e, 3px 4px 2px #e3e3e3; 
+	text-transform: none; 
+	word-spacing: -2px;
+	}
+
+.titulo{
+	width: 1000px;
+	height: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #BDDDF2;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 50px;
+	border-radius: 26px 26px 26px 26px;
+	}
+
+resultados{
+	float: right;
+	padding-right: 100px;
+    font-weight: bold;
+	margin-top: 40px;
+	margin-bottom: 10px;
+	}
+
+</style>
+<div class='titulo'> <center><h1> INAOE CORPUS </h1></center> </div>
+<resultados> Resultados = 66</resultados>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Es una metodología que soporta la evaluación remota de sitios Web [PAT99]. Consiste en el análisis
+asistido del registro de eventos de usuario basado en el modelo de tarea. Este enfoque combina dos
+técnicas que usualmente son aplicadas separadamente:
+* Pruebas empíricas.
+* Evaluación basada en modelo.
+La metodología está orientada a proporcionar a los evaluadores información para identificar partes
+problemáticas de la interfaz de usuario y posibles sugerencias para mejorarlo. Estos resultados
+relacionan las tareas propuestas para que ejecute el usuario, las páginas Web y su mutua relación,
+permitiendo analizar datos relacionados a las interacciones del usuario y compararlos al modelo de
+tarea correspondiente al diseño del sitio Web. Esta metodología hace uso de la herramienta
+REMUSINE.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La metodología a seguir para alcanzar los objetivos planteados en esta propuesta es la 
+siguiente: 
+* Recopilación y estudio crítico de los trabajos relacionados con el área de investigación. 
+* Análisis crítico de los algoritmos de clasificación no supervisada restringida para 
+obtener las características principales de cada uno de ellos. 
+* Comparación entre estos algoritmos. 
+* Análisis crítico de las herramientas de agrupamiento conceptual para obtener las 
+características principales de cada una de ellas. 
+* Comparación entre dichas herramientas. 
+* Desarrollo de nuevos algoritmos. 
+* Conjuntar características de diferentes algoritmos de clasificación no supervisada 
+restringida y de algoritmos conceptuales restringidos para diseñar nuevos 
+algoritmos. 
+* Implementar los algoritmos obtenidos de la conjunción de características. 
+* Realizar pruebas experimentales y analizar los resultados obtenidos. 
+* Proponer mejoras a los algoritmos actuales. 
+* Implementar las mejoras propuestas. 
+* Realizar pruebas experimentales y analizar los resultados obtenidos. 
+* Proponer estrategias diferentes para generar los conceptos. 
+* Implementar las estrategias propuestas. 
+* Realizar pruebas experimentales y analizar los resultados obtenidos. 
+* Buscar las características principales y/o comunes de los algoritmos propuestos con el 
+fin de crear una familia de algoritmos conceptuales restringidos basados en semillas, y 
+de este modo tener un marco de desarrollo para este tipo de algoritmos. 
+* Redacción de artículos para congresos y revistas.
+* Redacción de la tesis doctoral.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La investigación propuesta se llevará a cabo de acuerdo a la siguiente metodología:
+¿Realizar un estudio de las colecciones de documentos y preguntas de referencia
+multilingües usadas en las evaluaciones del CLEF.
+v Determinar la redundancia y complementariedad de las colecciones multilingües 
+para un subconjunto de preguntas de estudio.
+¿Determinar el conjunto de los sistemas MT más apropiados para la tarea de BR.
+v Traducir las preguntas de referencia a los 5 idiomas propuestos, tanto de forma
+manual (por un experto), como de manera automática por el conjunto de los
+sistemas MT.
+v Con este conjunto de preguntas, alimentar al sistema de BR, y realizar la
+búsqueda en cada una de las colecciones de forma monolingüe.
+v Analizar cada una de las listas de respuestas que se obtengan, con la finalidad de 
+realizar las siguientes observaciones:
+o La redundancia existente en las colecciones
+o La precisión obtenida 
+¿Diseñar el método para la elección de la mejor traducción
+v Experimentar la traducción automática en ambos sentidos junto con una función
+de similitud.
+o Estudiar métricas como la función de similitud propuesta en [25] o la
+métrica Bleu [26]
+v Experimentar el uso de modelos del lenguaje para la elección de la traducción
+más adecuada. 
+o Experimentar con corpus de distintas características. 
+v Aplicar aprendizaje automático para elegir la mejor traducción, basándonos en
+características de la pregunta como: la longitud, sus adverbios interrogativos,
+existencia o no de nombres propios, etc.
+v Experimentar con la reformulación de las traducciones:
+o Manipulando las entidades nombradas.
+o Uniendo los n-gramas más pertinentes de cada traducción, según un
+modelo de lenguaje.
+¿Construir el método para la integración de las listas de respuestas 
+v Experimentar al traducir las respuestas a un mismo idioma
+v Emplear truncamiento sobre las respuestas calculando su frecuencia en todas las 
+listas.
+v Hacer pruebas usando métodos de los sistemas CLIR, antes mencionados, para
+el problema de la fusión de información.
+o Estudiar también acerca del uso de aprendizaje automático para la
+integración de listas de respuestas [27].
+v Utilizar la Web para validar la selección de la respuesta</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>En base al diagrama de componentes básicos para la identificación del lenguaje hablado sin
+representación fonética visto en la sección 1.3.2, realizaremos nuestro trabajo en dos pasos 
+principales: el primero dedicado al procesamiento acústico de la señal de voz y el segundo al
+proceso de aprendizaje.
+5.1 Procesamiento acústico de la señal de voz.
+Al eliminar el paso de la representación fonética de la señal de voz, el peso recae en el
+procesamiento acústico, por ello, realizaremos los siguientes pasos:
+1. Observar las diferencias que se obtienen de utilizar procesos acústicos basados en
+características de articulación, como producimos el habla, contra los basados en la 
+percepción de cómo escuchamos. Existen varios algoritmos para cada uno de ellos, pero
+utilizaremos los que actualmente han obtenido mejores resultados:
+		*	Para la obtención de características de articulación, utilizaremos el de coeficientes de
+predicción lineal LPC (Linear Predictive Coefficients).
+		*	Para la obtención de características perceptúales, utilizaremos el de coeficientes
+cepstrales de frecuencia Mel MFCC (Mel Frecuency Cepstral Coefficients).
+2. Instrumentar un algoritmo para la identificación y eliminación de silencios en el habla, a partir 
+de las observaciones del experimento 2 (véase sección XX).
+3. Observar el resultado que se obtiene de utilizar las bandas criticas, que son frecuencias bajas 
+en la onda acústica, con los coeficientes cepstrales Mel, en la identificación de los lenguajes
+hablados, ya que el ritmo y por consecuente la prosodia se encuentran en esas frecuencias.
+		*	Instrumentar un algoritmo para enfatizar las bajas frecuencias. 
+		*	Aplicar filtros de Mel y después obtener los coeficientes cepstrales.
+4. Desarrollar un método para la identificación de los intervalos vocálicos y consonánticos.
+		*	Observar la sonoridad en la señal de voz, como base para la discriminación de las 
+clases rítmicas.
+5. Obtener nuevas características para la discriminación de los lenguajes en base a la
+desviación estándar de la duración de los intervalos vocálicos y consonánticos. 
+6. Observar los resultados con estas nuevas características con el corpus OGI_TS.
+		*	En primera instancia con un conjunto de idiomas rítmicamente lejanos.
+		*	Posteriormente con un conjunto de idiomas rítmicamente semejantes.
+5.2 Procesamiento de aprendizaje.
+Realizar un estudio para definir cual es la representación y algoritmo o algoritmos de
+aprendizaje, que nos ayude con la tarea de identificación del lenguaje hablado, teniendo como conocimiento previo (entrada) las características acústicas producidas en el primer paso. Para ello
+será necesario:
+		*	Realizar experimentos con diferentes clasificadores, de acuerdo a diferentes
+representaciones: estocásticos, máquinas de vectores de soporte y redes neuronales.
+		*	Observar el uso de análisis de componentes principales (PCA) y ganancia de e información, 
+para reducir la dimensionalidad de los vectores de características acústicas.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>1. diseñar un modelo organizacional para la generación y distribución de llaves en
+una comunicacion multipartita segura en redes celulares. Este modelo estará for- 
+mado por un conjunto de dispositivos moviles, un conjunto de estaciones base 
+y un controlador central. Servira de base en el diseño de las arquitecturas en los puntos 2 y 5.
+2. diseñar una arquitectura estática para la generación y distribución de llaves par- 
+tiendo del modelo organizacional. En esta arquitectura los grupos de estaciones
+base son fijos. El agrupamiento y la estructuracion son realizados de maneraápriori. Este paso lo hemos dividido en tres partes:
+diseñar una arquitectura estática considerando estaciones base fiables. 
+diseñar una arquitectura estática considerando estaciones base semi-fiables. 
+diseñar una arquitectura estática considerando estaciones base no fiables. 
+3. diseñar protocolos para la generación y distribución de llaves para la arquitectura 
+estatica. Hemos dividido este paso en dos fases: 
+FASE 1: diseñar los mecanismos para la distribución de las llaves. En esta 
+fase se diseñarán tres mecanismos: 
+* Mecanismo para el manejo del handoff
+* Mecanismo para la entrada de un nuevo participante (JOIN)
+* Mecanismo para la salida de un participante (LEAVE)
+FASE 2: diseñar los mecanismos para la generación de las llaves. 
+4. diseñar un mecanismo para la construcción del agrupamiento de estaciones base 
+considerando las caracter'ísticas de movilidad de los diferentes tipos de usuarios.
+Este paso lo dividimos en dos fases:
+FASE 1: Realizar el agrupamiento mediante el uso de mecanismos para la
+construccion de lista de vecinos. Se considerarán todas las estaciones base 
+potenciales de servicio.
+FASE 2: Realizar el agrupamiento mediante el uso de mecanismos predictivos. Se consideraran las estaciones base potenciales de servicio con base 
+en probabilidades de trayectoria.
+5. diseñar una arquitectura dinámica para la generación y distribución de llaves 
+partiendo de la arquitectura estatica. El agrupamiento de estaciones base debe ser 
+dinamico. Este paso lo hemos dividido en dos fases: 
+FASE 1: diseñar el mecanismo de agrupamiento dinámico. Se debe consid- 
+erar las siguientes etapas:
+* diseñar el mecanismo para la configuración de un nuevo grupo de esta- 
+ciones base.
+* diseñar el mecanismo para la actualización de un grupo de estaciones 
+base al ingresar una nueva estacion base al grupo. 
+* diseñar el mecanismo para la actualización de un grupo de estaciones 
+base al eliminar una estacion base del grupo. 
+* diseñar el mecanismo para la eliminación de un grupo de estaciones 
+base existente.
+FASE 2: Realizar una extension de la arquitectura estática para desarrol- 
+lar una arquitectura dinamica considerando estaciones base fiables, semi'
+fiables y no fiables.
+6. Realizar una extension de los protocolos de la arquitectura estática para desar- 
+rollar protocolos para la generacion y distribución de llaves para la arquitectura 
+dinamica. 
+7. diseñar un mecanismo a orden causal parcial para la sincronización entre men- 
+sajes de llaves y mensajes de datos.
+8. Verificar formalmente el protocolo para la generacion y distribución de llaves, 
+a fin de probar el cumplimiento de propiedades que garanticen su correcto funcionamiento (correctness).
+Safety
+Liveness
+9. Emular la implementacion del protocolo para la generación y distribución de 
+llaves en una comunicacion multimedia multipartita utilizando un simulador de 
+red inalambrica (NS-2). La finalidad es probar el rendimiento del prótocolo en
+aplicaciones multimedia.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Para alcanzar los objetivos de investigación planteados, la metodología a
+seguir contempla el desarrollo de varios módulos, que interconectados definen
+la estructura de transferencia de conocimiento cualitativo para aprendizaje
+por refuerzo.
+La metodología a seguir comprende los siguientes puntos:
+Definición de arquitectura general de transferencia de conocimiento en-
+tre tarea origen y tarea destino.
+Identificación de conocimiento cualitativo relevante para mejorar el
+aprendizaje por refuerzo.
+Definición de algoritmos a usarse como base para el aprendizaje por
+refuerzo en tareas de espacios y acciones continuos.
+Definición de métrica para cuantificar la relación entre tarea origen y
+objetivo y con ello determinar cómo usar el conocimiento cualitativo.
+Evaluaciones y pruebas.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>En esta sección se describe la metodología para lograr cada objetivo específico propuesto en la 
+sección anterior. Para lo cual, se propone realizar las siguientes actividades: 
+1. Analizar de manera crítica el trabajo relacionado existente referente a la clasificación 
+rápida basada en el algoritmo del vecino más cercano, para conocer sus limitantes. 
+2. Debido a que el objetivo es crear métodos aplicables a datos mezclados con ausencia de 
+información, se debe analizar algunas funciones de similaridad existentes. Esto se debe a 
+que es necesario analizar qué propiedades cumplen algunas funciones de similaridad 
+usadas en la literatura, con las cuales pudiera ser posible desarrollar un método exacto. 
+3. Como parte de dicha metodología, se propone diseñar métodos basados en estructuras de 
+árboles, de tal manera que se pueda trabajar con datos mezclados e independientemente 
+de propiedades métricas de la distancia. Para lo cual, se realizarán las siguientes 
+actividades: 
+a. Análisis crítico de los métodos basados en estructuras de árboles. En este punto, es 
+importante analizar los métodos existentes para conocer sus ventajas y limitantes. 
+De tal manera, que se pueda desarrollar un método más robusto en el que se 
+mejoren precisamente las limitantes identificadas. 
+b. Análisis de algoritmos de agrupamiento. Debido a que se propone abordar un 
+enfoque basado en estructuras de árboles, es necesario hacer un análisis de los 
+algoritmos de agrupamiento, con los cuales sea posible crear la estructura de árbol 
+mediante el conjunto de entrenamiento. Sin embargo, los algoritmos de 
+agrupamiento que han sido utilizados en los métodos de clasificación rápida 
+basados en árboles, son algoritmos aplicables a objetos descritos por atributos numéricos. Por esta razón, es importante hacer una revisión en la literatura de los 
+algoritmos de agrupamiento más recientes que permitan trabajar con datos 
+mezclados, con los cuales sea posible crear una estructura de árbol. 
+c. Extender algunos de los métodos existentes. Se propone evaluar si es posible 
+adaptar o extender alguno de los métodos existentes para la búsqueda del vecino 
+más cercano, de manera que permitan trabajar con datos mezclados. 
+d. Diseñar nuevos métodos de clasificación aproximada, con los cuales no se pierda 
+mucha calidad de clasificación en el proceso y en los cuales, el número de 
+comparaciones entre objetos se reduzca notablemente. 
+e. Implementación de métodos adaptados y/o propuestos. 
+f. Realización de pruebas y comparación de resultados. 
+g. Análisis de los resultados obtenidos y retroalimentación. 
+4. Se planea diseñar métodos basados en el algoritmo de Aproximación-Eliminación, los 
+cuales sean aplicables a datos mezclados. Para lo cual, se realizarán las siguientes 
+actividades: 
+a. Análisis crítico de los métodos basados en el algoritmo de AproximaciónEliminación. 
+b. Extender algunos de los métodos existentes. 
+c. Diseñar nuevos métodos de clasificación aproximada, con los cuales no se pierda 
+mucha calidad de clasificación en el proceso y en los cuales, el número de 
+comparaciones entre objetos se reduzca notablemente. 
+d. Implementación de métodos adaptados y/o propuestos. 
+e. Realización de pruebas y comparación de resultados. 
+f. Análisis de los resultados obtenidos y retroalimentación. 
+5. Diseñar un nuevo método exacto, basado en las propiedades de alguna función de 
+similaridad. A partir del estudio de las propiedades de la función de similaridad, 
+seleccionar alguna que permita definir propiedades que ayuden a reducir comparaciones 
+entre objetos, sin perder calidad de clasificación en el proceso. 
+a. Diseño e implementación del método propuesto. 
+b. Realización de pruebas y comparación de resultados. 
+c. Análisis de los resultados obtenidos y retroalimentación.
+6. El análisis del estado del arte, la escritura de artículos y la redacción de tesis se proyectan 
+como actividades a realizar durante el desarrollo de este trabajo. A continuación se 
+muestra el calendario de actividades.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>En esta sección se describe la metodología para lograr cada objetivo específico propuesto en la 
+sección anterior. Para lo cual, se propone realizar las siguientes actividades: 
+1. Analizar de manera crítica el trabajo relacionado existente referente a la clasificación 
+rápida basada en el algoritmo del vecino más cercano, para conocer sus limitantes. 
+2. Debido a que el objetivo es crear métodos aplicables a datos mezclados con ausencia de 
+información, se debe analizar algunas funciones de similaridad existentes. Esto se debe a 
+que es necesario analizar qué propiedades cumplen algunas funciones de similaridad 
+usadas en la literatura, con las cuales pudiera ser posible desarrollar un método exacto. 
+3. Como parte de dicha metodología, se propone diseñar métodos basados en estructuras de 
+árboles, de tal manera que se pueda trabajar con datos mezclados e independientemente 
+de propiedades métricas de la distancia. Para lo cual, se realizarán las siguientes 
+actividades: 
+a. Análisis crítico de los métodos basados en estructuras de árboles. En este punto, es 
+importante analizar los métodos existentes para conocer sus ventajas y limitantes. 
+De tal manera, que se pueda desarrollar un método más robusto en el que se 
+mejoren precisamente las limitantes identificadas. 
+b. Análisis de algoritmos de agrupamiento. Debido a que se propone abordar un 
+enfoque basado en estructuras de árboles, es necesario hacer un análisis de los 
+algoritmos de agrupamiento, con los cuales sea posible crear la estructura de árbol 
+mediante el conjunto de entrenamiento. Sin embargo, los algoritmos de 
+agrupamiento que han sido utilizados en los métodos de clasificación rápida 
+basados en árboles, son algoritmos aplicables a objetos descritos por atributos numéricos. Por esta razón, es importante hacer una revisión en la literatura de los 
+algoritmos de agrupamiento más recientes que permitan trabajar con datos 
+mezclados, con los cuales sea posible crear una estructura de árbol. 
+c. Extender algunos de los métodos existentes. Se propone evaluar si es posible 
+adaptar o extender alguno de los métodos existentes para la búsqueda del vecino 
+más cercano, de manera que permitan trabajar con datos mezclados. 
+d. Diseñar nuevos métodos de clasificación aproximada, con los cuales no se pierda 
+mucha calidad de clasificación en el proceso y en los cuales, el número de 
+comparaciones entre objetos se reduzca notablemente. 
+e. Implementación de métodos adaptados y/o propuestos. 
+f. Realización de pruebas y comparación de resultados. 
+g. Análisis de los resultados obtenidos y retroalimentación. 
+4. Se planea diseñar métodos basados en el algoritmo de Aproximación-Eliminación, los 
+cuales sean aplicables a datos mezclados. Para lo cual, se realizarán las siguientes 
+actividades: 
+a. Análisis crítico de los métodos basados en el algoritmo de AproximaciónEliminación. 
+b. Extender algunos de los métodos existentes. 
+c. Diseñar nuevos métodos de clasificación aproximada, con los cuales no se pierda 
+mucha calidad de clasificación en el proceso y en los cuales, el número de 
+comparaciones entre objetos se reduzca notablemente. 
+d. Implementación de métodos adaptados y/o propuestos. 
+e. Realización de pruebas y comparación de resultados. 
+f. Análisis de los resultados obtenidos y retroalimentación. 
+5. Diseñar un nuevo método exacto, basado en las propiedades de alguna función de 
+similaridad. A partir del estudio de las propiedades de la función de similaridad, 
+seleccionar alguna que permita definir propiedades que ayuden a reducir comparaciones 
+entre objetos, sin perder calidad de clasificación en el proceso. 
+a. Diseño e implementación del método propuesto. 
+b. Realización de pruebas y comparación de resultados. 
+c. Análisis de los resultados obtenidos y retroalimentación.
+6. El análisis del estado del arte, la escritura de artículos y la redacción de tesis se proyectan 
+como actividades a realizar durante el desarrollo de este trabajo. A continuación se 
+muestra el calendario de actividades.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>1 Planteamiento del problema
+Planificación
+Revisión del estado del arte
+Experimentos iniciales
+Obtención de resultados iniciales
+Contraste con Trabajos Otros Grupos
+Experimentos y Análisis
+Escritura</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Para desarrollar el trabajo propuesto se siguió un conjunto de pasos que para ase-
+gurar el cumplimiento de cada uno de los objetivos presentados. A continuación se
+enumeran las necesidades superadas en el desarrollo de la investigación:
+1. Recopilación bibliográfica y análisis detallado de los acercamientos de desambi-
+guación existentes.
+2. Caracterización de las familias de lenguajes y su relación con el lenguaje español.
+3. Selección del idioma(s) que se empleará como lenguaje meta en los textos para-
+lelos.
+4. Búsqueda de corpus paralelos con el par de lenguas: español / meta(s).
+5. Comparación y aplicación de diversas herramientas de alineación a nivel de pa-
+labras sobre el corpus elegido.
+6. Análisis de diccionarios monolingues y bilingues disponibles.
+7. Diseño de un algoritmo para la adquisición de etiquetas de sentidos extraídas de
+la alineación resultante.
+8. Definición e implementación computacional de los procedimientos requeridos para
+la desambiguación de los sentidos de las palabras.
+9. Aplicación de los procedimientos implementados sobre el corpus de prueba.
+10. Incorporación de un módulo de estadísticas al sistema.
+11. Selección de conjunto de pruebas, siguiendo criterios estudiados para la realiza-
+ción de pruebas y refinamiento del método definido.
+12. Desarrollo de artículos relacionados con los resultados obtenidos.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Las tareas listadas abajo no se realizaran en el estricto orden en el que aparecen. Existen tareas que 
+se pueden realizar en paralelo como lo muestra el calendario de actividades mostrado en la sección 
+8. La metodología se divide en tres componentes. En el Componente 1 se estudian las 
+características que se usarán. En el Componente 2 se desarrolla el método propuesto para el 
+reconocimiento de emociones basado en un modelo emocional continuo. Dicho método se ilustra en 
+las Figuras 3, 4 y 5. En el Componente 3 se evalúan los resultados de los dos componentes 
+previos. 
+Componente 1 
+1. Identificar grupos de características acústicas usadas hasta el momento mediante la 
+revisión del estado del arte. 
+a. Hacer una recopilación de características extraídas de la señal de voz que hayan 
+sido propuestas en los trabajos en esta área publicados hasta el momento. 
+b. Al mismo tiempo hacer una relación de los métodos de clasificación empleados con 
+cada conjunto de características. 
+c. Hacer una lista de bases de datos utilizadas en dichos trabajos poniendo especial 
+atención en bases de datos de emociones espontáneas para tratar de obtenerlas. 
+2. Estudiar métricas de calidad de voz y articulación usadas en medicina y comprobar la 
+viabilidad de aplicación: 
+a. Realizar un estudio sobre estándares y metodologías de medición de calidad y otros 
+aspectos en la de voz en áreas médicas. 
+b. Estudiar la viabilidad de extraer las medidas subjetivas usadas en estos estándares 
+médicos de manera automática. 
+c. Adoptar características acústicas para la clasificación de emociones basadas en este 
+estudio. 
+3. Estudiar métodos basados en información lingïstica 
+a. Hacer un estudio sobre trabajos enfocados a extraer emociones a partir de texto. 
+b. Estudiar la viabilidad de aplicar las técnicas y características propuestas en estos 
+trabajos sobre las bases de datos que se tengan disponibles para experimentar. 
+c. Calcular el aporte de la información lingïstica a la clasificación de emociones. 
+d. Estudiar la manera de fusionar la información lingïstica con la acústica para 
+mejorar la clasificación 
+4. Proponer grupos de características representativas, analizar sus propiedades y 
+experimentar en diferentes contextos de aplicación: 
+a. Agrupar características de acuerdo a alguna taxonomía como puede ser la 
+presentada en la sección 2.2.1 de tal manera que al momento de probar se haga de 
+una manera más ordenada o metodológica y se pueda explicar a qué grupo o 
+clasificación de características pertenecen las características utilizadas en cierto 
+experimento. 
+b. Hacer un estudio de la importancia de características individuales y de grupos de 
+características basado en la aplicación de técnicas de selección de atributos y/o de 
+reducción de dimensionalidad 
+c. Crear un sistema basado en scripts que extraiga estas características 
+automáticamente para probarlas con diferentes bases de datos. 
+d. Conseguir las bases de datos de emociones espontáneas y actuadas para comparar. 
+e. Experimentar con las características en diferentes bases de datos. 
+f. Experimentar con diferentes clasificadores de acuerdo a los enfoques de 
+procesamiento de características estático y dinámico. Probar Hidden Markov 
+Models y Gaussian Mixture Models. 
+g. Probar diferentes formas de fusionar la información obtenida con el procesamiento 
+estático y dinámico. 
+h. Explorar nuevas características basándose en los hallazgos de pasos previos. 
+Componente 2 
+5. Crear un modelo que asocie medidas objetivas extraídas de la señal de audio con 
+primitivas emocionales usadas en evaluaciones perceptivas: 
+a. Hacer un estudio del estado del arte para definir qué modelo emocional continuo 
+será el más conveniente para usar en esta tesis. Se definirá la dimensionalidad y las 
+primitivas usadas. 
+b. Proponer un método para descubrir la relación existente entre las características 
+estudiadas en pasos previos con las primitivas emocionales del modelo continuo 
+propuesto. 
+c. Experimentar con técnicas difusas y probabilísticas para determinar dicha relación. 
+d. Diseñar un esquema de mapeo entre las características acústicas y primitivas 
+emocionales en un modelo continuo a partir del estudio de esa relación. 
+e. Probar otras técnicas de computación suave para mejorar el desempeño de los 
+modelos difusos. Entre otras técnicas podrían emplearse Algoritmos Genéticos. 
+f. Experimenta usando un clasificador para cada primitiva. 
+g. Diseñar un método de reconocimiento de patrones adecuado a los hallazgos de 
+pasos anteriores 
+6. Generar un mapeo entre coordenadas en un modelo continuo y emociones básicas: 18 
+a. Hacer una revisión del estado del arte para determinar según diferentes autores que 
+niveles de primitivas emocionales se esperan para las emociones básicas siendo 
+analizadas de acuerdo a la base de datos con la que se esté probando. 
+b. Diseñar un método de transformación de los valores esperados de las primitivas 
+emocionales, según el paso anterior, hacia una categoría emocional específica. Este 
+método no dependerá de un conjunto fijo de emociones sino que aceptará diferentes 
+emociones dependiendo de la aplicación o de la base de datos con la que se esté 
+probando. 
+c. Probar ANFIS (sistema adaptativo de inferencia neuro difuso) para diseñar un 
+método que genera automáticamente reglas que relacionen primitivas emocionales 
+con emociones básicas a partir de un entrenamiento basado en una base de datos de 
+emociones básicas 
+7. Crear un esquema que fusione la información obtenida con cada grupo de 
+características 
+a. Implementar un esquema de filtrado y pesado de características dependiendo de la 
+información disponible y de las características de la base de datos. 
+b. Incorporar procesamiento dinámico y estático de características, fusionando las 
+predicciones hechas por cada tipo de procesamiento
+Componente 3 
+8. Evaluar el sistema de acuerdo a los lineamientos de HUMAINE Association: 
+a. Hacer una evaluación bajo los estándares de HUMAINE Association (Schuller, et 
+al., 2009). 
+9. Evaluar el desempeño en otros contextos: 
+a. Llevar a cabo evaluaciones sobre diferentes bases de datos tanto de emociones 
+reales, como actuadas con el fin de evaluar el alcance del sistema. 
+b. Hacer una evaluación subjetiva con personas no especializadas o no entrenadas.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Para alcanzar el objetivo de esta tesis, se analiza el modelo de capas de los esquemas
+de votación electrónica basados en firmas a ciegas y para nuestro caso en particular
+utilizando emparejamientos bilineales.
+Como se muestra en la Figura 1.1, de abajo hacia arriba, en la primera capa se
+tiene la aritmética de campos finitos, que incluye las operaciones básicas como la suma,
+multiplicación, inversión y la exponenciación modular.
+4La capa siguiente corresponde a la curvas elípticas, donde las operaciones de suma,
+doblado y bisección de puntos son requeridas para el cáculo de la multiplicación escalar,
+que para este trabajo es la operación principal en esta capa.
+La capa tres corresponde a los emparejamientos bilineales, donde se encuentran las
+funciones de emparejamiento de Weil y Tate, y versiones posteriores de éste último tales
+como ate, R-ate y ate óptimo entre otros.
+La capa de firmas contiene tanto las firmas digitales como las firmas a ciegas, ambas
+utilizan la función de emparejamiento principalmente en la fase de verificación y la
+multiplicación escalar en las distintas fases para la producción de la firma.
+Por último se tiene la capa de los esquemas de votación electrónica, los cuales apoyan su seguridad en la buena elección de los esquemas de firma y consiguen una implementación eficiente de acuerdo a los campos definidos para establecer la aritmética en
+las capas anteriores. Cabe mencionar, que antes de este trabajo, esquemas de votación
+electrónica basados en emparejamientos bilineales no habían sido propuestos todavía.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Siguientes pasos a seguir:
+1. Análisis de algoritmos o mecanismos que aseguren el orden causal.
+En este punto analizaremos los trabajos que aseguran mantener un orden causal como:
+relojes lógicos ([13]) y vectores lógicos ([7] y [19]), dependencia causal inmediata ([22]),
+etcétera.
+2. Definición de una representación causal del sistema heterogéneo.
+3. Diseño de un mecanismo para la representación compacta del historial causal del sis-
+tema.
+a. Definición de reglas para la agrupación de eventos en conjuntos.
+b. Diseño de un protocolo en línea que segmente a los eventos de ejecuciones del sis-
+tema heterogéneo en conjuntos de eventos casualmente consistentes. Considerando
+los modelos de ejecución:
+i. Asíncrono
+ii. Síncrono
+iii. Heterogéneo
+4. Diseño de mecanismos para establecer conjuntos de eventos que formen snapshots glo-
+bales y consistentes del sistema heterogéneo.
+a. Definición de un estructura de control para el manejo de la información de check-
+points entre procesos.
+b. Análisis en línea del historial causal del sistema para inferir puntos de inserción
+de checkpoints. Considerando los modelos de ejecución:
+i. Asíncrono
+ii. Síncrono
+iii. Heterogéneo
+5. Verificación formal del algoritmo de checkpointing desarrollado para asegurar su co-
+rrecto funcionamiento.
+Correctness
+i. Safety
+ii. Liveness
+6. Simulación del algoritmo de checkpointing y análisis del comportamiento de los pa-
+rámetros:
+Número de checkpoints creados.
+Overhead generado.
+Cantidad de checkpoints útiles para generar snapshots globales consistentes.
+Para la simulación utilizaremos el simulador de checkpointing ChkSim [32]. El simula-
+dor ChkSim es implementado en Java y puede ejecutarse en cualquier plataforma con
+una maquina virtual de Java; esta herramienta utiliza un modelo determinista para
+garantizar la reproducir de cualquier simulación. Además, pueden realizarse compara-
+ciones y análisis entre algoritmos de checkpointing (coordinado y semi-coordinado).
+En la figura 11 podemos observar un diagrama de la metodología planteada anterior-
+mente. Las líneas marcan la secuencia entre los principales pasos a seguir. Hay que notar en
+esta figura que en algún momento podemos retomar algún paso anterior.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>1. Analizar el impacto de los errores del RAH en la RI de documentos orales. Para ello se 
+ampliará la plataforma de experimentación existente, la cual servirá como base para el 
+indexado y recuperación de los documentos usando códigos fonéticos. De igual forma 
+esta plataforma será utilizada para la evaluación de los pasos subsecuentes de esta metodología. Para el análisis se realizará lo siguiente: 
+* Conseguir un corpus con transcripciones de diferentes calidades (WER). En específico se tiene el corpus MALACH de entrevistas usado en el foro CLEF y se 
+está en proceso de conseguir el corpus STD (Can, et al. 2009) usado en el foro 
+TREC para recuperación en base a términos de documentos orales. 
+* Implementar un sistema de RI a nivel palabra utilizando sólo transcripciones automáticas. 
+* Evaluar el impacto que tiene la calidad de la transcripción en la recuperación de 
+información. 
+2. Evaluar el aporte de la codificación fonética a nivel palabra en la recuperación de información en documentos orales. 
+* Aplicar los algoritmos de codificación fonética a las transcripciones automáticas 
+y observar su desempeño. Se utilizarán los algoritmos: Soundex, DaitchMokotoff Soundex, Phonix, NYSIIS y Double-Metaphone. Estos algoritmos fueron seleccionados a partir de una revisión bibliográfica (Odell y Russel 1918, 
+Holmes y McCabe 2002, Zobel y Dart 1996, Raghavan y Allan 2004, Kessler 
+2005, Borgman y Siegfried 1992). 
+* Medir la complementariedad y redundancia de los resultados obtenidos con las 
+diferentes representaciones basadas en códigos fonéticos como en texto. 
+* Analizar la relación entre frecuencia de códigos y la tasa de falsas alarmas. Con 
+la intención de proponer una estrategia que limite las colisiones. 
+* Combinar las representaciones textuales y de códigos fonéticos. Se espera aprovechar la complementariedad de los resultados de las diferentes representaciones para mejorar el rendimiento de la recuperación. Se experimentará con las siguientes estrategias: (i) expansión de documentos (fusión temprana), (ii) índices 
+por separado para texto y códigos fonéticos, y donde la combinación se realizará 
+ya sea en cascada (fusión intermedia), o utilizando técnicas conocidas de fusión 
+de listas de resultados (fusión tardía). 
+3. Representar los documentos orales con unidades sub-palabra codificadas fonéticamente 
+y evaluar su desempeño en la recuperación de información. 
+* Determinar empíricamente el aporte de las unidades sub-palabra codificadas 
+fonéticamente. Bajo este estudio se realizarán experimentos para determinar: (i) 
+el tamaño más adecuado de las unidades sub-palabra; y (ii) la conveniencia de 
+utilizar unidades traslapadas. 
+* Evaluar el comportamiento de las diferentes codificaciones fonéticas con las 
+unidades sub-palabra. 
+* Analizar la complementariedad de los resultados a diferentes tamaños (o traslapes). 
+* Analizar la complementariedad con los obtenidos a nivel palabra (tanto al usar 
+códigos como texto). 
+* Determinar si la combinación/fusión de las representaciones textuales y códigos 
+fonéticos a nivel sub-palabra es pertinente para disminuir las falsas alarmas. Al 
+igual que el paso anterior se experimentarán las siguientes estrategias: 
+i. Expansión de documentos (fusión temprana). En este caso se evaluarán 
+diferentes expansiones usando códigos a nivel palabra y nivel subpalabra. 
+ii. Construyendo índices por separado para texto y códigos fonéticos. En 
+este último caso se experimentará con índices tanto a nivel palabra como 
+sub-palabra. Con ellos se podrán evaluar esquemas de combinación ya 
+sea en cascada (fusión intermedia), o utilizando técnicas conocidas de 
+fusión de listas de resultados (fusión tardía).
+Las contribuciones de este trabajo se orientan de manera general al área de recuperación de 
+información en documentos orales. Las aportaciones se pueden resumir en los siguientes 
+puntos: 
+* Un estudio empírico para determinar el algoritmo de codificación fonética más 
+apropiado para la representación de documentos orales en la tarea de RI. 
+* El desarrollo de un método para la recuperación de información en documentos orales que aborde los errores de substitución y delimitación provocados por el reconocedor automático de habla. 
+* El desarrollo de una estrategia de recuperación que combine diferentes representaciones de los documentos orales para disminuir la tasa de falsas alarmas.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>1. Recopilar colecciones reportadas en la literatura en las cuales exista traslape entre las clases etiquetadas manualmente. Consideraremos inicialmente las colecciones TDT2, TREC-5 y Reuters-21578.
+2. Seleccionar medidas de evaluacion de algoritmos de agrupamiento, que estén reportadas en la li- 
+teratura y permitan evaluar la calidad de los algoritmos de agrupamiento que obtienen grupos con
+traslapes. Consideraremos inicialmente las medidas Jaccard-index [59] y Fmeasure [60].
+3. Desarrollar un algoritmo de agrupamiento incremental.
+(a) Desarrollar algoritmo de agrupamiento estatico basado en grafos que permita obtener grupos 
+con traslapes.
+i) Utilizar para representar la coleccion de objetos el grafo de  semejanza G. Este grafo
+es simple de construir y ademas enél, la adición o eliminación de un vértice sólo provoca 
+adiciones o eliminaciones de las aristas relativas a dicho vertice. 
+ii) Utilizar para obtener un cubrimiento de G  los sub-grafos de tipo estrella [25]. Este tipo de
+sub-grafo permite obtener grupos con traslape en los cuales el encadenamiento es reducido.
+iii) Definir una propiedad sobre los vertices de  G que permita filtrar el numero de vértices 
+candidatos a centro y que ademas permita definir un orden sobre los elementos de dicho  
+conjunto. Dado que interesa obtener grupos densos la propiedad definida debe de utilizar
+de cierta forma el grado de los vertices.
+iv) Disenar una estrategia de agrupamiento que utilice la propiedad definida en iii) para se- 
+leccionar un conjunto de vertices centros que cubran completamente a  G. La estrategia
+disenada debe impedir la selección de vértices que  a priori forman grupos en los que todos
+los vertices pertenecen al menos a otro grupo. 
+v) Definir un criterio que permita filtrar el conjunto de centros seleccionados de forma que el
+conjunto resultante cumpla que contiene a los centros mas densos del conjunto anterior que 
+todavía pueden cubrir completamente a G. Este criterio debe de utilizar el grado de los
+vertices centro. 
+(b) Determinar condiciones que permitan actualizar el agrupamiento, formado por el algoritmo desarrollado en el punto 3.a, cuando se adiciona uno o mas objetos a la colección. Analizar inicialmente:
+i) ¿Como varía el valor de la propiedad definida en el punto 3.a.iii para cada uno de los vertices 
+de G?
+ii) ¿Que grupos formados son los que necesitan ser actualizados? 
+iii) ¿Que condiciones debe cumplir un vértice para ser considerado como candidato a centro? 
+(c) Disenar e implementar, utilizando las condiciones determinadas en el paso 3.b, un algoritmo
+incremental.
+(d) Comparar el desempeno del algoritmo desarrollado, utilizando las colecciones recopiladas en 
+el paso 1, respecto a los algoritmos reportados en la literatura. Estas comparaciones deben de
+considerar:
+i) La calidad de los grupos respecto a las medidas seleccionadas en el paso 2.
+ii) La eficiencia de los algoritmos al agrupar una coleccion de forma incremental. 
+(e) Analizar los resultados experimentales y determinar limitaciones que puedan afectar el funcionamiento del algoritmo. En caso de existir dichas limitaciones, modificar el algoritmo para
+solucionarlas.
+(f) Analizar la complejidad computacional del algoritmo desarrollado.
+4. Desarrollar un algoritmo de agrupamiento dinamico. 
+(a) Determinar condiciones que permitan actualizar el agrupamiento, formado por el algoritmo desarrollado en el punto 3.a, cuando se elimina uno o mas objetos de la colección. Analizar 
+inicialmente:
+i) ¿Como var  ía el valor de la propiedad definida en el punto 3.a.iii para cada uno de los vertices 
+de G?
+ii) ¿Que grupos formados son los que necesitan ser actualizados? 
+iii) ¿Que condiciones debe cumplir un vértice para ser considerado como candidato a centro? 
+iv) ¿Cuales son los vértices que pueden quedar no cubiertos? 
+(b) Disenar e implementar, utilizando las condiciones determinadas en el paso 3.b y 4.a, un algoritmo dinamico. 
+(c) Comparar el desempeno del algoritmo desarrollado, utilizando las colecciones recopiladas en 
+el paso 1, respecto a los algoritmos reportados en la literatura. Estas comparaciones deben de
+considerar:
+i) La eficiencia de los algoritmos al actualizar el agrupamiento cuando se eliminan uno o
+varios objetos de la coleccion. 
+ii) La eficiencia de los algoritmos al actualizar el agrupamiento cuando se modifican uno o
+varios objetos de la coleccion. 
+(d) Analizar los resultados experimentales y determinar limitaciones que puedan afectar el funcionamiento del algoritmo. En caso de existir dichas limitaciones, modificar el algoritmo para
+solucionarlas.
+(e) Analizar la complejidad computacional del algoritmo desarrollado.
+5. Desarrollar un algoritmo de agrupamiento jerarquico aglomerativo incremental. 
+(a) Disenar un algoritmo jerárquico aglomerativo est  atico que: 
+i) Utilice para agrupar los objetos de cada nivel el algoritmo estatico desarrollado en el paso 
+3.a.
+ii) Considere que los objetos de todo nivel Ni > 1 son los grupos del nivel anterior.
+iii) Detenga la construccion de la jerarqu  ía cuando el grafo de semejanza, asociado a la
+coleccion de objetos del nivel, no tenga aristas. 
+iv) Pueda usar cualquier medida para el calculo de la semejanza entre los objetos de los niveles 
+Ni > 1. Consideraremos inicialmente la medida group-average que ha sido usada en varios
+algoritmos jerarquicos aglomerativos. 
+(b) Seleccionar un criterio para representar los objetos de los niveles Ni > 1.
+i) Estudiar los criterios, alternativos al utilizado en el paso 5.a.ii, que esten reportados en 
+la literatura. Consideraremos inicialmente para representar a un grupo: (I) al objeto que
+pertenece al grupo y que es el mas cercano del centroide del mismo y (  II) al vertice  centro
+del sub-grafo que determina el grupo.
+ii) Evaluar cada criterio sobre el algoritmo desarrollado en el paso 5.a.
+iii) Analisis de los resultados y selección del criterio. 
+(c) Seleccionar una medida para determinar la semejanza entre los objetos de los niveles Ni > 1.
+i) Estudiar las medidas, alternativas a la utilizada en el paso 5.a.iv, que esten reportadas en 
+la literatura. Consideraremos inicialmente: (I) la semejanza entre los representantes de los
+grupos y (II) la semejanza entre un subconjunto de vertices de los sub-grafos que determinan 
+a cada grupo.
+ii) Evaluar cada medida sobre el algoritmo desarrollado en el paso 5.a.
+iii) Analisis de los resultados y selección de la medida. 
+(d) Determinar condiciones que permitan actualizar los grupos de la jerarquía formada por el algoritmo desarrollado en el paso 5.a cuando se adicionan uno o mas objetos a la colección. Analizar 
+inicialmente:
+i) ¿Como afecta la actualización de los grupos en un nivel a los objetos del nivel siguiente? 
+ii) Cuando en un nivel se eliminan, se modifican o se forman nuevos grupos, ¿Que objetos del 
+nivel siguiente necesitan ser eliminados y/o adicionados?
+iii) ¿Como representar la relación entre los grupos de un nivel y los objetos del nivel siguiente 
+de una forma eficiente que permita a la vez reflejar rapidamente los cambios que puedan 
+ocurrir en un nivel?
+(e) Disenar un algoritmo jerárquico aglomerativo incremental que: 
+i) Utilice para agrupar los objetos de cada nivel el algoritmo dinamico desarrollado en el paso 
+4.
+ii) Utilice las condiciones determinadas en el paso 5.d.
+ii) Represente los objetos de todo nivel Ni > 1 utilizando el criterio seleccionado en el paso
+5.b.
+iii) Detenga la construccion de la jerarqu  ía cuando el grafo de semejanza, asociado a la
+coleccion de objetos del nivel, no tenga aristas. 
+iv) Utilice para medir la semejanza entre dos objetos, en todo nivel Ni > 1, la medida seleccionada en el paso 5.c.
+(f) Comparar el desempeno del algoritmo desarrollado, utilizando las colecciones recopiladas en 
+el paso 1, respecto a los algoritmos reportados en la literatura. Estas comparaciones deben de
+considerar:
+i) La calidad de los grupos respecto a las medidas seleccionadas en el paso 2.
+ii) La eficiencia de los algoritmos al agrupar una coleccion de forma incremental. 
+(g) Analizar los resultados experimentales y determinar limitaciones que puedan afectar el funcionamiento del algoritmo. En caso de existir dichas limitaciones, modificar el algoritmo para
+solucionarlas.
+(h) Analizar la complejidad computacional del algoritmo desarrollado.
+6. Desarrollar un algoritmo de agrupamiento jerarquico din  amico. 
+(a) Determinar condiciones que permitan actualizar los grupos de la jerarquía formada por el algoritmo desarrollado en el paso 5.a cuando se eliminan uno o mas objetos de la colección. Analizar 
+inicialmente:
+i) ¿Como afecta la actualización de los grupos en un nivel a los objetos del nivel siguiente? 
+ii) Cuando en un nivel se eliminan, se modifican o se forman nuevos grupos, ¿Que objetos del 
+nivel siguiente necesitan ser eliminados y/o adicionados?
+iii) ¿Como representar la relación entre los grupos de un nivel y los objetos del nivel siguiente 
+de una forma eficiente que permita a la vez reflejar rapidamente los cambios que puedan 
+ocurrir en un nivel?
+(b) Disenar un algoritmo jerárquico aglomerativo din  amico que: 
+i) Utilice para agrupar los objetos de cada nivel el algoritmo dinamico desarrollado en el paso 
+4.
+ii) Utilice las condiciones determinadas en el paso 6.a.
+ii) Represente los objetos de todo nivel Ni > 1 utilizando el criterio seleccionado en el paso
+5.b.
+iii) Detenga la construccion de la jerarqu  ía cuando el grafo de semejanza, asociado a la
+coleccion de objetos del nivel, no tenga aristas. 
+iv) Utilice para medir la semejanza entre dos objetos, en todo nivel Ni > 1, la medida seleccionada en el paso 5.c.
+(c) Comparar el desempeno del algoritmo desarrollado, utilizando las colecciones recopiladas en 
+el paso 1, respecto a los algoritmos reportados en la literatura. Estas comparaciones deben de
+considerar:
+i) La eficiencia de los algoritmos al actualizar el agrupamiento cuando se eliminan uno o
+varios objetos de la coleccion. 
+ii) La eficiencia de los algoritmos al actualizar el agrupamiento cuando se modifican uno o
+varios objetos de la coleccion. 
+(d) Analizar los resultados experimentales y determinar limitaciones que puedan afectar el funcionamiento del algoritmo. En caso de existir dichas limitaciones, modificar el algoritmo para
+solucionarlas.
+(e) Analizar la complejidad computacional del algoritmo desarrollado.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>1. Proponer una nueva medida de calidad para el calculo y ordenamiento del conjunto de CARs, que no 
+tenga las limitaciones de la confianza.
+a) Estudiar las medidas de calidad propuestas en la literatura para ARM y analizar si alguna reduce
+las limitaciones de la confianza. Si el estudio realizado da como resultado alguna medida que no tenga las limitaciones de la confianza entonces se utilizara para el c  alculo de las CARs. Inicial- 
+mente estudiamos las medidas Confianza, Soporte, Conviction, Interest, Chi-square, Certainty
+factors y Netconf. Por el momento se han obtenido buenos resultados con la medida de calidad
+Netconf propuesta en [19] para estimar la fuerza de una regla de asociacion. 
+b) Independientemente del resultado obtenido en el paso anterior, se propondra una nueva medida 
+de calidad para el calculo de CARs que no tenga las limitaciones de la  confianza.
+c) Analizar los criterios de ordenamiento de CARs reportados en la literatura y proponer un nuevo
+criterio de ordenamiento que haga uso de la(s) medida(s) de calidad resultante(s) en el paso 1a) y
+1b). Inicialmente hemos obtenido buenos resultados utilizando la medida Netconf para ordenar
+el conjunto de CARs.
+d) Evaluar la combinacion de los criterios de ordenamiento existentes con el criterio propuesto 
+en 1c). Los trabajos recientes [9, 14, 12] han mostrado que la combinacion de criterios de 
+ordenamiento puede mejorar la eficacia de los clasificadores.
+2. Disenar e implementar un algoritmo eficiente para calcular el conjunto de CARs que haga uso de la
+medida de calidad para CARs del objetivo 1 y ademas, proponer una estrategia de poda que permita 
+generar mas reglas con valores significativos de la medida de calidad que las estrategias de poda 
+existentes.
+a) Adaptar el algoritmo publicado en [18] para calcular el conjunto de CARs haciendo uso de la
+medida de calidad del objetivo 1. Para ello se crearan sólo las clases de equivalencias [3] que 
+involucren al conjunto de clases predefinido y se modificara la información asociada a cada clase 
+de equivalencia para poder calcular eficientemente, para cada regla, los valores correspondientes
+de la medida de calidad utilizada.
+b) Proponer una estrategia de poda que permita generar mas reglas de buena calidad (seg  un la 
+medida utilizada). En vez de podar el espacio de busqueda cada vez que se encuentra una regla 
+que satisface los umbrales de soporte y confianza, se evaluara la siguiente estrategia: cuando se 
+encuentre una regla que satisface el umbral de Netconf establecido, se continuaran generando 
+reglas mientras que el valor de Netconf no disminuya. Esta misma estrategia se evaluara con la 
+medida que se obtenga en 1b).
+c) Evaluar el algoritmo desarrollado en el paso anterior. En la evaluacion se medir  a como influyen 
+en la eficacia del clasificador la nueva medida de calidad y la nueva estrategia de poda.
+3. Proponer una estrategia para reducir los casos en que ninguna CAR cubra a la transaccion que se 
+desea clasificar y así reducir el numero de asignaciones de la clase mayoritaria. 
+a) Considerar el cubrimiento inexacto de las nuevas transacciones que se deseen clasificar. Para
+ello haremos mas accexible el criterio de cubrimiento de una transacción por una regla (ver 
+definicion 2.9). Inicialmente probaremos permitir que una regla  fi1; i2; : : : ; ing ) c cubra a
+una transaccion t si al menos n ¡ 1 ítems del antecedente de la regla pertenecen a t.
+b) Comparar la eficacia en la clasificacion considerando el cubrimiento inexacto contra el cubri- 
+miento exacto.
+4. Proponer un nuevo criterio de decision que resuelva los problemas de los criterios de decisión existen- 
+tes. Los problemas de cada uno de los criterios de decision existentes fueron discutidos en la sección
+3.
+a) Comprobar experimentalmente el analisis hecho por otros autores respecto a los criterios de 
+decision existentes. Los  ultimos trabajos utilizan el criterio de las "Mejores  K Reglas" por clase
+como criterio de decision y descartan los criterios de la "Mejor Regla" y de "Todas las Reglas". 
+No obstante, cuando se utiliza el criterio de las "Mejores K Reglas" y existe gran desbalance en
+el numero de CARs por clase que cubre a una nueva transacción, la eficacia del clasificador se 
+puede afectar.
+b) Seleccionar automaticamente un valor de  K para el criterio de "Las Mejores K Reglas" posiblemente diferente para cada clase y para cada transaccion, de esta forma se puede reducir el efecto 
+del desbalance entre el numero de CARs por clase, lo cual puede repercutir directamente en el 
+desbalance del numero de CARs por clase que cubre a una nueva transacción. Inicialmente eva- 
+luaremos tomar la mejor regla y dado un umbral, tomar todas las reglas cercanas a ella respecto
+al valor de la medida utilizada.
+c) Comparar la eficacia del clasificador aplicando el criterio de decision propuesto en el paso ante- 
+rior y aplicando los criterios de decision existentes. 
+5. Proponer un criterio de desambiguacion de clases para reducir la cantidad de asignaciones aleatorias 
+cuando hay clases empatadas.
+a) Considerar la eliminacion de la CAR de menor calidad, mayor calidad o ambas mientras haya 
+empate.
+b) Considerar el uso de un segundo clasificador posiblemente tambien basado en reglas. 
+c) Comparar la eficacia en la clasificacion usando los criterios de desambiguación de clases resul- 
+tantes en los pasos anteriores contra la eficacia que se obtiene al asignar una clase aleatoria.
+6. Disenar e implementar un clasificador basado en CARs, a partir de una muestra de entrenamiento, que 
+utilice las propuestas de los objetivos anteriores y que alcance mayor eficacia que los clasificadores
+existentes basados en CARs.
+a) Integrar las propuestas hechas en los pasos anteriores para construir un clasificador basado en
+CARs.
+7. Evaluar la eficacia del clasificador obtenido.
+a) Realizar una comparacion experimental del clasificador obtenido contra los clasificadores basa- 
+dos en CARs, reportados en la literatura.
+b) Se consideraran en la experimentación los conjuntos de datos del repositorio UCI [31] por ser 
+los comunmente usados en los trabajos reportados.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Este proyecto se desarrollara en cuatro etapas:
+Etapa1: Selección de Métodos de OG.
+La selección del método de OG es una de las partes más importantes de esta investigación.
+De acuerdo al trabajo relacionado, existen diversos métodos de OG que se emplean
+frecuentemente. En muchos trabajos se ha buscado el reducir el costo computacional de los
+algoritmos de tipo estocásticos y los híbridos; no obstante, se seleccionó el algoritmo de
+Gutmann puesto que realiza menos llamadas al modelo matemático. Las actividades que se
+realizarán en esta etapa son:
+* Hacer una revisión comparativa de los métodos de Optimización Global más
+empleados en diversas áreas de aplicación.
+* Seleccionar los algoritmos de Optimización Global más empleados para obtener
+conocimiento de sus características e indicar el método que será implementado.
+Etapa 2: Mejoras al método de OG
+Gutmann plantea en su trabajo varias preguntas abiertas en las que explica algunas de las
+ventajas de responderlas. Las modificaciones al método mencionadas en la propuesta se
+resolverán mediante las siguientes tareas:
+* Implementar el algoritmo de ramificación y poda para realizar una selección de los
+puntos de inicio del algoritmo de Gutmann.
+* Integrar en la implementación del algoritmo de Gutmann diversas funciones de base
+radial adicionales y verificar su funcionamiento.
+Modificar la implementación del algoritmo de Gutmann que permita configurarlo de
+tal manera que se pueda seleccionar el método de optimización interna.
+* Modificar la interpolación con Funciones de Base Radial para que el método
+soporte modelos con datos ruidosos y realizar pruebas con modelos matemáticos en
+condiciones ruidosas para probar la factibilidad de la solución.
+* Validar las mejoras del método con respecto a los algoritmos de OG más
+empleados.
+Etapa 3: Análisis de requerimientos, diseño e Implementación.
+La implementación de la plataforma de procesamiento necesita de un análisis previo que
+definirá sus parámetros y requerimientos de acuerdo a la última versión del algoritmo de
+Gutmann. El análisis del algoritmo permitirá determinar:
+* Partición de procesos.
+* Nivel de paralelismo.
+* Resolución de las variables.
+* Requerimientos de Hardware.
+* Costo.
+El diseño y la implementación de acuerdo al análisis realizado requerirán de la búsqueda de elementos de hardware que permitan una implementación sencilla. No obstante, en este
+punto se decidirá que tanto se renuncia a la precisión del sistema en general en la medida de una implementación adecuada.
+
+Etapa 4: Pruebas y Validación.
+Cuando la plataforma de procesamiento ya este diseñada e implementada, la etapa final
+consistirá en hacer pruebas con diversos modelos de diferentes áreas. Los resultados
+obtenidos se validarán comparándolos con una estimación de la solución entregada por el
+mismo método en una plataforma de procesamiento convencional.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>1. Crear la forma de representación basada en tríos de minucias. En esta etapa se
+definirán los rasgos que se incluyen en la forma de representación:
+a) Definir los rasgos de los tríos que hagan la representación invariante a la
+traslación y rotación.
+b) Evaluar la forma de incluir en los rasgos las direcciones de las minucias
+relativas a los lados.
+c) Evaluar la conveniencia de utilizar el tipo de las minucias y el conteo de crestas
+en la nueva representación puesto que su estimación es muy inexacta en
+áreas ruidosas, cerca de los puntos focales (núcleo y deltas), y cuando el segmento
+sobre el cual se hará el conteo se encuentra parcialmente superpuesto
+sobre una cresta [2, 21, 31, 54].
+2. Crear la función de comparación de tríos de minucias.
+a) Proponer una función que compare los rasgos de manera tolerante a las
+deformaciones de las huellas.
+b) Evaluar cómo hacer la función de comparación invariante al orden de las
+minucias pero sensible a la reflexión de los tríos.
+c) Estudiar las propiedades que permiten descartar a priori comparaciones de
+tríos para acelerar el proceso.
+d) Evaluar experimentalmente la nueva representación y función de comparación de tríos de minucias. Para esto se sustituirán estos componentes en
+algoritmos existentes.
+3. Desarrollar un algoritmo de verificación de huellas basado en la nueva forma de
+representación y función de comparación de tríos de minucias, con eficacia superior
+a los reportados en la literatura y costos computacionales aceptables.
+a) Evaluar diferentes estrategias para calcular los tríos de minucias. Para esto
+se implementarán diferentes esquemas como los vecinos más cercanos y la
+triangulación de Delaunay. También se probarán diferentes combinaciones
+de esquemas.
+b) Proponer un algoritmo para determinar las coincidencias locales. Para esto
+se probarán esquemas como: asociar cada minucia con aquellas cuyos correspondientes
+tríos tenga similaridad mayor que cero o con aquella con la cual
+tenga un mayor valor de similaridad.
+c) Definir el algoritmo de alineación. Se probarán varias estrategias como: alinear
+usando 3, 5 y 7 pares de tríos más similares, usar todos los pares de
+tríos coincidentes o cada trío y su más similar de la otra huella.
+d) Proponer un algoritmo para determinar las coincidencias globales. Se probar
+án diferentes heurísticas que incluyan la similaridad entre los tríos de
+minucias y otras que no usen esta información.
+e) Definir la función de similaridad entre las huellas. Esta función puede incluir
+la similaridad de los tríos, las minucias coincidentes en el área de solapamiento
+de las huellas y el total de minucias en cada huella.
+f ) Estudiar posibles optimizaciones para aumentar la rapidez del algoritmo.
+Para esto se estudiarán las propiedades de los tríos de minucias y se probarán
+diferentes estrategias de indexación como son la clasificación de los triángulos
+según sus lados y sus ángulos. También se estudiará la posibilidad de crear
+otras estrategias que estén relacionadas con las direcciones de las minucias
+relativas a los lados y la diferencia entre las direcciones de las minucias.
+g) Evaluar experimentalmente la eficacia del nuevo algoritmo de verificación. Se
+comparará contra otros algoritmos existentes en bases de datos de competencias
+de verificación a nivel internacional. Para esto se usarán los protocolos
+aceptados internacionalmente [55] cuya descripción aparecen en la sección
+3.7.
+
+4. Adaptar el nuevo algoritmo de verificación para aplicarlo en la identificación de
+huellas, con eficacia superior a los reportados en la literatura y costos computacionales
+aceptables.
+a) Evaluar diferentes estrategias para calcular los tríos de minucias teniendo
+en cuenta que en los problemas de identificación las huellas son parciales,
+la información de las crestas es de baja calidad y los extractores de rasgos
+omiten o adicionan información falsa.
+b) Proponer un algoritmo para determinar las coincidencias locales. Los errores
+del extractor de rasgos provocan que toda la información sea menos fiable y se necesite considerar más coincidencias locales que en los problemas de
+verificación.
+c) Adaptar el algoritmo de alineación para las restricciones de calidad de las
+huellas en los problemas de identificación.
+d) Adecuar el algoritmo para determinar las coincidencias globales.
+e) Ajustar la función de similaridad entre las huellas al contexto de la identificaci
+ón.
+f ) Estudiar posibles optimizaciones para aumentar la rapidez del algoritmo.
+g) Evaluar experimentalmente la eficacia del nuevo algoritmo de identificación.
+Se comparará contra otros algoritmos existentes en bases de datos propias.
+Para esto se usarán los protocolos aceptados internacionalmente [7] cuya
+descripción aparecen en la sección 3.7.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>A continuación se describen los métodos y técnicas a utilizar para alcanzar el objetivo
+planteado.
+1. Caracterización de datos biomédicos
+1.1. Adquirir los datos de la marcha de personas adultas mayores, los cuales serán
+proporcionados por el laboratorio de Análisis de Movimiento del INR de la ciudad
+de México. Durante el análisis de la marcha los datos involucrados con la manera
+de caminar de una persona son obtenidos y almacenados. Dado que en nuestro caso
+estamos interesados en la detección de decaimiento, es necesario tener registros de
+los datos de la marcha de diferentes personas en diferentes momentos.
+1.2. Caracterizar los tipos de datos, los instrumentos con que son obtenidos, los rangos
+de acción, los tiempos en que han sido tomados y el tipo de personas a quienes se
+les ha dado seguimiento.
+1.3. Trabajar periódicamente con los investigadores del INR para obtener información
+del tipo de datos que nos están proporcionando.
+2. Análisis y modelado de los datos
+2.1. Revisar y seleccionar las técnicas para el modelado de datos biomédicos que
+permitan representar y detectar cambios en los datos, así como técnicas que
+proporcionen una medida de los cambios en el riesgo de presentar un determinado
+evento como consecuencia de los cambios detectados con el modelado de los datos.
+2.2. Probar las técnicas seleccionas sobre los datos de la marcha proporcionados por el
+INR. Lo anterior es importante pues nos permitirá tener evidencia de la eficacia y
+de las limitantes de las técnicas seleccionadas al comparar la clasificación de este
+modelo con la clasificación de expertos, y así tener una base con la cual decir si las
+técnicas utilizadas son suficientes para resolver la problemática planteada.
+2.2.1. Prueba de técnicas de análisis de sobrevivencia.
+2.2.2. Prueba de técnicas de Inteligencia artificial.
+2.3. Proponer un modelo que permita considerar el cambio de los datos a través del
+tiempo, así como la influencia que tiene dicho cambio en el riesgo de presentar un
+determinado evento, y permita proporcionar una medida del riesgo asociado a una
+degradación patológica de la marcha a lo largo de un periodo de tiempo. En esta
+parte se encuentra una de las principales contribuciones de nuestro trabajo,
+pues hasta donde sabemos no existen trabajos reportados que hagan una
+representación de la evolución de la marcha humana y que permita evaluar el
+riesgo de caída de una persona.
+2.4. Proponer un método para la construcción automática del modelo anterior, esto es
+deseable debido a que como hemos mencionado, las diversas opciones para
+modelar dependen exclusivamente de la experiencia de los expertos en el dominio,
+pero existen dominios como el nuestro en donde los expertos no tienen seguridad
+de la información necesaria para la construcción de un modelo de la marcha
+patológica. Para ello es necesario lo siguiente:
+2.4.1 Determinación de atributos relevantes así como las relaciones entre ellos
+2.4.1.1. Utilizar el conocimiento a priori proporcionado por los expertos en el
+dominio para reducir el número de parámetros a considerar en el análisis.
+2.4.1.2. Utilizar técnicas de selección de atributos discutidos en la literatura
+especializada, donde encontramos dos métodos: los empacados (wrappers) y los filtros, [27], [54].
+2.4.1.3. Utilizar técnicas de selección de atributos relevantes de datos temporales [34], [40] y evaluar la efectividad del uso de los parámetros encontrados como relevantes con dichas técnicas de selección.
+2.4.1.4. Proponer técnicas de selección de atributos en datos temporales
+2.4.1.4.1. Comparar clasificación aplicando los puntos de la
+metodología 4.4.1.2 y 2.4.1.3.
+2.4.1.4.2. Seleccionar aquellas variables que sean identificadas que influyen en el aumento del riesgo de caída, utilizando análisis de sobrevivencia.
+2.4.1.4.3. Identificar cuáles son las variables que cambian la marcha de
+personas que tienen un decaimiento normal y descartar dichas variables como significativas para determinar un decaimiento patológico asociado al aumento de riesgo de caída.
+2.4.2 Determinación de la rapidez con la que ocurren los cambios Aplicación de técnicas de análisis de sobrevivencia
+2.4.3 Determinación del efecto en el riesgo de los cambios en los atributos Aplicación de técnicas de análisis de sobrevivencia.
+2.4.4 Determinación de los parámetros del modelo Aplicación de técnicas de aprendizaje paramétrico
+2.4.5 Determinación de los intervalos Análisis de las graficas de la función sobrevivencia
+
+3. Identificación de atributos relevantes
+La necesidad de la reducción de atributos surge debido a que se tiene una gran cantidad
+de atributos, de un orden mayor a 30, provenientes del análisis clínico de la marcha
+considerando el número de casos de estudio; alrededor de 18 actualmente. Por ello, el
+tratamiento de los datos para los algoritmos de minería tradicionales es costoso computacionalmente. El determinar aquellos atributos relevantes de la marcha para
+detección de pérdida de estabilidad ayudará a la adquisición y análisis de un subconjunto de atributos.
+3.1. Utilizar técnicas de réplica de datos, esto es, aumentar el número de casos
+utilizando oversampling, para tener más casos y así evitar la degradación de tener muchos atributos contra pocos datos.
+3.2. Hacer selección de atributos como alternativa al uso de oversampling, para tener pocos datos con pocos atributos.
+3.2.1. Uso del punto 2.4.1 de la metodología.
+3.3. Proponer métodos para la construcción de modelos con pocos datos y muchas variables
+3.3.1. Combinación de oversampling con selección de atributos.
+3.3.1.1. Utilizar oversampling sobre los datos que tenemos y posteriormente
+hacer selección de atributos.
+3.3.1.2. Realizar una selección de atributos inicial sobre los datos y posteriormente hacer oversampling.
+4. Evaluación
+4.1. Comparar la eficacia del modelo con respecto a técnicas de análisis de sobrevivencia.
+4.2. Comparar la eficacia del modelo obtenido, con respecto a modelos similares
+construidos con ayuda de los expertos en el dominio.
+4.3. Calcular la precisión en la clasificación del modelo con los datos iniciales,
+utilizando validación cruzada.
+4.4. Calcular la precisión del modelo propuesto con datos de expedientes cerrados. Es
+decir, datos distintos a los proporcionados inicialmente.
+7. Trabajo realizado y resultados preliminares
+Los resultados obtenidos hasta hoy consisten en lo siguiente:
+* Caracterización de una parte de los datos de la marcha de personas adultas mayores.
+* Selección de las técnicas a utilizar.
+* Evaluación de las técnicas seleccionadas con los datos caracterizados.
+* Construcción automática de un primer modelo basado en una EBN.
+7.1 Caracterización de los datos.
+Actualmente se está colaborando con los investigadores del Laboratorio de Análisis del
+Movimiento del INR, con el fin de obtener las bases de datos del análisis de la marcha de
+personas adultas mayores, concretamente mujeres de entre 50 a 70 años con diagnóstico de
+osteoporosis, y algunas con registro de caídas previas al inicio del estudio. Esos datos se han registrado durante un estudio conducido por los investigadores del INR durante un periodo de 3 años</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Seleccionar, recopilar y analizar críticamente la bibliografía pertinente.
+Extender el lenguaje de representación de patrones emergentes utilizado hasta el
+momento para incluir propiedades como:
+
+AtributoNoNumérico =v o AtributoNoNumérico != v
+AtributoNumérico &#60;&#61; v o AtributoNumérico > v
+AtributoNoNumérico =  v1 o AtributoNoNumérico =  v2 ... o
+p AtributoNoNumérico =  vp
+
+AtributoNumérico[v1,v2]
+AtributoNoNumérico {v1,v2,...,vp}
+
+Propiedades de este tipo fueron utilizadas en la definición de l -complejo de
+Michalsky [37] para la construcción de conceptos.
+Proponer un nuevo método de extracción de los patrones extendidos en matrices con
+DMI:
+Creación de un nuevo algoritmo de extracción de patrones emergentes extendidos en
+bases de datos con datos mezclados e incompletos. Para esta tarea se realizará:
+Estudio crítico de los métodos de extracción de patrones emergentes existentes.
+Proponer un nuevo algoritmo para encontrar EP extendidos.
+Evaluación de resultados mediante la realización de pruebas y comparación de
+resultados. Retroalimentación.
+Definir métodos o heurísticas para determinar cuándo un conjunto de EP es
+representativo de una base de datos. Esto puede permitir detener anticipadamente el
+proceso de búsqueda de EP, ahorrando tiempo de procesamiento. Para este punto se parte del presupuesto de que existe mucha redundancia en el conjunto de todos los EP, por lo que
+un subconjunto puede representarlo sin pérdida de información. Para ello se realizará:
+Estudio crítico de las medidas de calidad de EP existentes.
+Proponer un nuevo método o heurística que permita determinar cuándo un conjunto de
+EP es representativo de una base de datos.
+Evaluación de resultados mediante la realización de pruebas y comparación de
+resultados. Retroalimentación.
+Buscar criterios de calidad de los EP encontrados, y aplicarlos al filtrado de EP postextracción.
+Existen muchas medidas para evaluar la calidad de un EP [6, 14] que pueden
+ser utilizadas para el filtrado de los patrones, o para la asignación de un peso a cada uno
+para clasificar. Por la importancia de este tema, así como el impacto directo que tiene en la
+calidad de un clasificador basado en EP se realizará:
+Análisis crítico de las formas existentes de evaluar la calidad de un EP.
+Evaluación del desempeño de cada medida de calidad en la clasificación de bases de
+datos de prueba. En este paso se utilizará el clasificador propuesto por Fan y
+Ramamohanarao [12] utilizando el subconjunto de los mejores EP evaluados por cada
+medida o todos los EP con el peso calculado con dicha medida.
+Desarrollo de nuevos criterios de calidad para patrones emergentes, que permitan
+realizar una selección de los mejores o una asignación de pesos al clasificar.
+Evaluación de resultados mediante la realización de pruebas y comparación de
+resultados. Retroalimentación.
+d) Buscar una estrategia de cálculo automático de los parámetros de extracción
+de los EP. El concepto de EP incluye la expresión "soporte
+significativamente superior" en una clase que en las demás. La forma
+habitual de expresar numéricamente está propiedad es mediante el uso de
+umbrales. En la mayoría de los trabajos previos estos umbrales son fijos o
+definidos por el usuario. En este trabajo buscaremos un algoritmo adaptativo
+de búsqueda inicial y refinamiento de estos umbrales. Para ello se realizará:
+Estudio de las características de un problema de clasificación específico que pueden ser
+útiles para la estimación de valores de los umbrales cercanos a los deseados.
+Construcción de un algoritmo adaptativo de refinamiento de los valores de los
+umbrales.
+Evaluación de resultados mediante la realización de pruebas y comparación de
+resultados. Retroalimentación.
+Definir estrategias para clasificar los objetos en los que nuestro clasificador se
+abstiene. El problema de la abstención al clasificar no ha sido muy estudiado en la literatura
+de reconocimiento de patrones. La mayoría de los clasificadores definen una estrategia de
+que hacer si no poseen evidencia que les permita distinguir la clase de un objeto dado. La
+asignación de la clase mayoritaria o una elección al azar son las más utilizadas. No
+obstante, en los trabajos de clasificación con patrones emergentes no se ha abordado este
+problema, teniendo estos clasificadores según nuestros experimentos mayor tendencia a
+abstenerse.
+del presupuesto de que existe mucha redundancia en el conjunto de todos los EP, por lo que
+un subconjunto puede representarlo sin pérdida de información. Para ello se realizará:
+Estudio crítico de las medidas de calidad de EP existentes.
+Proponer un nuevo método o heurística que permita determinar cuándo un conjunto de
+EP es representativo de una base de datos.
+Evaluación de resultados mediante la realización de pruebas y comparación de
+resultados. Retroalimentación.
+Buscar criterios de calidad de los EP encontrados, y aplicarlos al filtrado de EP postextracción.
+Existen muchas medidas para evaluar la calidad de un EP [6, 14] que pueden
+ser utilizadas para el filtrado de los patrones, o para la asignación de un peso a cada uno
+para clasificar. Por la importancia de este tema, así como el impacto directo que tiene en la
+calidad de un clasificador basado en EP se realizará:
+Análisis crítico de las formas existentes de evaluar la calidad de un EP.
+Evaluación del desempeño de cada medida de calidad en la clasificación de bases de
+datos de prueba. En este paso se utilizará el clasificador propuesto por Fan y
+Ramamohanarao [12] utilizando el subconjunto de los mejores EP evaluados por cada
+medida o todos los EP con el peso calculado con dicha medida.
+Desarrollo de nuevos criterios de calidad para patrones emergentes, que permitan
+realizar una selección de los mejores o una asignación de pesos al clasificar.
+Evaluación de resultados mediante la realización de pruebas y comparación de
+resultados. Retroalimentación.
+d) Buscar una estrategia de cálculo automático de los parámetros de extracción
+de los EP. El concepto de EP incluye la expresión "soporte
+significativamente superior" en una clase que en las demás. La forma
+habitual de expresar numéricamente está propiedad es mediante el uso de
+umbrales. En la mayoría de los trabajos previos estos umbrales son fijos o
+definidos por el usuario. En este trabajo buscaremos un algoritmo adaptativo
+de búsqueda inicial y refinamiento de estos umbrales. Para ello se realizará:
+Estudio de las características de un problema de clasificación específico que pueden ser
+útiles para la estimación de valores de los umbrales cercanos a los deseados.
+Construcción de un algoritmo adaptativo de refinamiento de los valores de los
+umbrales.
+Evaluación de resultados mediante la realización de pruebas y comparación de
+resultados. Retroalimentación.
+Definir estrategias para clasificar los objetos en los que nuestro clasificador se
+abstiene. El problema de la abstención al clasificar no ha sido muy estudiado en la literatura
+de reconocimiento de patrones. La mayoría de los clasificadores definen una estrategia de
+que hacer si no poseen evidencia que les permita distinguir la clase de un objeto dado. La
+asignación de la clase mayoritaria o una elección al azar son las más utilizadas. No
+obstante, en los trabajos de clasificación con patrones emergentes no se ha abordado este
+problema, teniendo estos clasificadores según nuestros experimentos mayor tendencia a
+abstenerse.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>En este trabajo se utilizaron como algoritmos para desambiguación de sentidos de
+palabras Lesk Completo y Lesk Simple, además del uso de dos estrategias de back-off;
+sentido aleatorio y sentido más frecuente.
+Para llevar a cabo la desambiguación, los métodos tipo Lesk requieren el uso de
+un diccionario de sentidos, en nuestro caso, el diccionario utilizado fue WordNet.
+La evaluación se hizo sobre el corpus etiquetado sintética y semánticamente
+Senseval-2 English all-words.
+La medida de similitud utilizada por ambos algoritmos es la medida original de
+Lesk, traslape.
+La ventana de contexto para ambos algoritmos es la oración.
+Para la optimización del método de Lesk Completo se utilizó un método de optimización conocido como Algoritmos con Estimación de Distribuciones, los parámetros de dicho algoritmo se presentan a continuación.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Es un estudio descriptivo transversal. La población diana u objeto, son los principales
+sitios web de información sanitaria incluyendo los sitios web institucionales.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Metodología 
+La metodología para poder alcanzar los objetivos propuestos en este trabajo es la siguiente:
+1. Obtener grandes conjuntos de datos reales, que puedan ser utilizados para probar los algoritmos.
+b) Para el proceso de expansión, proponer diversas representaciones de los arcos generados por los
+nodos expandidos, tomando en cuenta el subconjunto de atributos elegido en el paso (a).
+c) Desarrollar estrategias para clasificar objetos nuevos a partir del AD generado, cuando se alcance
+un nodo hoja en el recorrido que se haga del árbol.
+d) Validar el algoritmo propuesto con grandes conjuntos de datos numéricos, para observar su comportamiento
+con respecto al tamaño del conjunto de entrenamiento y de acuerdo al número de
+atributos que describe al conjunto. Algunas de las posibles características a evaluar serán: el porcentaje
+de aciertos del algoritmo, el tiempo de procesamiento y el tama ño del árbol de decisión
+generado.
+e) En caso de ser necesario, redefinir alguno de los puntos anteriores.
+f ) Comparar los resultados del algoritmo propuesto contra C4.5 y con uno o más algoritmos presentados
+en el trabajo relacionado.
+4. En la extensión de los algoritmos para que puedan manipular grandes conjuntos de datos mezclados,
+aplicar los siguientes pasos:
+a) Desarrollar estrategias para datos mezclados que permitan encontrar representaciones de los
+arcos generados por los nodos expandidos y que puedan manipular grandes conjuntos de datos.
+b) Proponer técnicas que generen subconjuntos de atributos, que se utilicen en la representación
+interna del árbol.
+c) Proponer estrategias para clasificar objetos nuevos, descritos por atributos mezclados.
+d) Validar el algoritmo propuesto con grandes conjuntos de datos mezclados, para observar su
+comportamiento con respecto al tamaño del conjunto de entrenamiento y de acuerdo al número
+de atributos que describe al conjunto. Algunas de las posibles características a evaluar serán:
+el porcentaje de aciertos del algoritmo, el tiempo de procesamiento y el tama ño del árbol de
+decisión generado.
+e) Comparar los resultados del algoritmo propuesto contra C4.5, debido a que es un algoritmo que
+también permite trabajar con datos mezclados, y con uno o más algoritmos presentados en el trabajo relacionado.
+2. Para generar un AD multivaluado para grandes conjuntos de datos numéricos, que tenga todo el conjunto de atributos en sus nodos, se seguirán los siguientes pasos:
+a) Definir la estructura de los nodos del AD. Buscar una representación para los nodos internos y sus arcos, así como para las hojas del árbol, de tal manera que puedan ser manipulados grandes conjuntos de datos.
+b) Proponer la rutina de actualización del árbol generado, el algoritmo leerá uno a uno los objetos del conjunto de entrenamiento.
+c) Para el proceso de expansión, crear diversas representaciones de los arcos generados por los nodos expandidos.
+d) Para el proceso de clasificación de objetos nuevos, definir una estrategia para recorrer el árbol construido, de tal manera que se llegue a una hoja.
+e) Desarrollar estrategias para clasificar objetos nuevos a partir del AD generado, cuando se alcance un nodo hoja en el recorrido que se haga del árbol.
+f ) Validar el algoritmo propuesto con grandes conjuntos de datos numéricos, para observar su comportamiento con respecto al tamaño del conjunto de entrenamiento y de acuerdo al número de atributos que describe al conjunto. Algunas de las posibles características a evaluar serán: el porcentaje de aciertos del algoritmo, el tiempo de procesamiento y el tama ño del árbol de decisión generado.
+g) En caso de ser necesario, redefinir alguno de los puntos anteriores.
+h) Comparar los resultados del algoritmo propuesto contra C4.5 y con uno o más algoritmos presentados en el trabajo relacionado
+3. Para generar un AD multivaluado para grandes conjuntos de datos numéricos, que tenga a un subconjunto de atributos en sus nodos, se seguirá el procedimiento anterior, con las siguientes modificaciones:
+a) Proponer estrategias para encontrar subconjuntos de atributos para utilizarlos en la representación de los nodos internos y sus arcos, y que además permitan el manejo de grandes conjuntos de datos.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>El proceso metodológico que se ha utilizado en esta investigación está
+basado en un método científico y puede dividirse en varias fases generales.
+Concretamente las descritas a continuación:
+1. Formulación del problema: En esta primera etapa se realiza un
+planteamiento del problema, la definición de la hipótesis de partida y
+de los objetivos principales de la investigación. La descripción de
+toda esta información se recoge en este capítulo.
+2. Recopilación y estudio de documentación: Durante esta fase se ha
+hecho acopio de toda la información necesaria para elaborar la base
+de conocimientos básicos necesarios para afrontar la investigación.
+Toda esa documentación ha sido organizada y estructurada en
+función a su contenido y relación con nuestra investigación de forma
+que permita una cómoda consulta y actualización.
+3. Documentar la base teórica. Una vez asimilada la información
+recopilada en el apartado anterior, se procede a documentar en los
+primeros capítulos aquellas disciplinas que están directamente
+relacionados con el área de esta investigación, es decir, MDA,
+desarrollo ágil de software y modelado del negocio. Esta información
+servirá de soporte para el análisis y las investigaciones posteriores.
+4. Analizar trabajos relacionados con la investigación. En esta etapa se
+realiza un estudio de trabajos y propuestas muy relacionados con los
+objetivos a alcanzar. Tras dicho análisis se pueden plantear, para
+cada uno de esos trabajos, los puntos a favor y en contra en relación
+a cómo pueden ser utilizados para la resolución del problema
+formulado y la hipótesis de partida.
+5. Desarrollo de la investigación. Con los conocimientos y el material
+adquiridos en las etapas anteriores se desarrollará la investigación.
+Este desarrollo desemboca en la documentación de los capítulos
+principales de la tesis donde se especifica la metodología aportada.
+6. Construcción de un prototipo. Una vez que la metodología ha sido
+definida, se desarrolla un prototipo para probar la utilización de la
+misma en casos prácticos.
+7. Conclusiones. Esta etapa se expresan los resultados y aportaciones
+de la investigación, fundamentados en las discusiones reflejadas en
+el resto de la memoria de la tesis.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>En este capítulo se define el proceso de planificación aconsejable para llevar a cabo un estudio de simulación para optimizar el diseño de un ensayo clínico. La figura 2.1 muestra la secuencia de pasos necesarios. El elemento central de la realización de un ensayo clínico es el protocolo, que describe los objetivos y las hipótesis, así como todos los detalles de cómo se lleva a cabo un ensayo clínico, incluso el análisis estadístico de los datos (González, 2003). Ya se ha mencionado anteriormente que no se suele integrar el diseño con los costes y la duración de forma explícita.
+El enfoque de esta tesis es aplicar los modelos de simulación de estados discretos como método para cuantificar las respuestas de un sistema y manejar situaciones complejas en las que existe incertidumbre. Por otro lado, la utilización de estos modelos es útil para extrapolar los resultados de los ensayos clínicos cuando no es posible la realización de estudios de larga duración debido al coste elevado o bien cuando existe la necesidad de obtener los resultados en un plazo corto de tiempo.
+La solución puede ser utilizar información y supuestos de distintas fuentes con el fin de realizar simulaciones basándose en la mejor información posible. En definitiva, el enfoque es ver el diseño del ensayo clínico como un proceso de optimización que, realizado en su momento, permita influir en el diseño, es decir en el protocolo.
+Adicionalmente, la simulación puede permitir determinar la imposibilidad o baja probabilidad de que un determinado ensayo clínico termine con éxito, lo que sugería la consecuencia de descartar su realización para no incurrir los costes y utilidades. Finalmente, la simulación puede ayudar a tomar decisiones una vez iniciado el ensayo clínico, tales como, interrumpirlo, aumentar su duración, etc.
+En base a nuestro análisis y experiencia, la metodología para planificar un modelo válido y creíble tiene que tener los pasos básicos que aparecen a continuación resumidos en la figura 2.1.
+A modo de ilustración práctica se incluye un ejemplo de una propuesta para optimizar un ensayo clínico del microbicida en la prevención del VIH en mujeres, realizando durante una estancia en la Universidad de Ohio. Esta propuesta es una planificación real pendiente de ser iniciada, ya que la FDA no ha aprobado la solicitud de inicio del ensayo clínico.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>En un análisis de la literatura de ingeniería del software, Glass et al. [116] muestran que
+tradicionalmente el método de investigación mayoritario en ingeniería del software ha
+sido el análisis o estudio conceptual, concluyendo que "los investigadores en ingeniería
+del software tienden a analizar e implementar nuevos conceptos, y hacen muy poco
+más. Por el contrario, en la realización de esta tesis doctoral se han utilizado varios
+métodos de investigación: casos de estudio, investigación en acción y revisiones
+sistemáticas de la literatura. En este apartado se introduce brevemente cada uno de estos
+métodos.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La investigación descrita se ha realizado mediante una serie de fases en la que se ha
+combinado el método deductivo con el método inductivo. La primera de estas fases,
+de tipo deductivo, consiste en un análisis de la documentación periodística como
+proceso, con el fin de encontrar sus características comunes.
+Una segunda fase, inicialmente deductiva, ha consistido en el análisis de la
+producción de documentos periodísticos digitales difundida en línea, de la cual se
+han extraído aquellos factores que han supuesto la modificación de algunas de las
+características documentales descritas anteriormente. Este análisis ha inducido a la
+definición de dos ideas clave: la necesidad de definir una división estructural del
+documento periodístico, teniendo en cuenta sus posibles componentes desde un
+punto de vista documental (el documento es divisible en piezas, objetos y
+seudopiezas), y el planteamiento sobre cuáles eran los interrogantes documentales a
+los que debía responder un centro de documentación de un medio periodístico para
+aprovechar correctamente la división anterior.
+En una tercera fase, en este caso inductiva, se han tomado algunos conceptos básicos
+relativos al marcado de texto, y en concreto, a su formulación mediante XML,
+definiendo tres modelos para la descripción de contenidos mediante marcado de texto
+(inserto, adjunto y externo), teniendo en cuenta la posición del marcado respecto a la
+posición del contenido descrito, así como las implicaciones derivadas del uso de uno
+u otro mecanismo.
+Una cuarta fase, en esta ocasión, deductiva, ha consistido en la descripción de cinco
+lenguajes concretos de marcado de texto periodístico, RSS, PRTSM, NewsML, NLTF
+y SportsML, que intercalan en su uso varios de los modelos descritos. Para cada uno de ellos, se ha realizado una breve mención histórica contextualizadora de su
+nacimiento, se han descrito sus aspectos más destacables desde el punto de vista
+documental, y se han mostrado sus utilidades más concretas.
+Tras esta descripción individual, se han comparado estos lenguajes entre sí, así como
+su uso combinado. Para ello, se han estudiado las capacidades de los lenguajes para
+identificar y para describir contenidos €haciendo hincapié tanto en el modo empleado
+para definir las estructuras de los documentos como en la forma de representar sus
+contenidos, ya fuera mediante lenguaje libre o mediante lenguaje controlado€, y al
+tiempo, para relacionar esos contenidos con otros, y pára integrar el funcionamiento
+del centro de documentación con el de otras secciones del medio.
+Una última fase, inductiva, ha consistido en la definición de un modelo de aplicación
+concreto para representar contenidos periodísticos mediante marcado de texto que
+respondiera a las necesidades planteadas y a las utilidades encontradas en los
+lenguajes de marcado. Se ha empleado como punto de partida el uso combinado de
+NewsML y NTTF, reduciendo el número de elementos de cada lenguaje.
+El requisito principal del modelo de aplicación consiste en no reducir la utilidad
+documental de ninguno de los lenguajes, sino, al contrario, mejorar la identificación
+y la descripción de los contenidos con el fin de hacer posible un mayor número de
+relaciones futuras entre los documentos marcados. Ello permitirá por lo tanto un
+mayor número de alternativas de recuperación de los contenidos, de lo que se derivan
+mayores posibilidades para la reutilización de los mismos.
+En conjunto, el trabajo es en buena medida sincrónico, dado que el estudio se centra
+en la utilidad actual de los lenguajes de marcado estudiados, si bien su justificación
+ha requerido sendas introducciones históricas que contextualizaran la elección de las
+tecnologías estudiadas, tanto en el aspecto más teórico, el de su aplicación a la
+documentación periodística, como en el más pragmático, el desarrollo de las
+tecnologías analizadas.
+Asimismo, se trata de un trabajo especulativo, que aporta una solución genérica a los
+problemas planteados mediante un modelo de aplicación susceptible de diferentes
+implementaciones concretas en el futuro.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La información sobre las diferentes iniciativas analizadas y sobre las
+recomendaciones que presentan, se obtuvo de sus respectivas webs
+institucionales y se llevó a cabo durante el mes de mayo de 2005. Fue
+necesaria la traducción del inglés al español de las recomendaciones de
+URAC y de la American Medical Association, ya que no disponían de
+una versión de su código de conducta en dicho idioma.
+En cada iniciativa se describieron y analizaron los siguientes aspectos:
+1) Las características generales de las organizaciones promotoras,
+el momento de creación, el proceso general de acreditación y la
+descripción del sello de calidad concedido.
+La enumeración y clasificación de los criterios y aspectos que
+caracterizan a cada una de las diferentes iniciativas analizadas.
+Dicha clasificación se realizó en áreas temáticas, asociando un
+color predeterminado a cada área. En total se distinguieron seis
+áreas: transparencia y honradez, autoridad, intimidad y
+protección de datos, actualización de la información, rendición
+de cuentas y accesibilidad. La designación de estas áreas
+temáticas se basó en los criterios de calidad utilizados en las
+recomendaciones de e-Europe 2002: "Criterios de calidad para
+los sitios web relacionados con la salud de la Unión Europea.74
+Se marcaron en color gris todos aquellos criterios y aspectos
+que no podían incluirse en ninguna de las áreas temáticas
+definidas en eEurope 2002. El código de colores mostró las
+coincidencias y discrepancias de los criterios de las iniciativas
+estudiadas entre sí y con el documento de referencia. En el caso
+de criterios que pudieran incluirse en diferentes áreas temáticas
+se combinaron los colores correspondientes.
+En la tabla 4.3 se muestran la relación de colores que se asignaron a
+cada uno de los apartados y criterios de eEurope 2002.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Para demostrar nuestra hipótesis hemos utilizado la siguiente metodología de
+trabajo:
+* Revisión del estado del arte de las diferentes metodologías existentes para la
+enseñanza-aprendizaje de la lectoescritura. El capítulo 2 recoge toda la
+información relevante acerca de este punto.
+* Revisión del estado del arte del uso de la informática en el ámbito educativo. En
+el capítulo 3 se presenta aquella información relevante que hemos considerado
+más relacionada con nuestro contexto de estudio.
+* Revisión del estado del arte de los sistemas hipermedia adaptativos y su utilidad
+en el ámbito educativo. El capítulo 4 se ocupa de esta cuestión. En ambas
+revisiones del estado del arte hemos incluido referencias bibliografías a trabajos
+recientes y/o significativos.
+* Aplicar técnicas de investigación cualitativa para la recogida y estudio de la
+información de los diferentes centros. El estudio comparativo entre centros del
+capítulo 8 ha sido posible gracias a estas técnicas cualitativas. Se ha considerado
+como material de estudio todo aquel que utiliza cada centro con sus alumnos
+para la enseñanza-aprendizaje de la lectoescritura: libros, fichas, murales,
+software educativo, etc. También se han realizado entrevistas al profesorado.
+* Experimentar, mediante sucesivas aproximaciones, hasta alcanzar el modelo
+conceptual más adecuado. Se pretende alcanzar un primer modelo conceptual
+válido, sobre el que crear la aplicación hipermedia y realizar las modificaciones
+necesarias en función de los resultados obtenidos. El modelo arquitectónico
+presentado en el capítulo 6 y la implementación, de un subconjunto del mismo,
+del capítulo 7 han sido obtenidos siguiendo este proceso. Para la implementación
+parcial hemos utilizado una herramienta de autor, por su facilidad, potencia e
+idoneidad de uso en el desarrollo de aplicaciones educativas.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>En esta sección se expone la métodología propuesta para alcanzar los objetivos planteados.
+
+Inicialmente se trabajará en la reducción del conjunto de representantes teniendo como objetivo la clasificación.
+
+o	Se utilizarán Algoritmos Genéticos para buscar un subconjunto de representantes del conjunto original.
+o	Se buscarán estrategias de eliminación de redundancia.
+o	Se buscarán  otras formas de reducción.
+o	Se compararán las estrategias propuestas.
+
+ 
+Posteriormente, se desarrollarán estrategias para reducir el conjunto de representantes, teniendo como objetivo la caracterización adecuada de las clases.
+ 
+o	Se buscará una o varias medidas de calidad de caracterización de los representantes.
+o	Se utilizarán Algoritmos Genéticos para buscar un subconjunto de representantes, que caractericen adecuadamente a los objetos.
+o	Se buscarán estrategias de eliminación de redundancia.
+o	Se buscarán  otras formas de reducción.
+o	Se compararán las estrategias propuestas.
+ 
+Finalmente se trabajará en el cálculo de todos los representantes. Además se buscarán estrategias para calcular directamente subconjuntos de representantes sin tener que calcularlos a todos.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La métodología a seguir para alcanzar el objetivo de la investigación es la siguiente.
+1. Investigar y analizar los métodos de segmentación basados en Campos Aleatorios
+de Markov para la segmentación de imágenes satelitales con base al menor
+error de clasificación.
+2. Seleccionar y programar los modelos de Campos Aleatorios de Markov que
+menor error de clasificación reportaron en la literatura.
+3. Aplicar los modelos de Campos Aleatorios de Markov programados en el punto
+anterior a la clasificación de clases espectralmente similares.
+4. Seleccionar el modelo CAM que obtuvo el menor error de clasificación del punto
+anterior. Evaluar también el modelo seleccionado realizando comparaciones con
+mapas temáticos existentes.
+5. Investigar y analizar diferentes enfoques que modelen información del objeto
+y definir qué información se va a modelar (triángulos, elipses, cuadrados,
+carcaterísticas estocásticas, etc.).
+6. Analizar el modelo seleccionado en el paso 4 y definir durante el proceso
+interno de su segmentación el o los procesos que serán extendidos para usar
+la información de forma.
+7. Crear el algoritmo de segmentación que conjunte el paso 5 y 6.
+8. Definir dos dominios de trabajo de clases espectralmente similares con base a
+los más estudiados en la literatura y a los datos disponibles. Recopilación de
+datos de los dominios seleccionados.
+9. Extender el algoritmo creado en 7 para el uso de características de textura.
+10. Investigar, analizar y seleccionar los métodos de evaluación de segmentación y
+clasificación de coberturas más empleados en la literatura para la segmentación
+de imágenes satelitales.
+11. Aplicar los algoritmos desarrollados en 7 y 9 a los dominios de trabajo
+seleccionados y validar sus resultados con base a los métodos de evaluación
+investigados en el punto anterior</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>La idea general es llegar a resolver problemas en 3D, para ello se resolverán una serie de problemas en
+1D y 2D paulatinamente.
+En primera instancia se planteó un problema difusivo ut = uxx en 1D, en donde se conocía la solución
+analítica, se resolvió por diferencias finitas y el método de Kansa, implementándolo en modo serial y
+posteriormente en paralelo. Con este sencillo ejemplo se logró comprender cómo se emplea MPI para dar
+solución a una EDP en particular y analizar los pasos que conllevan a la implementación en paralelo.
+Posteriormente se planteó la solución del problema de Poisson en 2D, por colocación no simétrica de
+Kansa, que se muestra en la sección de resultados preliminares. En dicho problema se distinguieron dos
+conceptos importantes: partición de datos e implementación en paralelo.
+De lo expuesto anteriormente, se tienen los dos primeros problemas a resolver: proponer un esquema de
+comunicación en paralelo para el envío de datos de puntos de frontera en común y dada la partición de datos
+determinar los puntos de frontera en común entre particiones. Ambos problemas deben considerar datos en
+3D.
+Por otro lado y desde el punto de vista numérico, los resultados analizados para el caso lineal de convección
+difusión en 1D, nos plantea el estudio y desarrollo de nuevos algoritmos radiales, seriales y paralelos,
+en 2D y 3D basados en distintos núcleos radiales y así analizar sus ordenes de convergencia. Esto con objeto
+de desarrollar algoritmos más eficientes.
+Empleando distintos núcleos radiales se determinará experimentalmente el orden de convergencia para
+un problema 1D temporal. Este enfoque numérico es importante para determinar la convergencia ya que no
+hay resultados mostrados en esta dirección.
+Los esquema de mallas adaptivas son conocidos en el área de elemento finito, se analizarán cuáles de los conceptos implícitos en estas técnicas son aplicables a los algoritmos libres de mallas. Ejemplo de ello es la adición/remoción de nodos que se adapten al tipo de solución obtenida.
+Con respecto a descomposición de dominio, se explorarán algunas variantes del algoritmo de Schwarz que resulten apropiadas para el problema a resolver. Dentro de las variantes del algoritmo de Schwarz se contemplan los casos de fronteras tipo Dirichlet-Dirichlet y Neumann-Neumann.
+En particular, y para el caso de leyes de conservación, primero analizaremos casos en 1D hiperbólicos en diferencias finitas, en donde se tenga formación de ondas de choque. Una vez analizados los casos de estudio, se investigarán esquemas que consideren el uso de aproximación radial planteado en forma conservativa que utilice partición de dominio.
+Finalmente, para validar que la solución numérica obtenida por los algoritmos propuestos sea correcta, se debe satisfacer que la solución obtenida sea mejor o igual a lo obtenido con otro métodos numéricos, por ejemplo volumen finito. Para ello se debe seleccionar varios casos de prueba y analizar los resultados.
+La selección de la ecuación diferencial parcial de prueba se divide en dos casos: se conoce la solución analítica y no se conoce la solución analítica. En el segundo caso, la solución numérica se ha validado en distintos artículos quedando así establecida la certeza de que la solución numérica obtenida es correcta.
+Cuando se conoce la solución analítica, podemos medir el error cometido empleando por ejemplo el error cuadrático medio</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Una vez que se revisó y analizó el estado del arte, se llegó a la conclusión de que los métodos inductivos más apropiados para extraer conocimiento útil para la ayuda al diagnóstico médico, son los denominados métodos simbólicos, ya que a través de ellos podemos obtener modelos inteligibles para los seres humanos, capaces de proveer al staff médico un nuevo punto de vista que les ayude a tomar decisiones acertadas en la difícil tarea del diagnóstico médico. Por lo tanto, la métodología para desarrollar nuestro algoritmo inductivo se divide en tres etapas.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>En esta sección se expone la métodología propuesta y menciona el alcance y las
+limitaciones de nuestro trabajo. Para efectos de exposición, hemos divido la métodología en
+tres grandes pasos: (i) preprocesamiento y traducción de la pregunta; (ii) búsqueda de
+pasajes y recopilación de respuestas candidatas; y (iii) selección de la respuesta. En la
+figura 3 se muestra un esquema de esta métodología</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>métodología de investigación
+El proceso seguido a lo largo de los trabajos de investigación ha
+consistido en realizar diversas iteraciones sobre la experiencia empírica
+desarrollando y ensayando de forma gradual diversas versiones de los
+modelos. Los límites de la investigación quedan establecidos por el tipo
+de entorno en el que se realiza la investigación.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>El esquema metodológico seguido está enfocado al desarrollo de nuevos modelos para la simulación en entornos de realidad virtual. Esto se conseguir á por medio del diseñ de un modelo abstracto que facilitará especialmente la consecución de un modelo flexible, robusto y estable.
+Con el fin de poder abordar los problemas planteados, se realizará en primer lugar un cos para los diferentes módulos definidos. Cada nuevo modelo se ajustará
+a las especificaciones determinadas en el modelo abstracto y éste actuará
+como vía de comunicación entre los distintos módulos.
+Los modelos desarrollados se implementarán con el fin, en primer lugar,
+de validar y mostrar su comportamiento. La validación permitirá analizar y
+rediseñar, cuando sea necesario, los modelos desarrollados. Esta implementaci
+ón servirá también para desarrollar las técnicas necesarias para garantizar
+su aplicación en sistemas de realidad virtual y simulación. Se tratarán
+especialmente la interacción y la representación gráfica del modelo, y se
+desarrollará un demostrador de la tecnología, consistente en una aplicación
+informática.
+Por medio de la definición de las estrategias adecuadas, esta metodología
+permitirá alcanzar los principales objetivos propuestos. El modelo abstracto
+obtenido será flexible, ya que se define en base a un conjunto muy reducido
+de suposiciones previas sobre el sistema. Se verá que la utilización de diferentes
+modelos dinámicos para cada módulo permite ampliar el rango de
+situaciones que pueden simularse. Por otra parte, la descomposición de la
+dinámica en módulos permitirá identificar y controlar las fuentes de posible
+inestabilidad de forma independiente.análisis de los trabajos anteriores relacionados con la tesis.
+Este análisis permitirá conocer las soluciones propuestas hasta el momento en diferentes campos científicos y técnicos y determinar de forma precisa
+cuales son las carencias que deben ser cubiertas.
+Una vez analizado convenientemente el problema, se abordará el modelado del sistema. Para ello se recurrirá a la metodología de refinamiento sucesivo, o metodología Top-Down. Como resultado, se obtendrá un modelo abstracto del sistema, basado en su descomposición en módulos y en la identificación de los flujos de información.
+Este modelo abstracto permitirá posponer el modelado de la dinámica
+de los subsistemas, evitando así la influencia de éstos en el diseñ del modelo global. Una vez definido el modelo abstracto, se obtendrán modelos dinámi.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>A fin de proceder a contrastar las distintas hipótesis determinadas en el
+capítulo anterior se procedió a desarrollar un análisis empírico sobre una
+realidad concreta del mundo empresarial.
+El objetivo del presente capítulo es mostrar la métodología empleada en
+dicho análisis. Así, en primer lugar se expone la justificación de la población
+elegida, la elaboración del cuestionario, la descripción del trabajo de campo, la
+determinación de la muestra y la métodología estadística aplicada sobre los
+datos obtenidos.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>1.5 Marco y Metodología 
+
+Para los experimentos de esta tesis se han utilizado simuladores desarrollados en
+C++ por el autor. Para contrastar el correcto funcionamiento de la planificación
+realizada, cuando fue posible se utilizó el simulador RTSIM3  de la Scuola Superiore
+Sant'Anna [PLA01]. Aunque no se ha simulado ningún hardware específico, se 
+asume que este tendrá la estructura de un sistema multiprocesador de memoria
+compartida con procesadores homogéneos (véase la Figura 1.5). Los costes
+derivados del propio hardware se consideraron incluidos en el cálculo del peor
+tiem po de ejecución de cada una de las tareas (WCET, C). En la mayoría de
+planificadores usados, el número de desalojos está acotado y, por lo tanto, los costes
+también pueden incluirse en el WCET. Las tareas consideradas en esta tesis no
+utilizan recursos compartidos, con lo que se simplifican los posibles problemas de
+coherencia de cache. No obstante, en el Capítulo 5 se podrían incluir. En este caso el
+acceso a los recurso s compartidos se tendría en cuenta en el análisis de la
+planificabilidad mediante el factor de bloqueo [DaW95] y a nivel de planificador se
+usarían mecanismos de exclusión mutua (Priority Ceiling Protocols, [SRL90]). Los 
+i costes de las migraciones entre procesadores se consideraron nulos. En todo caso, los 
+sistemas de tiempo real usualmente permiten las técnicas de replicación del código
+de las tareas periódicas en las memorias caches para minimizar estos costes [Bus96].
+No obstante, las modernas técnicas de las memorias caches en sistemas multicore,
+como son la compartición de la memoria cache L2 o L3 (véase al columna Cache
+Compartida en la Tabla 4), pueden ayudar a minimizar los costes de la migración
+entre cores e incluso entre procesadores. 
+
+La carga de los experimentos se generaró sintéticamente con diversos generadores
+desarrollados por el autor. La entrada de estos generadores son los parámetros que
+especifican la caracterización del conjunto de tareas y el número de procesadores (en
+las tablas del Anexo B se especifican los principales parámetros de los diferentes 
+tipos de conjuntos de tareas utilizados). La salida de los generadores son los
+parámetros que especifican las características generales de un cierto número de tareas
+(principalmente el periodo, el plazo y el peor tiempo de ejecución). Los simuladores
+utilizan esta información para realizar la planificación en un modelo guiado por
+eventos discretos. 
+
+La parametrización utilizada se eligió a base de recopilar información de gran
+diversidad de artículos, según nuestra propia experiencia y según marcaban algunos
+benchmarks [KaW91]. Las principales características que influyen en la
+planificación son: el period ratio, la multiplicidad de estos y el hiperperiodo. En la
+Tabla 5 se muestra un resumen de estas características para los parámetros de los
+conjuntos de tareas detallados en el Anexo B. El period ratio influye en la máxima
+utilización del procesador alcanzable [LSD89]. Los conjuntos de tareas armónicos
+aumentan la utilización del procesador [LiL73] y hacen que los eventos estén
+sincronizados. Los hiperperiodos largos requieren simulaciones más largas y
+requieren mayor cantidad de memoria para algunos planificadores [LRT92,RtL94]. 
+
+En las tablas del Anexo B se especifican al menos los periodos mínimo y máximo y
+el hiperperiodo. El plazo de las tareas se ha fijado igual a su periodo (D). El resto
+de los periodos deberán estar dentro del rango [Tmin,T] y ser múltiples de los
+factores en que se descompone el hiperperiodo, de forma que el mínimo común
+múltiplo de todos los periodos será justamente el hiperperiodo. Por ejemplo, con
+PCT # 3 se generan periodos utilizando los factores 24, 33max, 53 y 71. Con estos números
+primos se pueden generar 76 periodos en el rango [100,3000].  
+
+Los parámetros de los conjuntos de tareas se han elegido de manera que sean
+similares entre ellos excepto en una de las características, para poder experimentar
+los efectos de esta característica diferenciadora sobre el rendimiento. Los parámetros
+PCT#6 son distintos al resto y se utilizaron para poder comparar con los resultados
+de un artículo concreto ([AnJ00b]).  
+
+El número de tareas periódicas normalmente se fijó entre 8 y 15 tareas por el número
+de procesadores. El factor de utilización de una tarea (U) se genera aleatoriamente
+siguiendo una distribución normal en el rango (0,Umaxi] pero se garantiza que al
+menos una de ellas utilice U. El peor tiempo de cálculo de cada tarea (WCET oCimax)
+se calcula como el producto del periodo por el factor de utilización de la tarea
+Ci=TiU). En todas las simulaciones cada tarea periódica ejecuta siempre hasta su
+WCET. Aunque los planificadores podrían utilizar el eventual tiempo sobrante de las
+tareas periódicas, el objetivo de los experimentos era ver su comportamiento en los
+casos límite. 
+
+Las llegadas de las peticiones aperiódicas fueron generadas siguiendo una
+distribución de Poisson. Normalmente los tiempos intermedios entre llegadas
+elegidos estaban en el mismo rango que los periodos de las tareas periódicas. Sin
+embargo, en algunos experimentos se explicita la utilización de tareas aperiódicas de
+dimensiones fijas, más pequeñas y frecuentes, por ejemplo para una carga del 25% se
+usó  Caper=1 y un tiempo entre llegadas de 4. 
+
+Para un conjunto de tareas se realizaba una simulación en la que se tomaba un valor
+de una métrica concreta. La simulación se repetía, variando la semilla inicial para la 
+i =Ti generación aleatoria de las llegadas de tareas aperiódicas, un mínimo de 5 veces,
+calculando la media aritmética de los resultados. Las simulaciones se repetían hasta
+alcanzar un nivel de confianza del 95% utilizando la prueba estadística T-Student. En
+el caso de no alcanzar el nivel de confianza en 35 simulaciones, se continuaba el
+proceso pero utilizando la prueba de la Normal. Así, se obtenía un valor para la
+métrica en un conjunto de tareas. El proceso se repetía para otros conjuntos de tareas. 
+El número de conjuntos de tareas generados y simulados para obtener cada punto de
+las gráficas de los experimentos fue variable entre 1000 y 100000, dependiendo de la
+métrica utilizada y de los valores obtenidos. El número particular se estableció
+buscando un margen de error del 1%.  Cuando la métrica era la media aritmética de
+los tiempos de respuesta medios se utilizaba la prueba estadística de la Normal con
+un nivel de confianza del 95%. Cuando la métrica era un porcentaje de éxito o un
+porcentaje de aceptación, se utilizaba la distribución Binomial. 
+La longitud de cada simulación se estableció entre 10 y 50 hiperperiodos,
+dependiendo de la parametrización, para poder comprobar bien la planificación de
+las tareas periódicas y para que el número de tareas aperiódicas finalizadas fuera
+suficientemente grande.  
+
+En cada uno de los experimentos se utiliza un PCT del Anexo B y se detalla que
+parámetro se varió. Generalmente se realizaron experimentos variando uno de los
+siguientes parámetros: 
+• el número de procesadores (m)
+• la carga periódica (U)
+• el factor de carga máxima de las tareas periódicas (Uper)
+• la carga aperiódica (U)
+• el tiempo de ejecución requerido por las tareas aperiódicas (Caper)max aper</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>4.2 Metodología de trabajo
+
+Simultáneamente al desarrollo de este trabajo de tesis se puso en marcha una evaluación
+conjunta de sistemas interactivos de recuperación translingue de información
+dentro del marco del CLEF. El calendario de nuestra investigación se ajustó al de la
+competición, para aprovechar las ventajas de disponer de una metodología consensuada
+por la comunidad científica con la que realizar la evaluación comparada de los
+aspectos esenciales del sistema en comparación con otros enfoques.
+La metodología de trabajo empleada fue una metodología de prototipado: se construyeron
+una serie de prototipos con los que comprobar experimentalmente las hipótesis
+iniciales, así como la utilidad que tienen los sintagmas nominales como forma de
+resolver los problemas comentados.
+
+Los pasos que se han seguido para realizar esta investigación han sido los siguientes:
+
+1. Desarrollar un algoritmo de alineación de sintagmas nominales entre dos idiomas
+que utilice sólo la siguiente información lingüística:
+
+    * Un sistema de extracción de sintagmas nominales.
+    * Un diccionario bilingue.
+    * Corpus escrito en ambos idiomas (preferiblemente comparable).
+
+Los requisitos iniciales para este algoritmo son: que tenga la mínima dependencia
+del par de idiomas considerados, por un lado, y que pueda aplicarse a
+cantidades realistas de texto (en el orden del GB), por otro.
+
+2. Desarrollar un algoritmo de creación y traducción de resúmenes basado en los
+resultados producidos por el algoritmo de alineación, y evaluarlo en la tarea de
+selección interactiva de documentos en un idioma desconocido por el
+usuario, comparándolo con un sistema de traducción automática profesional.
+
+3. Desarrollar un sistema interactivo de formulación y refinamiento de la consulta
+basado, igualmente, en sintagmas nominales alineados. Evaluar este sistema en
+un entorno de búsqueda translingue de información, comparándolo con enfoques
+conocidos.
+
+4. Partiendo de los resultados experimentales obtenidos, diseñar e implementar
+un sistema completo de asistencia a la búsqueda de información en idiomas
+desconocidos.
+
+El resto de esta memoria se estructura como sigue:
+
+En el capítulo 5 se describe el desarrollo del algoritmo de alineación de sintagmas, así
+como un análisis de la calidad de las traducciones producidas por el mismo.
+En el capítulo 6 se presenta el algoritmo de construcción y traducción de resúmenes,
+así como los resultados de la evaluación del mismo dentro de la tarea de selección
+documental translingue del iCLEF'2001.
+
+En el capítulo 7 se describe el sistema de formulación y expansión de la consulta,
+evaluado en el marco del iCLEF'2002, así como los resultados de su evaluación.
+En el capítulo 8 se describe el sistema NOODLE, que es un asistente para la búsqueda
+de información en idiomas desconocidos. NOODLE basa su funcionamiento en los
+dos prototipos estudiados en los capítulos 6 y 7 introduciendo algunas variantes sobre
+éstos para trabajar sobre consultas más realistas que las consultas CLEF utilizadas en
+las evaluaciones, que son más extensas de lo normal.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Metodología aplicada 
+
+Para cumplir con los objetivos planteados se procedió a la elaboración de un
+plan de trabajo. Esta tesis doctoral se llevó a cabo en (9) etapas: 
+
+            1.- Revisión bibliográfica y documental: En esta etapa se realizó una extensa
+            búsqueda bibliográfica relacionada con métodos que permitían realizar particiones
+            difusas y sus algoritmos de aprendizaje, con el fin de establecer un marco conceptual
+            y observar las aportaciones realizadas sobre el tema en estudio.  
+
+            2.- Análisis de las diferentes técnicas de aprendizaje de particiones difusas: Esta
+            actividad contempló un estudio de diferentes técnicas de aprendizaje de particiones
+            difusas con el fin discernir la aplicabilidad y funcionalidad de cada una de ellas. 
+
+            3.- Elaboración de una propuesta: En esta etapa se determinaron las posibilidades de
+            aplicación de los algoritmos genéticos al aprendizaje automático de particiones
+            difusas. Asimismo, implicó el diseño y desarrollo de cada una de las alternativas
+            propuestas, y la selección de la más adecuada. Considerando para ello: a) El
+            aprendizaje del número de etiquetas con las funciones de pertenencia uniformes, b) El
+            ajuste de funciones de pertenencia con un número fijo de etiquetas,  y c) El
+            aprendizaje conjunto del número de etiquetas y de la semántica de las mismas. 
+
+            4.- Implementación de las mejores alternativas: Esta actividad comprendió la
+            incorporación de los métodos de aprendizaje automático de particiones difusas
+            seleccionados en el contexto de la metodología  FIR a objeto de generar una
+            herramienta que mejore la habilidad de predicción de FIR. Considerando para ello: a)
+            El aprendizaje del número de etiquetas con las funciones de pertenencia uniformes, b)
+            El ajuste de funciones de pertenencia con un número fijo de etiquetas,  y c) El
+            aprendizaje conjunto del número de etiquetas y de la semántica de las mismas. 
+
+            5.- Aplicación práctica: Este paso consistió en el uso de la herramienta desarrollada
+            sobre un conjunto de benchmarks así como también su aplicación a un problema real
+            complejo con miras a realizar un análisis comparativo de los resultados obtenidos con
+            otros sistemas de modelado. 
+
+            6.- Presentación y discusión de resultados: Su objetivo fue mostrar los resultados de
+            la investigación con el fin de realizar posteriormente su análisis, discusión e
+            interpretación. 
+
+            7.- Elaboración de conclusiones: Esta etapa consistió en presentar las conclusiones
+            que se desprendieron del análisis de los resultados, considerando los aspectos más
+            relevantes de éste y en función de los objetivos de la investigación. 
+
+            8.- Elaboración de recomendaciones: En esta actividad se pretendió mostrar las
+            recomendaciones que puedan surgir del proceso investigativo, con el objeto de
+            sugerir ante cualquier limitación suscitada,  a fin de que otros investigadores
+            interesados en profundizar en el tema o replicar la investigación, pudieran realizar 
+            estudios más completos. Incluyó además,  sugerencias, interrogantes o aspectos de 
+            interés develados por los resultados que pudieran ser ampliados o investigados en
+            profundidad en otros trabajos o extensiones futuras de la tesis. 
+
+            9.- Redacción de la memoria de la tesis: Finalmente, se procedió a la elaboración de
+            la memoria de la tesis doctoral. En la misma se plasmaron los antecedentes del tema,
+            las técnicas utilizadas, los métodos propuestos, los resultados y las conclusiones
+            obtenidas, y las extensiones futuras de la tesis. </Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>El método para la solución de los problemas es similar al usado por Lewis et al. [3], el
+cual consiste en el uso de redes neuronales en un lazo de recompensación más un controlador
+en un lazo de retroalimentación que permite estabilizar el sistema mecánico o electromecánico
+mientras la red neuronal aprende y compensa la dinámica del sistema. La ventaja de este
+método es que la red neuronal no necesita de un conjunto de datos para su entrenamiento
+previo y por consecuencia el desempeño de la red no está delimitado a la calidad y cantidad
+de datos seleccionados para su entrenamiento. La diferencia entre los controladores neuronales
+propuestos y los reportados en la literatura, está en el tipo de controlador usado en el lazo de
+retroalimentación y en el tipo de redes neuronales usadas en el lazo de recompensación para
+formar un controlador adaptativo que tenga un desempeño mejor o comparable respecto a los
+controladores neuronales reportados en la literatura. La estabilidad del sistema es estudiada
+con la teoría de Lyapunov. Además, se usa la teoría de sistemas con señales uniformemente
+acotadas. El procedimiento para alcanzar los objetivos es el siguiente:
+Proponer un algoritmo de control para un sistema en particular.
+Obtener las ecuaciones de lazo cerrado.
+Encontrar las condiciones de estabilidad o acotamiento de soluciones.
+Hacer simulaciones.
+Hacer experimentos.
+Comparar los resultados con otros controladores en la literatura. 
+</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>El proyecto se divide en tres fases: diseño del robot caminante, construcción 
+del prototipo y diseño de estrategias de adaptabilidad al terreno estáticamente estables. Estas etapas son descritas brevemente a continuación.  
+1. Diseño del robot caminante. 
+Esta etapa del proyecto comprende:
+Búsqueda y análisis de información en la literatura especializada y en campo.
+Análisis conceptual de la arquitectura del robot. Se partir   a de una topología
+existente.
+Análisis cinemático mediante la convención de Denavit-Hartenberg. Se opta por llevar a cabo este análisis pues las extremidades se pueden ver como 
+manipuladores seriales independientes.
+2. Construcción del prototipo.  
+Se plantea construir un prototipo a partir de una arquitectura comercial.
+3. Estrategias de adaptabilidad al terreno estáticamente estables.  
+Esta es la etapa central del proyecto de tesis y está dividida como se muestra  
+a continuación:  
+Búsqueda bibliográfica.  
+Análisis y discusión de los criterios de estabilidad estática.  
+Diseño de las estrategias de adaptabilidad. 
+Simulación y validación de las estrategias.
+</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>Inicio
+Estudio de los fenómenos no lineales Raman y Brillouin
+Estudio de las rejillas de periodo largo mecánicas sobre fibras estándar y dopada de Erbio
+Experimentación sobre los fenómenos no lineales y las rejillas
+¿La experimentación corresponde a lo estudiado?
+Estudio de las ecuaciones adecuadas para la realización de la simulación
+Validación de la experimentación empleando el software Matlab
+¿Se cumple la validación?
+Sensor de FO
+Final
+</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+<div class='tablas_corpus'>
+	<table>
+		<Tesis>
+			<tr>
+				<td width='180' id='campos' >Grado_de_Tesis</td>
+				<td width='1000'>
+					<Grado_de_Tesis>Doctorado</Grado_de_Tesis>
+				</td>
+			</tr >
+			<tr>
+				<td width='180' id='campos' >Metodologia</td>
+				<td width='1000'>
+					<Metodologia>El mÃ©todo de segmentaciÃ³n propuesto en esta tesis se basa en el cÃ¡lculo de una funciÃ³n de
+similitud de color (tambiÃ©n propuesta) para cada pÃ­xel de la imagen de color (representado en el modelo de color RGB con 24 bits) para formar lo que llamamos una imagen de similitud de color (ISC), la cual es una imagen de escala de grises. Una imagen en colores suele contener millones de colores, y muchos miles de ellos representan el mismo color percibido de un objeto, pero con variaciones debido a la presencia de ruido aditivo, la falta de definiciÃ³n entre las fronteras de color y regiones, sombras en la escena, la resoluciÃ³n espacial del sistema de visiÃ³n humano, etcÃ©tera. La funciÃ³n de similitud de color propuesta permite la agrupaciÃ³n de los muchos miles de colores, en una sola imagen de salida en tonos de grises [3][5][31][32][34][35].
+La ISC es entonces umbralada automÃ¡ticamente y la salida puede ser utilizada como una
+capa de segmentaciÃ³n, o puede ser modificada posteriormente con operadores morfolÃ³gicos
+para introducir caracterÃ­sticas geomÃ©tricas si Ã©stas son necesarias.
+La generaciÃ³n de una ISC sÃ³lo requiere del cÃ¡lculo de la ecuaciÃ³n (1) (mÃ¡s adelante) para cada pÃ­xel de la imagen de entrada RGB. AsÃ­, la complejidad es lineal con respecto al
+nÃºmero de pÃ­xeles en la imagen de origen y por esa razÃ³n el algoritmo es computacionalmente econÃ³mico.
+En primer lugar, se calcula el centroide de color y la desviaciÃ³n estÃ¡ndar de color de una pequeÃ±a muestra que consiste en unos pocos pÃ­xeles (menos de 10 pÃ­xeles por color) del color que se desea segmentar. El centroide calculado representa el color deseado a ser segmentado mediante la tÃ©cnica propuesta para tal fin. Entonces, la funciÃ³n de similitud de color utiliza la desviaciÃ³n estÃ¡ndar de color calculada a partir de la muestra de pÃ­xeles para adaptar el nivel de dispersiÃ³n del color en las comparaciones [3][5][31][32][34][35].
+El resultado del cÃ¡lculo particular de la funciÃ³n de similitud para cada pÃ­xel y el centroide de color (es decir, la medida de similitud entre el pÃ­xel y el valor representativo del color) genera la ISC. La generaciÃ³n de esta imagen es la base del mÃ©todo propuesto en esta tesis, la cual conserva la informaciÃ³n del color seleccionado de la imagen en colores original. La ISC es una representaciÃ³n discreta en el rango 0-255 de una funciÃ³n continua, cuyos valores estÃ¡n en el rango normalizado [0-1]. La ISC puede ser umbralada con cualquier mÃ©todo de umbralado automÃ¡tico. Para obtener los resultados presentados en esta investigaciÃ³n se utiliza el mÃ©todo de umbralado de Otsu [25][27].
+Para generar una ISC se necesita como entrada: 1) Una imagen en colores representada en el modelo de color RGB de 24 bits (formato de color verdadero) y 2) Una muestra de pÃ­xeles seleccionados arbitrariamente que forman la muestra del color que se desea segmentar. De esta muestra de pÃ­xeles se calculan los indicadores estadÃ­sticos de acuerdo al modelo modificado de color HSI mediante los mÃ©todos propuestos.</Metodologia>
+				</td>
+			</tr >
+		</Tesis>
+	</table>
+</div>
+</Informacion>
+</body>
